@@ -1,0 +1,4035 @@
+{
+    "features": [
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Sunlove Home Help Service",
+                "Y_ADDR": 40277.739,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "534190",
+                "FMEL_UPD_D": 1358261247000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sunlovehome.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "9B587AE3DF55468D",
+                "ADDRESSSTREETNAME": "70 Buangkok View Buangkok Green Medical Park Singapore",
+                "X_ADDR": 33777.5472,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 74
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88523413054065,
+                    1.3805315110499974
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (Telok Blangah Crescent)",
+                "Y_ADDR": 29013.4914,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "90003",
+                "FMEL_UPD_D": 1358261249000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "F8344399D8F28C70",
+                "ADDRESSSTREETNAME": "Blk 3 Telok Blangah Crescent #01-504 Singapore",
+                "X_ADDR": 26241.7055,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 75
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81751964353509,
+                    1.2786621668499845
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "TOUCH Community Services TOUCH Home Care (Toa Payoh)",
+                "Y_ADDR": 34693.5311,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310173",
+                "FMEL_UPD_D": 1358261250000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.touch.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "9EC705372DF74CE2",
+                "ADDRESSSTREETNAME": "Blk 173 Lorong 1 Toa Payoh #01-1264 Singapore",
+                "X_ADDR": 29025.4605,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 76
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84253291331785,
+                    1.3300304766282014
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tsao Foundation-Hua Mei Care Management Service",
+                "Y_ADDR": 29836.039,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "168730",
+                "FMEL_UPD_D": 1358261250000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.tsaofoundation.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "936B53969DB7AE0F",
+                "ADDRESSSTREETNAME": "298 Tiong Bahru Road #15-01/06 Central Plaza Singapore",
+                "X_ADDR": 27334.871,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 77
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8273421283575,
+                    1.2861010398985695
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Caregiving Welfare Association CWA Centre for Seniors",
+                "Y_ADDR": 32701.0348,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "270003",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.cwa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "46703875E66B6777",
+                "ADDRESSSTREETNAME": "3 Ghim Moh Road #01-294 Singapore",
+                "X_ADDR": 22865.778,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 78
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78718507030601,
+                    1.3120106324921637
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Foo Hai Buddhist Cultural & Welfare Association\nMarine Parade - Foo Hai Elderly Lodge",
+                "Y_ADDR": 31936.6071,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "440004",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.foohai.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "9DBAF4C66AF41EFE",
+                "ADDRESSSTREETNAME": "Blk 4 Marine Terrace #01-318 Singapore",
+                "X_ADDR": 37394.635500000004,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 79
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91773374781076,
+                    1.3050964211669809
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampung Senang Charity and Education Foundation NorthEast Kampung Senang Activity Centre",
+                "Y_ADDR": 37027.4318,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "520840",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kg-senang.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "7ADCE9D86384A6AA",
+                "ADDRESSSTREETNAME": "840 Tampines Street 82 #01-111 Singapore",
+                "X_ADDR": 39385.386,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 80
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9356234419633,
+                    1.3511352955861
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Taman Jurong)",
+                "Y_ADDR": 35744.9954,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "610349",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "5B5737D111E91A70",
+                "ADDRESSSTREETNAME": "Blk 349 Corporation Drive #01-502 Singapore",
+                "X_ADDR": 15296.600699999999,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 81
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71917109147537,
+                    1.3395368873784088
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Jurong Central)",
+                "Y_ADDR": 37276.4694,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "640402",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DB464C8A23FFE739",
+                "ADDRESSSTREETNAME": "Blk 402 Jurong West Street 42 #01-525 Singapore",
+                "X_ADDR": 15659.1001,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 82
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72242773094948,
+                    1.3533871192959237
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Marsiling)",
+                "Y_ADDR": 46187.3205,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "730172",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C2C1896D080BDB2C",
+                "ADDRESSSTREETNAME": "Blk 172 Woodlands Street 13 #01-303 Singapore",
+                "X_ADDR": 21787.4205,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 83
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77749267077188,
+                    1.433975524198669
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Punggol)",
+                "Y_ADDR": 40059.28,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "530571",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "44F78B9850525267",
+                "ADDRESSSTREETNAME": "Blk 571 Hougang Street 51 #01-119 Singapore",
+                "X_ADDR": 34094.9851,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 84
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8880864988278,
+                    1.378555783471974
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd  Silver Circle (Pasir Ris)",
+                "Y_ADDR": 38857.7892,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "510112",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "EE1F438AFABFBD5A",
+                "ADDRESSSTREETNAME": "Blk 112 Pasir Ris Street 11 #01-657 Singapore",
+                "X_ADDR": 41633.4278,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 85
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95582431876366,
+                    1.367687417247489
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Fengshan)",
+                "Y_ADDR": 34971.7739,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460091",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "15BB6F4D4ABC6843",
+                "ADDRESSSTREETNAME": "Blk 90 91 Bedok North Street 4 #01-1527 Singapore",
+                "X_ADDR": 39913.9881,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 86
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94037245114292,
+                    1.3325444821038779
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd Silver Circle (Dakota Crescent)",
+                "Y_ADDR": 32218.0714,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "390062",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E693AD7781B76685",
+                "ADDRESSSTREETNAME": "Blk 62 Dakota Crescent #01-315 Singapore",
+                "X_ADDR": 34204.341,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 87
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88906753603686,
+                    1.3076426884089596
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "PAP Community Foundation\nPCF Tampines East 3-in-1 Family Centre (Aged Care)",
+                "Y_ADDR": 37112.3158,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "520209",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pcf.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "7583EB5E2DD70236",
+                "ADDRESSSTREETNAME": "Blk 209 Tampines Street 21 #01-1325 Singapore",
+                "X_ADDR": 41301.4009,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 88
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95284005646438,
+                    1.3519021637782451
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Ayer Rajah)",
+                "Y_ADDR": 33728.4661,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "609342",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "FA9D2334B1DC401A",
+                "ADDRESSSTREETNAME": "150A Pandan Gardens Singapore",
+                "X_ADDR": 18464.3639,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 89
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7476359046104,
+                    1.321301300109008
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Bukit Timah)",
+                "Y_ADDR": 33616.5205,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "120310",
+                "FMEL_UPD_D": 1353584450000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "39A1441A816085DA",
+                "ADDRESSSTREETNAME": "Blk 310 Clementi Avenue 4 #01-263 Singapore",
+                "X_ADDR": 20502.374,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 90
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76594850910381,
+                    1.3202894712311546
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Community Services Society CARElderly Seniors Activity Centre",
+                "Y_ADDR": 34600.3039,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "370035",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecom.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "69BF4218ADACD009",
+                "ADDRESSSTREETNAME": "Blk 35 Circuit Road #01-432 Singapore",
+                "X_ADDR": 33863.6984,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 1
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88600715297216,
+                    1.3291868148235797
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Corner Seniors Activity Centre (TP149)",
+                "Y_ADDR": 35109.0855,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310149",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecorner.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "30511C1DAA50084B",
+                "ADDRESSSTREETNAME": "Blk 149 Lorong 1 Toa Payoh #01-963",
+                "X_ADDR": 29175.976000000002,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 2
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84388539586398,
+                    1.3337885978829647
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Corner Seniors Activity Centre (TP170)",
+                "Y_ADDR": 34837.0204,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310170",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecorner.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C3F0A63F097AB98E",
+                "ADDRESSSTREETNAME": "Blk 170 Lorong 1 Toa Payoh #01-1102 Singapore",
+                "X_ADDR": 29040.8134,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 3
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84267087256174,
+                    1.3313281415898666
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Corner Seniors Activity Centre (TP5)",
+                "Y_ADDR": 35647.6195,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310005",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecorner.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "680E8D4C2AE9E7DA",
+                "ADDRESSSTREETNAME": "Blk 5 Lorong 7 Toa Payoh #01-131 Singapore",
+                "X_ADDR": 30501.647,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 4
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8557973506579,
+                    1.3386588276271303
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Corner Seniors Activity Centre (TP62B)",
+                "Y_ADDR": 35335.8916,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "312062",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecorner.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "41C6296AFD737CB8",
+                "ADDRESSSTREETNAME": "Blk 62B Lorong 4 Toa Payoh #02-121 Singapore",
+                "X_ADDR": 29998.232,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 5
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85127385027245,
+                    1.3358397087071114
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Chong Hua Tong Seniors Activity Centre",
+                "Y_ADDR": 33014.8859,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "210047",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "5B447DA0DC73D52F",
+                "ADDRESSSTREETNAME": "Blk 47 Owen Road #01-251 Singapore",
+                "X_ADDR": 29869.1434,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 6
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8501137723919,
+                    1.3148493635115857
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Community Care Network Seniors Activity Centre @ Teck Ghee 420",
+                "Y_ADDR": 38560.4168,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "560420",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.centralsingaporecdc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "D0119483ED4BEE0C",
+                "ADDRESSSTREETNAME": "Blk 420 Ang Mo Kio Avenue 10 #01-1143 Singapore",
+                "X_ADDR": 30202.5055,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 7
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85310960144736,
+                    1.365001151826306
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "COMNET @ Sin Ming Seniors Activity Centre",
+                "Y_ADDR": 37543.1342,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "570026",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "AC18778B6AD4E54A",
+                "ADDRESSSTREETNAME": "Blk 26 Sin Ming Industrial Sector A #01-158 Singapore",
+                "X_ADDR": 28804.5902,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 8
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84054834611946,
+                    1.3558012815768978
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Fei Yue Seniors Activity Centre (Holland Close)",
+                "Y_ADDR": 32391.5567,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "271001",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.fycs.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "38884F7BDB1CC6B2",
+                "ADDRESSSTREETNAME": "Blk 1 Holland Close #02-115 Singapore",
+                "X_ADDR": 23928.603600000002,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 9
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7967351192839,
+                    1.3092119812156862
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Fei Yue Seniors Activity Centre (Teck Whye)",
+                "Y_ADDR": 40222.5434,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "680009",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.fycs.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "31775A86CEE385A9",
+                "ADDRESSSTREETNAME": "Blk 9 Teck Whye Lane #01-268 Singapore",
+                "X_ADDR": 19188.9726,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 10
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7541449871634,
+                    1.3800315853592218
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Goodlife!",
+                "Y_ADDR": 31912.814,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "440015",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "4395F5AB5E4D979E",
+                "ADDRESSSTREETNAME": "Blk 15 Marine Terrace #01-18 Singapore",
+                "X_ADDR": 36972.4286,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 11
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91394001735415,
+                    1.3048813711003455
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Harmony Activity Centre",
+                "Y_ADDR": 33681.1492,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "380098",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.geha.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "94E0E8A4E5A60D1F",
+                "ADDRESSSTREETNAME": "Blk 98 Aljunied Crescent #01-411 Singapore",
+                "X_ADDR": 33828.7149,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 12
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88569263243059,
+                    1.3208743151250066
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Kapor Family Service Centre Kampong Kapor Elderly Centre",
+                "Y_ADDR": 32239.15,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "200002",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kkfsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E1B8636FAEA295AF",
+                "ADDRESSSTREETNAME": "Blk 2 Kitchener Road #03-89 Singapore",
+                "X_ADDR": 30878.0619,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 13
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85917933992924,
+                    1.3078338036362265
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kembangan Chai Chee Seniors Activity Centre",
+                "Y_ADDR": 33900.2131,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460022",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E85DEC6D7B5F1436",
+                "ADDRESSSTREETNAME": "Blk 22 Chai Chee Road #01-538 Singapore",
+                "X_ADDR": 39076.6394,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 14
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93284802342835,
+                    1.3228539985974515
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "King George's Avenue Seniors Activity Centre",
+                "Y_ADDR": 32230.379,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "200811",
+                "FMEL_UPD_D": 1353584456000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E3EC61FCFB6CF6D7",
+                "ADDRESSSTREETNAME": "Blk 811 French Road #01-112 Singapore",
+                "X_ADDR": 31113.0795,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 15
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86129108427083,
+                    1.3077544590368313
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kreta Ayer Seniors Activity Centre (Chin Swee)",
+                "Y_ADDR": 29981.2324,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "160051",
+                "FMEL_UPD_D": 1353584457000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kasac.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "CDFC33AF1980C366",
+                "ADDRESSSTREETNAME": "Blk 51 Chin Swee Road #04-83 Singapore",
+                "X_ADDR": 28967.8132,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 16
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84201477456003,
+                    1.2874141102449062
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kreta Ayer Seniors Activity Centre (Jalan Kukoh)",
+                "Y_ADDR": 29977.5996,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "162008",
+                "FMEL_UPD_D": 1353584457000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kasac.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C7C7027ADCA8753B",
+                "ADDRESSSTREETNAME": "Blk 8 Jalan Kukoh #04-35 Singapore",
+                "X_ADDR": 28677.8266,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 17
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83940912631093,
+                    1.2873812640653655
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lions Befrienders Seniors Activity Centre (Bendemeer)",
+                "Y_ADDR": 33564.1458,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "330032",
+                "FMEL_UPD_D": 1353584457000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lionsbefrienders.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "3B93B2A96AD801F6",
+                "ADDRESSSTREETNAME": "Blk 32 Bendemeer Road #01-799 Singapore",
+                "X_ADDR": 31345.0031,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 18
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86337517239667,
+                    1.3198165502044126
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lions Befrienders Seniors Activity Centre (Ghim Moh)",
+                "Y_ADDR": 32496.1703,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "270018",
+                "FMEL_UPD_D": 1353584457000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lionsbefrienders.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "31D63927700AF2E3",
+                "ADDRESSSTREETNAME": "Blk 18 Ghim Moh Road #01-115 Singapore",
+                "X_ADDR": 22854.4689,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 19
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78708348650174,
+                    1.3101579098485205
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lions Befrienders Seniors Activity Centre (Mei Ling)",
+                "Y_ADDR": 30809.4452,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "141150",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lionsbefrienders.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "69B79D862B435BD6",
+                "ADDRESSSTREETNAME": "Blk 150 Mei Ling Street #01-53 Singapore",
+                "X_ADDR": 24703.6818,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 20
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80369973703044,
+                    1.2949040163971055
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (Kaki Bukit)",
+                "Y_ADDR": 35098.2772,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "462509",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "223267E4DEC6E995",
+                "ADDRESSSTREETNAME": "Blk 509B Bedok North Street 3 #02-157 Singapore",
+                "X_ADDR": 38804.4883,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 21
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93040302660923,
+                    1.3336889470884965
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (Toa Payoh)",
+                "Y_ADDR": 35046.7085,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310031",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "6271ED8BF3222EB4",
+                "ADDRESSSTREETNAME": "Blk 31 Lorong 5 Toa Payoh #01-663 Singapore",
+                "X_ADDR": 30359.8962,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 22
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85452358888902,
+                    1.3332244134047404
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "PEACE - Connect Seniors Activity Centre",
+                "Y_ADDR": 31880.057,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "190008",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pcnl.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "65FEFA3D3ED0BF21",
+                "ADDRESSSTREETNAME": "Blk 8 North Bridge Road #01-4102 Singapore",
+                "X_ADDR": 31415.0086,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 23
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86400402267655,
+                    1.304586238901388
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thong Kheng Welfare Services Society Thong Kheng Seniors Activity Centre (Queenstown)",
+                "Y_ADDR": 29951.0297,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "150003",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thongkheng.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "F4A095F2373F13C5",
+                "ADDRESSSTREETNAME": "Blk 3 Jalan Bukit Merah #01-5070 Singapore",
+                "X_ADDR": 25070.4496,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 24
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80699538460274,
+                    1.2871408465439673
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thong Kheng Welfare Services Society Thong Kheng Seniors Activity Centre (Tanglin - Cairnhill)",
+                "Y_ADDR": 29618.2785,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "151123",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thongkheng.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C4165F3BAB00BBE4",
+                "ADDRESSSTREETNAME": "Blk 123 Bukit Merah View #01-282 Singapore",
+                "X_ADDR": 26874.2046,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 25
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82320286460396,
+                    1.2841316781304737
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Adventist Home For The Elders",
+                "Y_ADDR": 34712.3687,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310195",
+                "FMEL_UPD_D": 1358261239000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.adventisthome.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "20A33BF713F5FB52",
+                "ADDRESSSTREETNAME": "Blk 195 Kim Keat Avenue #01-294 Singapore",
+                "X_ADDR": 30832.9682,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 26
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85877437956955,
+                    1.3302007224958858
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Comfort Keepers",
+                "Y_ADDR": 29204.076800000003,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "159557",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.comfortkeepers.com.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "B46FC9226EBA638D",
+                "ADDRESSSTREETNAME": "Blk 221 Henderson Road #07-18 Henderson Building Singapore",
+                "X_ADDR": 26593.0734,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 27
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82067680834659,
+                    1.2803857719802263
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Handicaps Welfare Association (Head Office)",
+                "Y_ADDR": 33825.7929,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "327725",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.hwa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0893EE8A4172BAA2",
+                "ADDRESSSTREETNAME": "16 Whampoa Drive Singapore",
+                "X_ADDR": 30292.2024,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 28
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85391523119831,
+                    1.3221828908144768
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Handicaps Welfare Association (Jurong Branch)",
+                "Y_ADDR": 35735.6776,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "648886",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.hwa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "92BA1ED477D89238",
+                "ADDRESSSTREETNAME": "1Jurong West Central 2 #04-03 Jurong Point Shopping Centre Singapore",
+                "X_ADDR": 13907.0305,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 29
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70668501267231,
+                    1.3394520042525762
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Loving Heart Multi-Service Centre",
+                "Y_ADDR": 35650.5902,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "600210",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lovingheartjc.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "421751DD69718D34",
+                "ADDRESSSTREETNAME": "Blk 210 Jurong East Street 21 #01-389 Singapore",
+                "X_ADDR": 17483.8743,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 30
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73882503949932,
+                    1.338683964389518
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Home Help Service East",
+                "Y_ADDR": 34466.1088,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "469030",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "A7015B48D12FF921",
+                "ADDRESSSTREETNAME": "2 Chai Chee Lane Singapore",
+                "X_ADDR": 37563.3436,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 31
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.919250449568,
+                    1.3279722645606005
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Home Help Service West",
+                "Y_ADDR": 28240.6453,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "108931",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "6437E5A7A8CE8FCF",
+                "ADDRESSSTREETNAME": "301 Henderson Road Singapore",
+                "X_ADDR": 25640.160499999998,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 32
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81211459345307,
+                    1.271672777721606
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Home Help Service West",
+                "Y_ADDR": 30690.2795,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "140152",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "7C2E79D66CF9905F",
+                "ADDRESSSTREETNAME": "Blk 152 Mei Ling Street #01-08 Singapore",
+                "X_ADDR": 24583.0586,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 33
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80261589946754,
+                    1.2938263108737955
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Sunshine Welfare Action Mission (SWAMI) Home",
+                "Y_ADDR": 46856.3538,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "757717",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.swami.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "146247F6555B00E3",
+                "ADDRESSSTREETNAME": "5 Sembawang Walk Singapore",
+                "X_ADDR": 26967.6284,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 34
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8240417171986,
+                    1.440026684319153
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tembusu Home Help Service",
+                "Y_ADDR": 38248.7568,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "659205",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.4s.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "5366C346098E98AA",
+                "ADDRESSSTREETNAME": "11 Bukit Batok West Ave 2 Singapore",
+                "X_ADDR": 18032.5103,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 35
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74375399043957,
+                    1.3621810163340657
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thong Teck Home for Senior Citizens",
+                "Y_ADDR": 33437.2614,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "389759",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thongteckhome.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "573FB2247161FAC8",
+                "ADDRESSSTREETNAME": "91 Geylang East Avenue 2 Singapore",
+                "X_ADDR": 34108.9632,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 36
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88821076094783,
+                    1.3186686263977263
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "TOUCH Community Services TOUCH Home Care (Jurong West)",
+                "Y_ADDR": 36978.8779,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "640457",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.touch.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "B02C9491E85D5575",
+                "ADDRESSSTREETNAME": "Blk 457 Jurong West Street 41 #01-762 Singapore",
+                "X_ADDR": 15489.8847,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72090734853172,
+                    1.350695741517961
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Willing Hearts",
+                "Y_ADDR": 34340.8446,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "329020",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.willinghearts.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "624708734AB87ED7",
+                "ADDRESSSTREETNAME": "82 Jalan Taman Singapore",
+                "X_ADDR": 31501.5932,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 38
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8647823042492,
+                    1.326840720892231
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Concern & Care Bukit Batok Central Neighbourhood Link",
+                "Y_ADDR": 36753.5285,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "650228",
+                "FMEL_UPD_D": 1353584453000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.concernandcare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "003070B4B6A8EDCF",
+                "ADDRESSSTREETNAME": "Blk 228 Bukit Batok Central #01-45 Singapore",
+                "X_ADDR": 19149.437100000003,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 39
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75379076299177,
+                    1.3486590705627326
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Fei Yue Neighbourhood Link (Bukit Batok)",
+                "Y_ADDR": 36508.539000000004,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "650183",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.fycs.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "800798CC552AB420",
+                "ADDRESSSTREETNAME": "Blk 183 Bukit Batok West Avenue 8 #01-101 Singapore",
+                "X_ADDR": 17995.4538,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 40
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74342159314479,
+                    1.3464431121228984
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Friends @ St Hilda's Link",
+                "Y_ADDR": 31598.8509,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "431010",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sthildascsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C427A0F9E8C976E1",
+                "ADDRESSSTREETNAME": "Blk 10 Jalan Batu #01-06 Singapore",
+                "X_ADDR": 33516.5414,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 41
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88288722053905,
+                    1.3020428089051501
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Joy Link",
+                "Y_ADDR": 38428.457500000004,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "530019",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.jiaying.org/joylink.html",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "B6DAA16CBA6D4C9D",
+                "ADDRESSSTREETNAME": "Blk 19 Hougang Avenue 3 #01-187 Singapore",
+                "X_ADDR": 34510.1831,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 42
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89181699967021,
+                    1.3638071258289353
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Presbyterian Community Services Evergreen Circle",
+                "Y_ADDR": 36885.7793,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "521827",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pcs.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DE7F33923B5721B6",
+                "ADDRESSSTREETNAME": "Blk 827A Tampines Street 81 #02-350 Singapore",
+                "X_ADDR": 39067.957,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 43
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93277109249,
+                    1.349854361862802
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bizlink Centre Singapore Ltd\nWork Therapy Programme",
+                "Y_ADDR": 34683.4968,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "469028",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.bizlink.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "90B37B788CF3E4BC",
+                "ADDRESSSTREETNAME": "Blk 512 Chai Chee Lane #01-09 Bedok Industrial Park Estate Singapore",
+                "X_ADDR": 37381.7938,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 44
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91761919410149,
+                    1.3299382990361281
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Singapore Disability Sports Council",
+                "Y_ADDR": 31844.4192,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "397799",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sdsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0F9C3C0BAD7FE27E",
+                "ADDRESSSTREETNAME": "230 Stadium Boulevard Singapore",
+                "X_ADDR": 33447.7193,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 45
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8822688664821,
+                    1.3042636534614211
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Econ Medicare Centre (Braddell)",
+                "Y_ADDR": 36189.4078,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "359905",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.econhealthcare.com",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "41324868AD8B242D",
+                "ADDRESSSTREETNAME": "58 Braddell Road Singapore",
+                "X_ADDR": 31901.9074,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 46
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86837958294143,
+                    1.3435584183894416
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Soo's Nursing Home Pte Ltd",
+                "Y_ADDR": 34573.974799999996,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "276487",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.soosnursinghome.com",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "526DC3E86C00C7BD",
+                "ADDRESSSTREETNAME": "45 Sixth Avenue Singapore",
+                "X_ADDR": 23723.7443,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79489405710125,
+                    1.3289489680576347
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Presbyterian Community Services Sarah Seniors Activity Centre",
+                "Y_ADDR": 29231.3103,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "160105",
+                "FMEL_UPD_D": 1353584454000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pcs.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "993CC3A2D237C0E2",
+                "ADDRESSSTREETNAME": "Blk 105 Jalan Bukit Merah",
+                "X_ADDR": 27065.2418,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 48
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82491942059244,
+                    1.2806320797486028
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Christian Outreach to the Handicapped\nEmmanuel Activity Centre @ Tampines",
+                "Y_ADDR": 37986.4482,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "520414",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://coh.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "3089DDA41DEA9C98",
+                "ADDRESSSTREETNAME": "Blk 414 Tampines Street 41 #01-301 Singapore",
+                "X_ADDR": 40570.6404,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 49
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9462740876338,
+                    1.3598078067661008
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Christian Outreach to the Handicapped\nEmmanuel Activity Centre @ Toa Payoh",
+                "Y_ADDR": 34809.3944,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310171",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://coh.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "8EFC7FA98BF98FD7",
+                "ADDRESSSTREETNAME": "Blk 171 Lorong 1 Toa Payoh #01-1144 Singapore",
+                "X_ADDR": 29060.026299999998,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 50
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84284351120907,
+                    1.331078301171636
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Asian Women's Welfare Association (AWWA) AWWA Seniors Activity Centre",
+                "Y_ADDR": 39166.4342,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "560123",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.awwa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "ADD603A41EA5DADD",
+                "ADDRESSSTREETNAME": "Blk 123 Ang Mo Kio Avenue 6 #01-4011 Singapore",
+                "X_ADDR": 29278.3717,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 51
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84480565105021,
+                    1.37048181013775
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bedok Radiance Seniors Activity Centre",
+                "Y_ADDR": 33706.8345,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460012",
+                "FMEL_UPD_D": 1353584455000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.bedoksac.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "41C81031A9602C5E",
+                "ADDRESSSTREETNAME": "Blk 12 Bedok South Avenue 2 #01-610 Singapore",
+                "X_ADDR": 39528.0784,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 52
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93690436306659,
+                    1.3211049867478728
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Acitivity Centre @ Henderson (Satellite 93)",
+                "Y_ADDR": 29927.2107,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "150093",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "ADFCF4B4120B44A7",
+                "ADDRESSSTREETNAME": "Blk 93 Henderson Road #01-210 Singapore",
+                "X_ADDR": 26564.360099999998,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 53
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82041877469536,
+                    1.2869255398311001
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (Boon Lay)",
+                "Y_ADDR": 36452.6172,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "640209",
+                "FMEL_UPD_D": 1353584458000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "277D2AA6149C4843",
+                "ADDRESSSTREETNAME": "Blk 209 Boon Lay Place #01-239 Singapore",
+                "X_ADDR": 14818.0877,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 54
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71487107063759,
+                    1.3459361485265862
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (Bukit Merah View)",
+                "Y_ADDR": 29609.9715,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "150118",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "15E4791D27EEB691",
+                "ADDRESSSTREETNAME": "Blk 118 Bukit Merah View #02-101 Singapore",
+                "X_ADDR": 26636.4801,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 55
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82106681571778,
+                    1.284056542217391
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwana Moral Charities (THKMC) THK Chong Pang Social Service Hub",
+                "Y_ADDR": 46138.712,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "760126",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DE32E916CF8500A1",
+                "ADDRESSSTREETNAME": "Blk 126 Yishun St 11 #01-431 Singapore",
+                "X_ADDR": 27647.1601,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 56
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83014797885774,
+                    1.4335366096287112
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "TOUCH Community Services TOUCH Seniors Activity Centre",
+                "Y_ADDR": 33839.9332,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "330061",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.touch.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "45A1BFBD07DEE1F6",
+                "ADDRESSSTREETNAME": "Blk 61 Geylang Bahru #01-3293 Singapore",
+                "X_ADDR": 32000.2607,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 57
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86926303798228,
+                    1.32231059488577
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Wesley Seniors Activity Centre",
+                "Y_ADDR": 32060.5501,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "200025",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.mws.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "A86BA292B26A06E6",
+                "ADDRESSSTREETNAME": "Blk 25 Jalan Berseh #01-142 Singapore",
+                "X_ADDR": 30773.6149,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 58
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85824081789738,
+                    1.3062186187956706
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Abdullah Shooker Jewish Welfare Home",
+                "Y_ADDR": 31680.8417,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "228080",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.singaporejews.com",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "7398C9479C0FF7D8",
+                "ADDRESSSTREETNAME": "81 Wilkie Road Singapore",
+                "X_ADDR": 29535.391300000003,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 59
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84711477617026,
+                    1.3027847560811927
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Asian Women's Welfare Association (AWWA) AWWA Community Home for Senior Citizens",
+                "Y_ADDR": 39166.4342,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "560123",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.awwa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "ADD603A44AE5A695",
+                "ADDRESSSTREETNAME": "Blk 123 Ang Mo Kio Avenue 6 #02-4035 Singapore",
+                "X_ADDR": 29278.3717,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 60
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84480565105021,
+                    1.37048181013775
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bo Tien Welfare Services Society Bo Tien Home for the Aged",
+                "Y_ADDR": 34843.5757,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "619708",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.botien.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "A18F2A5AFA58EBB5",
+                "ADDRESSSTREETNAME": "No 6 Fourth Chin Bee Road Singapore",
+                "X_ADDR": 15274.8734,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 61
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71897623688697,
+                    1.3313847753070323
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Geylang East Home For The Aged",
+                "Y_ADDR": 33727.8582,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "380097",
+                "FMEL_UPD_D": 1353584459000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.geha.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "D55EA9A67AF68630",
+                "ADDRESSSTREETNAME": "Blk 97 Aljunied Crescent #01-439 Singapore",
+                "X_ADDR": 33825.9693,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 62
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88566797152191,
+                    1.3212967342505089
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kheng Chiu Loke Tin Kee Home",
+                "Y_ADDR": 35985.918,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "529861",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kchl.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "2828C72D1DC07DE6",
+                "ADDRESSSTREETNAME": "No 70 Tampines Avenue 4 Kheng Chiu Happy Lodge Singapore",
+                "X_ADDR": 41884.455,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 63
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95807863919048,
+                    1.3417151824383136
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "PERTAPIS Senior Citizens Fellowship Home",
+                "Y_ADDR": 35991.1842,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310222",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pertapis.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "A2B3522636E162DF",
+                "ADDRESSSTREETNAME": "Blk 222 Lorong 8 Toa Payoh #01-693/707/711 Singapore",
+                "X_ADDR": 30528.7766,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 64
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85604115378769,
+                    1.341765902334867
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Rochor Kongsi for the Aged",
+                "Y_ADDR": 31673.6195,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "181003",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://yenyenlee.tripod.com",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "4BEE1ADD400C467F",
+                "ADDRESSSTREETNAME": "Blk 3 Rochor Road #04-626 Rochor Centre Singapore",
+                "X_ADDR": 30437.0483,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 65
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85521657900202,
+                    1.302719383351611
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Singapore Amalgamated Services Cooperative Organisation Evergreen Place - Home (Hong San)",
+                "Y_ADDR": 40013.3027,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "688246",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sasco.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "4808E2532A5A61D0",
+                "ADDRESSSTREETNAME": "30 Hong San Terrace Singapore",
+                "X_ADDR": 18228.9943,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 66
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74551894864078,
+                    1.3781389857637127
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Singapore Baptist Convention Golden Age Home",
+                "Y_ADDR": 33625.2233,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "330064",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.baptistconvention.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "5A3884C7288C9B20",
+                "ADDRESSSTREETNAME": "Blk 64 Kallang Bahru #01-389/393 Singapore",
+                "X_ADDR": 31897.6272,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 67
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86834079551572,
+                    1.3203688471742199
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) Indus Moral Care",
+                "Y_ADDR": 30384.6449,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "161079",
+                "FMEL_UPD_D": 1355915857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "98110EAB4BE6D85A",
+                "ADDRESSSTREETNAME": "Blk 79 Indus Road #01-451 Singapore",
+                "X_ADDR": 27485.2566,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 68
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82869339523342,
+                    1.2910624427324853
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Andrew's Cathedral Home for the Aged",
+                "Y_ADDR": 33492.6171,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "120341",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.livingstreams.org.sg/sac/homeaged",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E1B31B0819A72E01",
+                "ADDRESSSTREETNAME": "Blk 341 Clementi Avenue 5 #01-148 Singapore",
+                "X_ADDR": 20847.9811,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 69
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76905399525425,
+                    1.319169016125532
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St John's Home for Elderly Persons",
+                "Y_ADDR": 35029.0804,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "347601",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.stjohneldershome.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "8C2A78E6DA238D89",
+                "ADDRESSSTREETNAME": "69 Wan Tho Avenue Singapore",
+                "X_ADDR": 32483.5845,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 70
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87360613228557,
+                    1.3330647514721286
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Vincent Home",
+                "Y_ADDR": 31218.6162,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "180263",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.catholicwelfare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "7FBAD187F184E701",
+                "ADDRESSSTREETNAME": "Blk 263 Waterloo Street #05-01 Singapore",
+                "X_ADDR": 30109.0403,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 71
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8522692449368,
+                    1.2986045188304123
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Zion Home for the Aged",
+                "Y_ADDR": 34356.3785,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460419",
+                "FMEL_UPD_D": 1353584460000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.zionhomeaged.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "95ADEBECF65E072A",
+                "ADDRESSSTREETNAME": "Blk 419 Bedok North Street 1 #01-200 Singapore",
+                "X_ADDR": 38551.6354,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 72
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92813074701357,
+                    1.3269795772754287
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Telok Blangah)",
+                "Y_ADDR": 28529.5921,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "90033",
+                "FMEL_UPD_D": 1358261247000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DED4D96BCAD6687A",
+                "ADDRESSSTREETNAME": "Blk 33 Telok Blangah Way #01-1038 Singapore",
+                "X_ADDR": 26778.5824,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 73
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82234370332728,
+                    1.2742859756081277
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Henderson Seniors Activity Centre",
+                "Y_ADDR": 29638.117700000003,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "151117",
+                "FMEL_UPD_D": 1358261242000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C5C5E30C7BDE3399",
+                "ADDRESSSTREETNAME": "Blk 117 Bukit Merah View #01-205 Singapore",
+                "X_ADDR": 26723.2424,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 109
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82184640892342,
+                    1.284311091119336
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Joy Centre",
+                "Y_ADDR": 45729.3822,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "762701",
+                "FMEL_UPD_D": 1358261242000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.agcss.org.sg/old/joycentre.html",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "F3D9C2F3C3C868A7",
+                "ADDRESSSTREETNAME": "Blk 701B Yishun Avenue 5 #02-612 Golden Palms Singapore",
+                "X_ADDR": 27339.3985,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 110
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82738245825202,
+                    1.4298347726261889
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kreta Ayer Seniors Activity Centre (Banda)",
+                "Y_ADDR": 29291.4156,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "50005",
+                "FMEL_UPD_D": 1358261243000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kasac.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "3C4E09C4CA214802",
+                "ADDRESSSTREETNAME": "Blk 5 Banda Street #03-68 Singapore",
+                "X_ADDR": 29123.1645,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 111
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84341064368965,
+                    1.2811756449620257
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lions Befrienders Seniors Activity Centre (Ang Mo Kio)",
+                "Y_ADDR": 38622.3816,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "560318",
+                "FMEL_UPD_D": 1358261243000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lionsbefrienders.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "771FE18596EFC895",
+                "ADDRESSSTREETNAME": "Blk 318 Ang Mo Kio Avenue 1 #01-1453 Singapore",
+                "X_ADDR": 29594.7051,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 112
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84764810166358,
+                    1.3655615774023315
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd\nMay Wong Social Day Care Centre for the Elderly",
+                "Y_ADDR": 29638.117700000003,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "151117",
+                "FMEL_UPD_D": 1358261244000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C5C5E30CBE560664",
+                "ADDRESSSTREETNAME": "Blk 117 Bukit Merah View #01-205 Singapore",
+                "X_ADDR": 26723.2424,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 113
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82184640892342,
+                    1.284311091119336
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Non-Medical Home Care",
+                "Y_ADDR": 36977.546,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "579837",
+                "FMEL_UPD_D": 1358261244000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DE187DD4AC6CBF20",
+                "ADDRESSSTREETNAME": "9 Bishan Place #10-02 Junction 8 Office Tower Singapore",
+                "X_ADDR": 29739.569499999998,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 114
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84894971150572,
+                    1.3506862626019103
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Presbyterian Community Services Dorcas Home Care Services",
+                "Y_ADDR": 29231.3103,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "160105",
+                "FMEL_UPD_D": 1358261245000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.pcs.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "993CC3A2B4D57029",
+                "ADDRESSSTREETNAME": "Blk 105 Jalan Bukit Merah #02-1912 Singapore",
+                "X_ADDR": 27065.2418,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 115
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82491942059244,
+                    1.2806320797486028
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Singapore Buddhist Welfare Services Happy Villa (Females)",
+                "Y_ADDR": 28671.7789,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "82001",
+                "FMEL_UPD_D": 1358261245000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://web.singnet.com.sg/~alankhoo/SBWS.htm",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "310127B558554C87",
+                "ADDRESSSTREETNAME": "Blk 1 Tanjong Pagar Road #03-50 Tanjong Pagar Plaza Singapore",
+                "X_ADDR": 29042.435400000002,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 116
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84268524235483,
+                    1.2755718706295938
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Jurong East)",
+                "Y_ADDR": 36807.2686,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "600327",
+                "FMEL_UPD_D": 1358261246000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "8613E9312B8CE937",
+                "ADDRESSSTREETNAME": "Blk 327 Jurong East Street 31 #01-174 Singapore",
+                "X_ADDR": 16388.7444,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 117
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72898422338116,
+                    1.3491441331116778
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "NTUC Eldercare Co-operative Ltd\nNTUC ACE",
+                "Y_ADDR": 34971.7739,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460091",
+                "FMEL_UPD_D": 1353584448000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "15BB6F4DC87ECFEB",
+                "ADDRESSSTREETNAME": "Blk 90 91 Bedok North Street 4 #01-1527 Singapore",
+                "X_ADDR": 39913.9881,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 118
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94037245114292,
+                    1.3325444821038779
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK ACE",
+                "Y_ADDR": 40281.7421,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "539755",
+                "FMEL_UPD_D": 1353584448000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "07AC5435A0AA2CE1",
+                "ADDRESSSTREETNAME": "14 Buangkok Green Singapore",
+                "X_ADDR": 33936.7648,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 119
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88666481837879,
+                    1.3805676817801986
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK ACE",
+                "Y_ADDR": 46138.712,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "760126",
+                "FMEL_UPD_D": 1353584448000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "DE32E916821E9E94",
+                "ADDRESSSTREETNAME": "Blk 126 Yishun Street 11 #01-431 Singapore",
+                "X_ADDR": 27647.1601,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 120
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83014797885774,
+                    1.4335366096287112
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "COMNET Befriending Service",
+                "Y_ADDR": 37543.1342,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "570026",
+                "FMEL_UPD_D": 1353584448000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.amkfsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "AC18778BDD4B9D58",
+                "ADDRESSSTREETNAME": "Blk 26 Sin Ming Industrial Sector A #01-158 Singapore",
+                "X_ADDR": 28804.5902,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 121
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84054834611946,
+                    1.3558012815768978
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Filos Community Services Ltd",
+                "Y_ADDR": 34136.8386,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "461056",
+                "FMEL_UPD_D": 1353584448000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.filos.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "89762CB3E3571DEE",
+                "ADDRESSSTREETNAME": "56 New Upper Changi Road  #01-1320 Singapore",
+                "X_ADDR": 39993.0555,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 122
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94108258810381,
+                    1.3249936051442366
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Kapor Family Service Centre",
+                "Y_ADDR": 32239.15,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "200002",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.kkfsc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E1B8636F85DCF746",
+                "ADDRESSSTREETNAME": "Blk 2 Kitchener Road #03-89 Singapore",
+                "X_ADDR": 30878.0619,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 123
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85917933992924,
+                    1.3078338036362265
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lions Befrienders Service Association (Singapore)",
+                "Y_ADDR": 29672.8767,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "150130",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.lionsbefrienders.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "24BF2B3FA8E208AC",
+                "ADDRESSSTREETNAME": "Blk 130 Bukit Merah View #01-358 Singapore",
+                "X_ADDR": 27005.3786,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 124
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82438151209368,
+                    1.2846254486118576
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bethesda Care & Counselling Services Centre FAME (Friendship And Mind Enrichment) Club",
+                "Y_ADDR": 34825.2002,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "469717",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.bccsc.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0EE2ABC1FD52B16E",
+                "ADDRESSSTREETNAME": "300 Bedok North Avenue 3 Singapore",
+                "X_ADDR": 39287.5813,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 125
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93474378630194,
+                    1.3312191632262567
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bo Tien Welfare Services Society\nBo Tien Day Activity Centre for the Elderly",
+                "Y_ADDR": 39913.566,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "670125",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.botien.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "634E4B8974C787D1",
+                "ADDRESSSTREETNAME": "Blk 125 Pending Road #01-16 Singapore",
+                "X_ADDR": 21008.245,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 126
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7704925597244,
+                    1.377237798024316
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Care Corner Social Day Care for the Elderly",
+                "Y_ADDR": 35678.6845,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "310235",
+                "FMEL_UPD_D": 1353584449000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.carecorner.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "1903C18534385DB9",
+                "ADDRESSSTREETNAME": "Blk 235 Lorong 8 Toa Payoh #01-100 Singapore",
+                "X_ADDR": 30653.6635,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 127
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85716331102265,
+                    1.338939755465495
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thye Hua Kwan Moral Charities (THKMC) THK Seniors Activity Centre (MacPherson)",
+                "Y_ADDR": 33959.5527,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "370090",
+                "FMEL_UPD_D": 1355915858000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.thkmc.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "CFA06E267CD97B3E",
+                "ADDRESSSTREETNAME": "Blk 90 Pipit Road #01-103 Singapore",
+                "X_ADDR": 33921.7441,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 128
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88652860271968,
+                    1.3233920789850648
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Young Women's Christian Association of Singapore (YWCA)",
+                "Y_ADDR": 29798.9242,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "169051",
+                "FMEL_UPD_D": 1355915859000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "nof.ywca.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0193791FEF65669D",
+                "ADDRESSSTREETNAME": "254 Outram Road Singapore",
+                "X_ADDR": 28249.5118,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 129
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83556054265627,
+                    1.2857653927719344
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Yuhua Neighbourhood Link",
+                "Y_ADDR": 36641.9721,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "601318",
+                "FMEL_UPD_D": 1355915859000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": null,
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E1C0FF6D6C99851D",
+                "ADDRESSSTREETNAME": "Blk 318A Jurong East Avenue 1 #02-308 Singapore",
+                "X_ADDR": 16626.7857,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 130
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73112323349952,
+                    1.347649344091694
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Changkat)",
+                "Y_ADDR": 37323.0206,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "520350",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0250D316406F6226",
+                "ADDRESSSTREETNAME": "Blk 350/351 Tampines Street 33 #01-438/456 Singapore",
+                "X_ADDR": 42424.8743,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 91
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96293525711364,
+                    1.3538071769988365
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Clementi)",
+                "Y_ADDR": 31937.431,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "120602",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "CE18917DD6F878BE",
+                "ADDRESSSTREETNAME": "Blk 602 Clementi West Street 1 #01-25 Singapore",
+                "X_ADDR": 20542.7669,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 92
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76631186357038,
+                    1.305104399562937
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Golden Years)",
+                "Y_ADDR": 39276.7027,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "530831",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0E9F3BFA0B44A9DA",
+                "ADDRESSSTREETNAME": "Blk 831 Hougang Central #01-502 Singapore",
+                "X_ADDR": 34323.3991,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 93
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89013879940448,
+                    1.3714783883751882
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Hougang)",
+                "Y_ADDR": 37147.65,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "530126",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "CE1AE46648012E39",
+                "ADDRESSSTREETNAME": "Blk 126 Hougang Avenue 1 #01-1506 Singapore",
+                "X_ADDR": 33828.1814,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 94
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8856885034414,
+                    1.3522241050240358
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Serangoon)",
+                "Y_ADDR": 37746.0539,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "550217",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "784A4B7F3A79CF55",
+                "ADDRESSSTREETNAME": "Blk 217 Serangoon Aveneue 4 #01-156 Singapore",
+                "X_ADDR": 32315.0965,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 95
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87209255903653,
+                    1.3576361132780133
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Tampines)",
+                "Y_ADDR": 36614.3056,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "521101",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "76F26F3D785F15B9",
+                "ADDRESSSTREETNAME": "Blk 101 Tampines Street 11 #01-13 Singapore",
+                "X_ADDR": 40461.4486,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 96
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94529235931128,
+                    1.347398707288518
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Whampoa)",
+                "Y_ADDR": 33725.98,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "320097",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "03236F06A10B7CB2",
+                "ADDRESSSTREETNAME": "Blk 97 Whampoa Drive #01-222 Singapore",
+                "X_ADDR": 30406.0367,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 97
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85493808475695,
+                    1.3212802086505564
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "St Luke's Eldercare Ltd (Yishun)",
+                "Y_ADDR": 45761.0325,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "760740",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.slec.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "9FB76408A08BEBC2",
+                "ADDRESSSTREETNAME": "Blk 740 Yishun Avenue 5 #01-490 Singapore",
+                "X_ADDR": 27869.9886,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 98
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83215030557878,
+                    1.4301210139428393
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Viriya Community Services My Centre @ Moulmein",
+                "Y_ADDR": 33134.3255,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "210052",
+                "FMEL_UPD_D": 1353584451000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.viriya.org.sg/MyCentre",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "6A95D3804E2485EC",
+                "ADDRESSSTREETNAME": "52 Kent Road #01-16 Singapore",
+                "X_ADDR": 30014.4122,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 99
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85141909333569,
+                    1.3159295229506836
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bethesda Care & Counselling Services Centre Home Care",
+                "Y_ADDR": 34825.2002,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "469717",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.bccsc.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0EE2ABC1B1E361F0",
+                "ADDRESSSTREETNAME": "300 Bedok North Avenue 3 Singapore",
+                "X_ADDR": 39287.5813,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 100
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93474378630194,
+                    1.3312191632262567
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Buddhist Welfare Association",
+                "Y_ADDR": 40209.5791,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "546636",
+                "FMEL_UPD_D": 1353584452000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sbws.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "B69BD936C526D132",
+                "ADDRESSSTREETNAME": "105 Punggol Road Singapore",
+                "X_ADDR": 35002.2188,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 101
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89623869381319,
+                    1.3799148312525904
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Singapore Amalgamated Services Cooperative Organisation\nHong Kah North Day Care Centre for the Elderly",
+                "Y_ADDR": 38392.8007,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "650337",
+                "FMEL_UPD_D": 1355915854000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.sasco.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "F56663EAD4CCAAB6",
+                "ADDRESSSTREETNAME": "Blk 337 Bukit Batok Street 34 #01-06 Singapore",
+                "X_ADDR": 18660.1129,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 102
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74939337285302,
+                    1.363483900904637
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Calvary Community Care",
+                "Y_ADDR": 34950.441,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "347592",
+                "FMEL_UPD_D": 1358261240000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.calvary.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "333A32238B5EA249",
+                "ADDRESSSTREETNAME": "48 Wan Tho Avenue Singapore",
+                "X_ADDR": 32544.2593,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 103
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8741513180122,
+                    1.3323535557527835
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Chee Hoon Kog Moral Promotion Society Moral Seniors Activity Centre (Kaki Bukit)",
+                "Y_ADDR": 34750.6764,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460544",
+                "FMEL_UPD_D": 1358261240000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.chkmps.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "E6BD6973EC32ADAE",
+                "ADDRESSSTREETNAME": "Blk 544 Bedok North 3 #01-1340 Singapore",
+                "X_ADDR": 38119.5055,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 104
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92424795920336,
+                    1.3305456091251333
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Chee Hoon Kog Moral Promotion Society\nRedhill Moral Seniors Activity Centre",
+                "Y_ADDR": 29764.069199999998,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "150089",
+                "FMEL_UPD_D": 1358261240000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.chkmps.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "0BD49C6CF4CFAC77",
+                "ADDRESSSTREETNAME": "Blk 89 Redhill Close #01-448 Singapore",
+                "X_ADDR": 26403.346,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 105
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81897200712041,
+                    1.2854501376274334
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "City Harvest Community Services Association Community Outreach Program to the Elderly (COPE)",
+                "Y_ADDR": 30847.1117,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "38988",
+                "FMEL_UPD_D": 1358261241000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.chcsa.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "ED13FDCC98ED2CD3",
+                "ADDRESSSTREETNAME": "8 Temasek Boulevard Suntec Tower 3 #08-04 Singapore",
+                "X_ADDR": 30921.2648,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 106
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85956740850591,
+                    1.2952446966400895
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Foo Hai Buddhist Cultural & Welfare Association Marine Parade - Aspiration for Elderly Lodge",
+                "Y_ADDR": 34262.4901,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "460201",
+                "FMEL_UPD_D": 1358261242000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.foohai.org",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "43F391DD364C9CF0",
+                "ADDRESSSTREETNAME": "Blk 201 Bedok North Street 1 #01-545/557 Singapore",
+                "X_ADDR": 38528.6308,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 107
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92792400525244,
+                    1.3261304929406827
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Henderson Senior Citizens' Home",
+                "Y_ADDR": 29638.117700000003,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": null,
+                "DESCRIPTION": null,
+                "ADDRESSPOSTALCODE": "151117",
+                "FMEL_UPD_D": 1358261242000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://www.ntuceldercare.org.sg",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": null,
+                "INC_CRC": "C5C5E30C654A476A",
+                "ADDRESSSTREETNAME": "Blk 117 Bukit Merah View #01-205 Singapore",
+                "X_ADDR": 26723.2424,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 108
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82184640892342,
+                    1.284311091119336
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

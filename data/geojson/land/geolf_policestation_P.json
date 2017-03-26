@@ -1,0 +1,1869 @@
+var geoPolice_P = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Pasir Panjang Neighbourhood Police Post",
+                "PostalCode": "118815",
+                "desc": "109A Pasir Panjang Road # Singapore 118815",
+                "Address": "109A Pasir Panjang Road # Singapore 118815",
+                "name": "Pasir Panjang Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793351556114,
+                    1.27546242648413
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Radin Mas Neighbourhood Police Post",
+                "PostalCode": "090015",
+                "desc": "15 Telok Blangah Crescent #01-250 Singapore 090015",
+                "Address": "15 Telok Blangah Crescent #01-250 Singapore 090015",
+                "name": "Radin Mas Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.820762594396,
+                    1.27707600823652
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Telok Blangah Neighbourhood Police Post",
+                "PostalCode": "100055",
+                "desc": "51 Telok Blangah Drive #01-116/ 11 Singapore 100055",
+                "Address": "51 Telok Blangah Drive #01-116/ 11 Singapore 100055",
+                "name": "Telok Blangah Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.812146221903,
+                    1.27395162632713
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Tanjong Pagar Neighbourhood Police Post",
+                "PostalCode": "160144",
+                "desc": "144 Jalan Bukit Merah #01-1114 Singapore 160144",
+                "Address": "144 Jalan Bukit Merah #01-1114 Singapore 160144",
+                "name": "Tanjong Pagar Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829957860845,
+                    1.27728879786151
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Central Police Divisional HQ Bukit Merah East Neighbourhood Police Centre",
+                "PostalCode": "088762",
+                "desc": "391 New Bridge Road #03-113 Singapore 088762",
+                "Address": "391 New Bridge Road #03-113 Singapore 088762",
+                "name": "Central Police Divisional HQ Bukit Merah East Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839651362013,
+                    1.27891736533717
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Queenstown Neighbourhood Police Centre",
+                "PostalCode": "149073",
+                "desc": "3 Queensway #01-03 Singapore 149073",
+                "Address": "3 Queensway #01-03 Singapore 149073",
+                "name": "Queenstown Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802829527538,
+                    1.28842657948146
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Bukit Merah West Neighbourhood Police Centre",
+                "PostalCode": "159682",
+                "desc": "500 Bukit Merah View #01-01 Singapore 159682",
+                "Address": "500 Bukit Merah View #01-01 Singapore 159682",
+                "name": "Bukit Merah West Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823290185156,
+                    1.28576657002737
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Kim Seng Neighbourhood Police Post",
+                "PostalCode": "169981",
+                "desc": "5 Beo Crescent # Singapore 169981",
+                "Address": "5 Beo Crescent # Singapore 169981",
+                "name": "Kim Seng Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.828177472355,
+                    1.28881300403938
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Tiong Bahru Neighbourhood Police Post",
+                "PostalCode": "160128",
+                "desc": "128 Kim Tian Road #01-123/125 Singapore 160128",
+                "Address": "128 Kim Tian Road #01-123/125 Singapore 160128",
+                "name": "Tiong Bahru Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829058402955,
+                    1.28152922315308
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Kreta Ayer Neighbourhood Police Post",
+                "PostalCode": "059282",
+                "desc": "32 North Canal Road # Singapore 059282",
+                "Address": "32 North Canal Road # Singapore 059282",
+                "name": "Kreta Ayer Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847114863382,
+                    1.2865459237404
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Dover Neighbourhood Police Post",
+                "PostalCode": "130003",
+                "desc": "3 Dover Road #01-368 Singapore 130003",
+                "Address": "3 Dover Road #01-368 Singapore 130003",
+                "name": "Dover Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.782444887987,
+                    1.30373840986973
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Alexandra Neighbourhood Police Post",
+                "PostalCode": "140462",
+                "desc": "46-2 Commonwealth Drive #01-382A Singapore 140462",
+                "Address": "46-2 Commonwealth Drive #01-382A Singapore 140462",
+                "name": "Alexandra Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798227584247,
+                    1.29996200092321
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "River Valley Neighbourhood Police Post",
+                "PostalCode": "161004",
+                "desc": "4 Delta Avenue #01-02 Singapore 161004",
+                "Address": "4 Delta Avenue #01-02 Singapore 161004",
+                "name": "River Valley Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826547079886,
+                    1.29182021243049
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Orchard Neighbourhood Police Centre",
+                "PostalCode": "239572",
+                "desc": "51 Killiney Road # Singapore 239572",
+                "Address": "51 Killiney Road # Singapore 239572",
+                "name": "Orchard Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839786730017,
+                    1.29899241042268
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Marine Parade Neighbourhood Police Post",
+                "PostalCode": "440074",
+                "desc": "74 Marine Drive #01-35 Singapore 440074",
+                "Address": "74 Marine Drive #01-35 Singapore 440074",
+                "name": "Marine Parade Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.907215428124,
+                    1.30370070989747
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Clementi Neighbourhood Police Post",
+                "PostalCode": "120427",
+                "desc": "427 Clementi Avenue 3 #01-456 Singapore 120427",
+                "Address": "427 Clementi Avenue 3 #01-456 Singapore 120427",
+                "name": "Clementi Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763800153016,
+                    1.31196725600792
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "West Coast Neighbourhood Police Post",
+                "PostalCode": "120728",
+                "desc": "728 Clementi West Street 2 #01-418 Singapore 120728",
+                "Address": "728 Clementi West Street 2 #01-418 Singapore 120728",
+                "name": "West Coast Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763600856299,
+                    1.305610907565
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Buona Vista Neighbourhood Police Post",
+                "PostalCode": "271013",
+                "desc": "13 Holland Drive #01-38/40 Singapore 271013",
+                "Address": "13 Holland Drive #01-38/40 Singapore 271013",
+                "name": "Buona Vista Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793355071653,
+                    1.30934047369997
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Ulu Pandan Neighbourhood Police Post",
+                "PostalCode": "270009",
+                "desc": "9 Ghim Moh Road #01-110 Singapore 270009",
+                "Address": "9 Ghim Moh Road #01-110 Singapore 270009",
+                "name": "Ulu Pandan Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789477818979,
+                    1.3110704402834
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Commonwealth Neighbourhood Police Post",
+                "PostalCode": "140111",
+                "desc": "111  Commonwealth Crescent (Annex) #01-288A Singapore 140111",
+                "Address": "111  Commonwealth Crescent (Annex) #01-288A Singapore 140111",
+                "name": "Commonwealth Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798463818805,
+                    1.30635552110991
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Tanglin Police Divisional HQ Kampong Java Neighbourhood Police Centre",
+                "PostalCode": "228892",
+                "desc": "21 Kampong Java Road # Singapore 228892",
+                "Address": "21 Kampong Java Road # Singapore 228892",
+                "name": "Tanglin Police Divisional HQ Kampong Java Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846442987752,
+                    1.31154367005096
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Cairnhill Neighbourhood Police Post",
+                "PostalCode": "210009",
+                "desc": "9 Gloucester Road #01-03 Singapore 210009",
+                "Address": "9 Gloucester Road #01-03 Singapore 210009",
+                "name": "Cairnhill Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851705562966,
+                    1.31358898713652
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Kampong Glam Neighbourhood Police Post",
+                "PostalCode": "199596",
+                "desc": "17A Beach Road # Singapore 199596",
+                "Address": "17A Beach Road # Singapore 199596",
+                "name": "Kampong Glam Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863434440249,
+                    1.30395793440782
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Rochor Neighbourhood Police Centre",
+                "PostalCode": "208678",
+                "desc": "11 Kampong Kapor Road # Singapore 208678",
+                "Address": "11 Kampong Kapor Road # Singapore 208678",
+                "name": "Rochor Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854253602623,
+                    1.307661318275
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Mountbatten Neighbourhood Police Post",
+                "PostalCode": "390060",
+                "desc": "60 Dakota Crescent #01-213/ 21 Singapore 390060",
+                "Address": "60 Dakota Crescent #01-213/ 21 Singapore 390060",
+                "name": "Mountbatten Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888503922629,
+                    1.30725950354637
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Joo Chiat Neighbourhood Police Post",
+                "PostalCode": "424773",
+                "desc": "267 Onan Road # Singapore 424773",
+                "Address": "267 Onan Road # Singapore 424773",
+                "name": "Joo Chiat Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.901502003234,
+                    1.30990960129294
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Marine Parade Neighbourhood Police Centre",
+                "PostalCode": "449296",
+                "desc": "300 Marine Parade Road # Singapore 449296",
+                "Address": "300 Marine Parade Road # Singapore 449296",
+                "name": "Marine Parade Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914491232097,
+                    1.30614556682089
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Siglap Neighbourhood Police Post",
+                "PostalCode": "455246",
+                "desc": "125 Upper East Coast Road # Singapore 455246",
+                "Address": "125 Upper East Coast Road # Singapore 455246",
+                "name": "Siglap Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929850080585,
+                    1.31386517923231
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Ayer Rajah Neighbourhood Police Post",
+                "PostalCode": "600043",
+                "desc": "43 Teban Gardens Road #01-388 Singapore 600043",
+                "Address": "43 Teban Gardens Road #01-388 Singapore 600043",
+                "name": "Ayer Rajah Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.741671677054,
+                    1.321099716761
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Clementi Police Divisional HQ Clementi Neighbourhood Police Centre",
+                "PostalCode": "129858",
+                "desc": "20 Clementi Avenue 5 # Singapore 129858",
+                "Address": "20 Clementi Avenue 5 # Singapore 129858",
+                "name": "Clementi Police Divisional HQ Clementi Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.766333634634,
+                    1.31715360488672
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Bukit Timah Neighbourhood Police Post",
+                "PostalCode": "590001",
+                "desc": "1 Toh Yi Drive #01-139 Singapore 590001",
+                "Address": "1 Toh Yi Drive #01-139 Singapore 590001",
+                "name": "Bukit Timah Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773270047245,
+                    1.31854216955493
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Bukit Timah Neighbourhood Police Centre",
+                "PostalCode": "268914",
+                "desc": "1 Duke Road # Singapore 268914",
+                "Address": "1 Duke Road # Singapore 268914",
+                "name": "Bukit Timah Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.812277465079,
+                    1.3225667504452
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Whitley Neighbourhood Police Post",
+                "PostalCode": "297830",
+                "desc": "247 Whitley Road # Singapore 297830",
+                "Address": "247 Whitley Road # Singapore 297830",
+                "name": "Whitley Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826513200659,
+                    1.32290961159766
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "Kallang Neighbourhood Police Post",
+                "PostalCode": "321105",
+                "desc": "105 Towner Road #01-400 Singapore 321105",
+                "Address": "105 Towner Road #01-400 Singapore 321105",
+                "name": "Kallang Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861038510518,
+                    1.32042212367099
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Whampoa Neighbourhood Police Post",
+                "PostalCode": "320029",
+                "desc": "29 Jalan Bahagia #01-368 Singapore 320029",
+                "Address": "29 Jalan Bahagia #01-368 Singapore 320029",
+                "name": "Whampoa Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858941919836,
+                    1.32518940617965
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "Geylang West Neighbourhood Police Post",
+                "PostalCode": "380059",
+                "desc": "59 Sim&apos;S Drive #01-1205 Singapore 380059",
+                "Address": "59 Sim&apos;S Drive #01-1205 Singapore 380059",
+                "name": "Geylang West Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88011701505,
+                    1.31883351400631
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Kolam Ayer Neighbourhood Police Post",
+                "PostalCode": "330072",
+                "desc": "72 Geylang Bahru #01-3038 Singapore 330072",
+                "Address": "72 Geylang Bahru #01-3038 Singapore 330072",
+                "name": "Kolam Ayer Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871420969703,
+                    1.32161634823451
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "Geylang Neighbourhood Police Centre",
+                "PostalCode": "409014",
+                "desc": "132 Paya Lebar Road # Singapore 409014",
+                "Address": "132 Paya Lebar Road # Singapore 409014",
+                "name": "Geylang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890996703782,
+                    1.3263218278746
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "Geylang Serai Neighbourhood Police Post",
+                "PostalCode": "380111",
+                "desc": "111 Aljunied Crescent #01-102 Singapore 380111",
+                "Address": "111 Aljunied Crescent #01-102 Singapore 380111",
+                "name": "Geylang Serai Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884244402422,
+                    1.32038523025743
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "MacPherson Neighbourhood Police Post",
+                "PostalCode": "370054",
+                "desc": "54 Pipit Road #01-82/84 Singapore 370054",
+                "Address": "54 Pipit Road #01-82/84 Singapore 370054",
+                "name": "MacPherson Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887588393841,
+                    1.32386951399309
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "Kampong Ubi Neighbourhood Police Post",
+                "PostalCode": "400009",
+                "desc": "9 Eunos Crescent #01-2687 Singapore 400009",
+                "Address": "9 Eunos Crescent #01-2687 Singapore 400009",
+                "name": "Kampong Ubi Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902776438263,
+                    1.32180657381257
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "Kampong Kembangan Neighbourhood Police Post",
+                "PostalCode": "410112",
+                "desc": "112 Lengkong Tiga #01-215 Singapore 410112",
+                "Address": "112 Lengkong Tiga #01-215 Singapore 410112",
+                "name": "Kampong Kembangan Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91140780236,
+                    1.32348905057063
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Bedok South Neighbourhood Police Centre",
+                "PostalCode": "469045",
+                "desc": "20 Chai Chee Drive # Singapore 469045",
+                "Address": "20 Chai Chee Drive # Singapore 469045",
+                "name": "Bedok South Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.919815720099,
+                    1.32370925084554
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "Bedok Neighbourhood Police Post",
+                "PostalCode": "460015",
+                "desc": "15 Bedok South Road #01-117 Singapore 460015",
+                "Address": "15 Bedok South Road #01-117 Singapore 460015",
+                "name": "Bedok Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.935546244938,
+                    1.3209145637413
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "Chai Chee Neighbourhood Police Post",
+                "PostalCode": "461035",
+                "desc": "35 Chai Chee Avenue #01-256/258 Singapore 461035",
+                "Address": "35 Chai Chee Avenue #01-256/258 Singapore 461035",
+                "name": "Chai Chee Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92626555383,
+                    1.32481565909928
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Bedok North Neighbourhood Police Centre",
+                "PostalCode": "469677",
+                "desc": "30 Bedok North Road # Singapore 469677",
+                "Address": "30 Bedok North Road # Singapore 469677",
+                "name": "Bedok North Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.939626423388,
+                    1.32826667136749
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Tanah Merah Neighbourhood Police Post",
+                "PostalCode": "461051",
+                "desc": "51 New Upper Changi Road #01-1514 Singapore 461051",
+                "Address": "51 New Upper Changi Road #01-1514 Singapore 461051",
+                "name": "Tanah Merah Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.942265302209,
+                    1.32343585461557
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Jurong Neighbourhood Police Post",
+                "PostalCode": "610158",
+                "desc": "158 Yung Loh Road #01-58 Singapore 610158",
+                "Address": "158 Yung Loh Road #01-58 Singapore 610158",
+                "name": "Jurong Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.722255481972,
+                    1.32896189952304
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Jurong East Neighbourhood Police Centre",
+                "PostalCode": "609962",
+                "desc": "92 Boon Lay Way # Singapore 609962",
+                "Address": "92 Boon Lay Way # Singapore 609962",
+                "name": "Jurong East Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.737230755516,
+                    1.34013271672592
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Moulmein Neighbourhood Police Post",
+                "PostalCode": "321101",
+                "desc": "101 Jalan Rajah #01-01 Singapore 321101",
+                "Address": "101 Jalan Rajah #01-01 Singapore 321101",
+                "name": "Moulmein Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850772362487,
+                    1.32880513006512
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "Toa Payoh Neighbourhood Police Centre",
+                "PostalCode": "319194",
+                "desc": "93 Toa Payoh Central Toa Payoh Community Building #01-02 Singapore 319194",
+                "Address": "93 Toa Payoh Central Toa Payoh Community Building #01-02 Singapore 319194",
+                "name": "Toa Payoh Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850467030457,
+                    1.33462578879392
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "Kim Keat Neighbourhood Police Post",
+                "PostalCode": "310231",
+                "desc": "231 Lorong 8 Toa Payoh #01-186 Singapore 310231",
+                "Address": "231 Lorong 8 Toa Payoh #01-186 Singapore 310231",
+                "name": "Kim Keat Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859482341046,
+                    1.33736194396422
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Aljunied Neighbourhood Police Post",
+                "PostalCode": "360013",
+                "desc": "13 Joo Seng Road #01-69 Singapore 360013",
+                "Address": "13 Joo Seng Road #01-69 Singapore 360013",
+                "name": "Aljunied Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.879328119616,
+                    1.33576922921448
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Potong Pasir Neighbourhood Police Post",
+                "PostalCode": "350142",
+                "desc": "142 Potong Pasir Avenue 3 #01-240 Singapore 350142",
+                "Address": "142 Potong Pasir Avenue 3 #01-240 Singapore 350142",
+                "name": "Potong Pasir Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867173671647,
+                    1.33339403182771
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "Eunos Neighbourhood Police Post",
+                "PostalCode": "470629",
+                "desc": "629 Bedok Reservoir Road #01-1620 Singapore 470629",
+                "Address": "629 Bedok Reservoir Road #01-1620 Singapore 470629",
+                "name": "Eunos Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914687665322,
+                    1.33420809006803
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Kaki Bukit Neighbourhood Police Post",
+                "PostalCode": "460526",
+                "desc": "526 Bedok North Street 3 #01-448 Singapore 460526",
+                "Address": "526 Bedok North Street 3 #01-448 Singapore 460526",
+                "name": "Kaki Bukit Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929124444118,
+                    1.33422067227984
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "Bedok Police Divisional HQ",
+                "PostalCode": "469676",
+                "desc": "30 Bedok North Road # Singapore 469676",
+                "Address": "30 Bedok North Road # Singapore 469676",
+                "name": "Bedok Police Divisional HQ",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.937313699262,
+                    1.33238350062321
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "Nanyang Extended Police Post",
+                "PostalCode": "649040",
+                "desc": "60 Jurong West Street 91 # Singapore 649040",
+                "Address": "60 Jurong West Street 91 # Singapore 649040",
+                "name": "Nanyang Extended Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.69240781661,
+                    1.3424228071914
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Jurong Police Divisional HQ Nanyang Neighbourhood Police Centre",
+                "PostalCode": "649482",
+                "desc": "2 Jurong West Avenue 5 # Singapore 649482",
+                "Address": "2 Jurong West Avenue 5 # Singapore 649482",
+                "name": "Jurong Police Divisional HQ Nanyang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.701720182843,
+                    1.35066766036637
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Boon Lay Neighbourhood Police Post",
+                "PostalCode": "640210",
+                "desc": "210 Boon Lay Place #01-00 Singapore 640210",
+                "Address": "210 Boon Lay Place #01-00 Singapore 640210",
+                "name": "Boon Lay Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.712933184144,
+                    1.34764592875194
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Hong Kah South Neighbourhood Police Post",
+                "PostalCode": "640510",
+                "desc": "510 Jurong West Street 52 #01-90 Singapore 640510",
+                "Address": "510 Jurong West Street 52 #01-90 Singapore 640510",
+                "name": "Hong Kah South Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.719452918673,
+                    1.34836309288142
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "Jurong West Neighbourhood Police Centre",
+                "PostalCode": "649818",
+                "desc": "700 Corporation Road # Singapore 649818",
+                "Address": "700 Corporation Road # Singapore 649818",
+                "name": "Jurong West Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.714673125172,
+                    1.34942513251235
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "Bukit Batok Neighbourhood Police Post",
+                "PostalCode": "650103",
+                "desc": "103 Bukit Batok Central #01-00 Singapore 650103",
+                "Address": "103 Bukit Batok Central #01-00 Singapore 650103",
+                "name": "Bukit Batok Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747894442607,
+                    1.34806687678256
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "Bukit Batok Neighbourhood Police Centre",
+                "PostalCode": "659840",
+                "desc": "21 Bukit Batok East Ave 4 # Singapore 659840",
+                "Address": "21 Bukit Batok East Ave 4 # Singapore 659840",
+                "name": "Bukit Batok Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.758524060492,
+                    1.34911458050519
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "Boon Teck Neighbourhood Police Post",
+                "PostalCode": "310207",
+                "desc": "207 Toa Payoh North #01-1231 Singapore 310207",
+                "Address": "207 Toa Payoh North #01-1231 Singapore 310207",
+                "name": "Boon Teck Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845238969025,
+                    1.34238201913474
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "Bishan Neighbourhood Police Post",
+                "PostalCode": "570196",
+                "desc": "196 Bishan Street 13 #01-565 Singapore 570196",
+                "Address": "196 Bishan Street 13 #01-565 Singapore 570196",
+                "name": "Bishan Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.850726150088,
+                    1.34805311704081
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "Serangoon Neighbourhood Police Centre",
+                "PostalCode": "556129",
+                "desc": "50 Serangoon Ave 2 #01-02 Singapore 556129",
+                "Address": "50 Serangoon Ave 2 #01-02 Singapore 556129",
+                "name": "Serangoon Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.870404677754,
+                    1.35162695251531
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "Paya Lebar Neighbourhood Police Post",
+                "PostalCode": "530114",
+                "desc": "114 Hougang Avenue 1 #01-1270 Singapore 530114",
+                "Address": "114 Hougang Avenue 1 #01-1270 Singapore 530114",
+                "name": "Paya Lebar Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88877756523,
+                    1.35287549014363
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "Changkat Neighbourhood Police Post",
+                "PostalCode": "521109",
+                "desc": "109 Tampines Street 11 #01-261 Singapore 521109",
+                "Address": "109 Tampines Street 11 #01-261 Singapore 521109",
+                "name": "Changkat Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.948789864292,
+                    1.3473920064006
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "Tampines Neighbourhood Police Centre",
+                "PostalCode": "529682",
+                "desc": "6 Tampines Ave 4 # Singapore 529682",
+                "Address": "6 Tampines Ave 4 # Singapore 529682",
+                "name": "Tampines Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.938687184472,
+                    1.34625678852199
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "Changi Neighbourhood Police Centre",
+                "PostalCode": "529914",
+                "desc": "9 Simei Street 2 # Singapore 529914",
+                "Address": "9 Simei Street 2 # Singapore 529914",
+                "name": "Changi Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.954802679169,
+                    1.34452666627312
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "Hong Kah North Neighbourhood Police Post",
+                "PostalCode": "650370",
+                "desc": "370 Bukit Batok Street 31 #01-201 Singapore 650370",
+                "Address": "370 Bukit Batok Street 31 #01-201 Singapore 650370",
+                "name": "Hong Kah North Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749561205603,
+                    1.35997592676195
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "Thomson Neighbourhood Police Post",
+                "PostalCode": "570025",
+                "desc": "25 Sin Ming Road #01-180 Singapore 570025",
+                "Address": "25 Sin Ming Road #01-180 Singapore 570025",
+                "name": "Thomson Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837804398443,
+                    1.3549652913183
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "Bishan Neighbourhood Police Centre",
+                "PostalCode": "579757",
+                "desc": "20 Bishan Street 23 # Singapore 579757",
+                "Address": "20 Bishan Street 23 # Singapore 579757",
+                "name": "Bishan Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847715258603,
+                    1.35780205423622
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "Teck Ghee Neighbourhood Police Post",
+                "PostalCode": "560321",
+                "desc": "321 Ang Mo Kio Street 31 # Singapore 560321",
+                "Address": "321 Ang Mo Kio Street 31 # Singapore 560321",
+                "name": "Teck Ghee Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848395051315,
+                    1.36512846449617
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "Serangoon Gardens Neighbourhood Police Post",
+                "PostalCode": "555947",
+                "desc": "51 Serangoon Garden Way # Singapore 555947",
+                "Address": "51 Serangoon Garden Way # Singapore 555947",
+                "name": "Serangoon Gardens Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866421883241,
+                    1.3634321441015
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "Tampines East Neighbourhood Police Post",
+                "PostalCode": "520263",
+                "desc": "263 Tampines Street 21 #01-138 Singapore 520263",
+                "Address": "263 Tampines Street 21 #01-138 Singapore 520263",
+                "name": "Tampines East Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.951147873935,
+                    1.35329704711742
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "Tampines North Neighbourhood Police Post",
+                "PostalCode": "520461",
+                "desc": "461 Tampines Street 44 #01-56 Singapore 520461",
+                "Address": "461 Tampines Street 44 #01-56 Singapore 520461",
+                "name": "Tampines North Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.954353410619,
+                    1.3588533396134
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "Bukit Panjang South Neighbourhood Police Post",
+                "PostalCode": "670124",
+                "desc": "124 Pending Road #01-00 Singapore 670124",
+                "Address": "124 Pending Road #01-00 Singapore 670124",
+                "name": "Bukit Panjang South Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771158803442,
+                    1.37690479941232
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "Kebun Baru Neighbourhood Police Post",
+                "PostalCode": "560111",
+                "desc": "111 Ang Mo Kio Avenue 4 # Singapore 560111",
+                "Address": "111 Ang Mo Kio Avenue 4 # Singapore 560111",
+                "name": "Kebun Baru Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837297514449,
+                    1.37084881549031
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "Ang Mo Kio South Neighbourhood Police Centre",
+                "PostalCode": "569929",
+                "desc": "81 Ang Mo Kio Ave 3 # Singapore 569929",
+                "Address": "81 Ang Mo Kio Ave 3 # Singapore 569929",
+                "name": "Ang Mo Kio South Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851828824204,
+                    1.36981162663837
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "Serangoon North Neighbourhood Police Post",
+                "PostalCode": "550108",
+                "desc": "108 Serangoon North Avenue 1 #01-709 Singapore 550108",
+                "Address": "108 Serangoon North Avenue 1 #01-709 Singapore 550108",
+                "name": "Serangoon North Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87101490791,
+                    1.36990142064831
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "Hougang Neighbourhood Police Centre",
+                "PostalCode": "538775",
+                "desc": "60 Hougang Ave 9 # Singapore 538775",
+                "Address": "60 Hougang Ave 9 # Singapore 538775",
+                "name": "Hougang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88497011223,
+                    1.37431841418359
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "Hougang Neighbourhood Police Post",
+                "PostalCode": "530357",
+                "desc": "357 Hougang Avenue 7 #01-805 Singapore 530357",
+                "Address": "357 Hougang Avenue 7 #01-805 Singapore 530357",
+                "name": "Hougang Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.899460961818,
+                    1.37310410381469
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "Pasir Ris Neighbourhood Police Centre",
+                "PostalCode": "519457",
+                "desc": "1 Pasir Ris Drive 4 #01-01 Singapore 519457",
+                "Address": "1 Pasir Ris Drive 4 #01-01 Singapore 519457",
+                "name": "Pasir Ris Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.959204421172,
+                    1.36889677840832
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "Choa Chu Kang Neighbourhood Police Post",
+                "PostalCode": "680116",
+                "desc": "116 Teck Whye Lane #01-740 Singapore 680116",
+                "Address": "116 Teck Whye Lane #01-740 Singapore 680116",
+                "name": "Choa Chu Kang Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.751779491782,
+                    1.37898683140565
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "Bukit Panjang Neighbourhood Police Centre",
+                "PostalCode": "677738",
+                "desc": "1 Segar Road #01-05 Singapore 677738",
+                "Address": "1 Segar Road #01-05 Singapore 677738",
+                "name": "Bukit Panjang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771719585228,
+                    1.38688900135992
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "Ang Mo Kio Divisional HQ Ang Mo Kio North Neighbourhood Police Centre",
+                "PostalCode": "569784",
+                "desc": "51 Ang Mo Kio Avenue 9 # Singapore 569784",
+                "Address": "51 Ang Mo Kio Avenue 9 # Singapore 569784",
+                "name": "Ang Mo Kio Divisional HQ Ang Mo Kio North Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845259235652,
+                    1.38489024985243
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "Choa Chu Kang Neighbourhood Police Centre",
+                "PostalCode": "689286",
+                "desc": "20 Choa Chu Kang Street 52 #01-02 Singapore 689286",
+                "Address": "20 Choa Chu Kang Street 52 #01-02 Singapore 689286",
+                "name": "Choa Chu Kang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744984588666,
+                    1.39498045853572
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "Sengkang Neighbourhood Police Centre",
+                "PostalCode": "545025",
+                "desc": "2 Sengkang Square #01-02 Singapore 545025",
+                "Address": "2 Sengkang Square #01-02 Singapore 545025",
+                "name": "Sengkang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89406393715,
+                    1.39270567720224
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "Nee Soon South Neighbourhood Police Post",
+                "PostalCode": "760798",
+                "desc": "798 Yishun Ring Road #01-3352 Singapore 760798",
+                "Address": "798 Yishun Ring Road #01-3352 Singapore 760798",
+                "name": "Nee Soon South Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833109770124,
+                    1.41896450205256
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "Yishun South Neighbourhood Police Centre",
+                "PostalCode": "768456",
+                "desc": "32 Yishun St 81 # Singapore 768456",
+                "Address": "32 Yishun St 81 # Singapore 768456",
+                "name": "Yishun South Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834906864604,
+                    1.41531784785247
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "Woodlands Neighbourhood Police Centre",
+                "PostalCode": "737890",
+                "desc": "3 Woodlands Drive 63 # Singapore 737890",
+                "Address": "3 Woodlands Drive 63 # Singapore 737890",
+                "name": "Woodlands Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802356857781,
+                    1.43886463204926
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "Chong Pang Neighbourhood Police Post",
+                "PostalCode": "760141",
+                "desc": "141 Yishun Ring Road # Singapore 760141",
+                "Address": "141 Yishun Ring Road # Singapore 760141",
+                "name": "Chong Pang Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.830050005067,
+                    1.43070764731761
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "Yishun North Neighbourhood Police Centre",
+                "PostalCode": "768827",
+                "desc": "31 Yishun Central # Singapore 768827",
+                "Address": "31 Yishun Central # Singapore 768827",
+                "name": "Yishun North Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840455637435,
+                    1.42910190561331
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "Bukit Panjang North Neighbourhood Police Post",
+                "PostalCode": "730027",
+                "desc": "27 Marsiling Drive #01-237 Singapore 730027",
+                "Address": "27 Marsiling Drive #01-237 Singapore 730027",
+                "name": "Bukit Panjang North Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.774175984138,
+                    1.44227135744856
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "Marsiling Neighbourhood Police Post",
+                "PostalCode": "730016",
+                "desc": "16 Marsiling Lane #01-183 Singapore 730016",
+                "Address": "16 Marsiling Lane #01-183 Singapore 730016",
+                "name": "Marsiling Neighbourhood Police Post",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.777886294948,
+                    1.44228735530621
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "Sembawang Neighbourhood Police Centre",
+                "PostalCode": "757633",
+                "desc": "4 Sembawang Crescent # Singapore 757633",
+                "Address": "4 Sembawang Crescent # Singapore 757633",
+                "name": "Sembawang Neighbourhood Police Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819648433518,
+                    1.44527432452409
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

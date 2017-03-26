@@ -1,0 +1,1831 @@
+var activeJTWC = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "desc": "\nTROPICAL STORM 09W (CHAN-HOM) WARNING #23\nWTPN31 PGTW 060300    \n060000Z POSIT: NEAR 16.4N 142.5E\nMOVING 340 DEGREES TRUE AT 08 KNOTS\nMAXIMUM SIGNIFICANT WAVE HEIGHT: 20 FEET \n06/00Z, WINDS 055 KTS, GUSTS TO 070 KTS\n06/12Z, WINDS 070 KTS, GUSTS TO 085 KTS\n07/00Z, WINDS 085 KTS, GUSTS TO 105 KTS\n07/12Z, WINDS 100 KTS, GUSTS TO 125 KTS\n08/00Z, WINDS 115 KTS, GUSTS TO 140 KTS\n09/00Z, WINDS 130 KTS, GUSTS TO 160 KTS\n10/00Z, WINDS 125 KTS, GUSTS TO 150 KTS\n11/00Z, WINDS 105 KTS, GUSTS TO 130 KTS\n________________________________________\n          \nCPA TO:               NM     DTG\nKadena_AB              96  09/19Z\nTaipei                181  10/12Z\n               \n               ",
+                "name": "06/00Z (TROPICAL STORM 09W (CHAN-HOM) WARNING NR 023- 55 knots)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.5,
+                    16.4
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 12 - 2015070612Z\nPOSIT17.1 N, 140.4 E\nWRNG NMBR023\nWIND SPD70 KTS\nMOVEMENT\n]]>",
+                "name": "06/12Z - 70 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4,
+                    17.1
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 24 - 2015070700Z\nPOSIT18.1 N, 138.3 E\nWRNG NMBR023\nWIND SPD85 KTS\nMOVEMENT295 DEG AT 11 KTS\n]]>",
+                "name": "07/00Z - 85 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3,
+                    18.1
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 36 - 2015070712Z\nPOSIT19.1 N, 136.2 E\nWRNG NMBR023\nWIND SPD100 KTS\nMOVEMENT295 DEG AT 11 KTS\n]]>",
+                "name": "07/12Z - 100 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2,
+                    19.1
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 48 - 2015070800Z\nPOSIT20.2 N, 134.3 E\nWRNG NMBR023\nWIND SPD115 KTS\nMOVEMENT300 DEG AT 11 KTS\n]]>",
+                "name": "08/00Z - 115 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3,
+                    20.2
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 72 - 2015070900Z\nPOSIT22.8 N, 130.0 E\nWRNG NMBR023\nWIND SPD130 KTS\nMOVEMENT305 DEG AT 12 KTS\n]]>",
+                "name": "09/00Z - 130 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    22.8
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 96 - 2015071000Z\nPOSIT25.9 N, 125.8 E\nWRNG NMBR023\nWIND SPD125 KTS\nMOVEMENT310 DEG AT 12 KTS\n]]>",
+                "name": "10/00Z - 125 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.8,
+                    25.9
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMECHAN-HOM\nTIMETAU 120 - 2015071100Z\nPOSIT29.2 N, 121.1 E\nWRNG NMBR023\nWIND SPD105 KTS\nMOVEMENT310 DEG AT 13 KTS\n]]>",
+                "name": "11/00Z - 105 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1,
+                    29.2
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062700Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.1,
+                    3.9
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062706Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.7,
+                    4
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062712Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.2,
+                    4.7
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062718Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.9,
+                    5.6
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062800Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.2,
+                    6.6
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062806Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.6,
+                    7.9
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062812Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.5,
+                    8
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062818Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.4,
+                    8
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062900Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.5,
+                    8.4
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062906Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.6,
+                    8.6
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15062912Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.9,
+                    8.6
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15062918Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.2,
+                    8.7
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15063000Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.3,
+                    9.1
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "desc": "Intensity: 25 knots",
+                "name": "15063006Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.5,
+                    9.4
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "desc": "Intensity: 30 knots",
+                "name": "15063012Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.9,
+                    9.7
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "desc": "Intensity: 35 knots",
+                "name": "15063018Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.7,
+                    10.1
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070100Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157,
+                    10.6
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070106Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156.2,
+                    11
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070112Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155.5,
+                    11.2
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070118Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154.1,
+                    11.2
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "desc": "Intensity: 55 knots",
+                "name": "15070200Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.5,
+                    11.2
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "desc": "Intensity: 55 knots",
+                "name": "15070206Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.5,
+                    10.7
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "desc": "Intensity: 65 knots",
+                "name": "15070212Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149,
+                    10.2
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "desc": "Intensity: 65 knots",
+                "name": "15070218Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.6,
+                    10.2
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "desc": "Intensity: 55 knots",
+                "name": "15070300Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.1,
+                    10.2
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070306Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.5,
+                    10.8
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070312Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.8,
+                    11.1
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070318Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.9,
+                    11.7
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070321Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.8,
+                    12.1
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070400Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.3,
+                    12.6
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070406Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.1,
+                    13.2
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070412Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.1,
+                    13.5
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070418Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.7,
+                    13.8
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070500Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.1,
+                    14.1
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070501Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9,
+                    14.1
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070502Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8,
+                    13.9
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070504Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145,
+                    13.8
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070505Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.2,
+                    13.9
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070506Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.3,
+                    14.1
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070509Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145,
+                    15
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070512Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.3,
+                    15
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070518Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.8,
+                    15.7
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "desc": "\nTROPICAL STORM 11W (NANGKA) WARNING #11\nWTPN33 PGTW 060300    \n060000Z POSIT: NEAR 11.6N 159.7E\nMOVING 285 DEGREES TRUE AT 12 KNOTS\nMAXIMUM SIGNIFICANT WAVE HEIGHT: 20 FEET \n06/00Z, WINDS 060 KTS, GUSTS TO 075 KTS\n06/12Z, WINDS 070 KTS, GUSTS TO 085 KTS\n07/00Z, WINDS 080 KTS, GUSTS TO 100 KTS\n07/12Z, WINDS 090 KTS, GUSTS TO 110 KTS\n08/00Z, WINDS 095 KTS, GUSTS TO 115 KTS\n09/00Z, WINDS 105 KTS, GUSTS TO 130 KTS\n10/00Z, WINDS 110 KTS, GUSTS TO 135 KTS\n11/00Z, WINDS 115 KTS, GUSTS TO 140 KTS\n________________________________________\n          \nCPA TO:               NM     DTG\nPohnpei               293  06/03Z\nPakin                 286  06/04Z\nSapwuafik             369  06/05Z\nOroluk                296  06/14Z\nChuuk                 382  07/03Z\nHagatna               310  08/21Z\nAndersen_AFB          292  08/22Z\nNAVSTA_Guam           312  08/22Z\nRota                  258  08/22Z\nWFO_Guam              301  08/22Z\nSaipan                184  08/23Z\nTinian                200  08/23Z\nAnatahan              128  09/03Z\nAlamagan               66  09/07Z\nPagan                  42  09/09Z\nAgrihan                12  09/12Z\nChichi_Jima           306  11/00Z\nIwo_To                171  11/00Z\n________________________________________\n          \nBearing and Distance      Dir  Dist  TAU\n                               (nm) (hrs)\nChuuk                     030   383   24\nOroluk                    360   318   24\nPakin                     337   386   24\nUjelang                   300   391   24               \n               ",
+                "name": "06/00Z (TROPICAL STORM 11W (NANGKA) WARNING NR 011- 60 knots)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.7,
+                    11.6
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 12 - 2015070612Z\nPOSIT12.2 N, 157.3 E\nWRNG NMBR011\nWIND SPD70 KTS\nMOVEMENT\n]]>",
+                "name": "06/12Z - 70 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.3,
+                    12.2
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 24 - 2015070700Z\nPOSIT13.0 N, 155.2 E\nWRNG NMBR011\nWIND SPD80 KTS\nMOVEMENT290 DEG AT 11 KTS\n]]>",
+                "name": "07/00Z - 80 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155.2,
+                    13
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 36 - 2015070712Z\nPOSIT14.0 N, 153.3 E\nWRNG NMBR011\nWIND SPD90 KTS\nMOVEMENT300 DEG AT 11 KTS\n]]>",
+                "name": "07/12Z - 90 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.3,
+                    14
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 48 - 2015070800Z\nPOSIT15.2 N, 151.3 E\nWRNG NMBR011\nWIND SPD95 KTS\nMOVEMENT300 DEG AT 11 KTS\n]]>",
+                "name": "08/00Z - 95 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3,
+                    15.2
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 72 - 2015070900Z\nPOSIT17.8 N, 147.5 E\nWRNG NMBR011\nWIND SPD105 KTS\nMOVEMENT305 DEG AT 11 KTS\n]]>",
+                "name": "09/00Z - 105 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.5,
+                    17.8
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 96 - 2015071000Z\nPOSIT20.1 N, 144.2 E\nWRNG NMBR011\nWIND SPD110 KTS\nMOVEMENT305 DEG AT 10 KTS\n]]>",
+                "name": "10/00Z - 110 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.2,
+                    20.1
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMENANGKA\nTIMETAU 120 - 2015071100Z\nPOSIT22.0 N, 141.9 E\nWRNG NMBR011\nWIND SPD115 KTS\nMOVEMENT310 DEG AT 07 KTS\n]]>",
+                "name": "11/00Z - 115 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.9,
+                    22
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063000Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.2,
+                    5.1
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063006Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.8,
+                    5.1
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063012Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.5,
+                    5.3
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063018Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.2,
+                    5.4
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070100Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176,
+                    5.6
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070106Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9,
+                    5.9
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070112Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.5,
+                    6.4
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070118Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9,
+                    6.7
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070200Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1,
+                    7.1
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070206Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.4,
+                    7.3
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070212Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.1,
+                    7.7
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15070218Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9,
+                    8.1
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15070300Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7,
+                    8.5
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15070306Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.3,
+                    9
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "desc": "Intensity: 25 knots",
+                "name": "15070312Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.4,
+                    9.3
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "desc": "Intensity: 30 knots",
+                "name": "15070318Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.5,
+                    9.6
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "desc": "Intensity: 40 knots",
+                "name": "15070400Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.8,
+                    10.1
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070406Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.6,
+                    11
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070412Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.1,
+                    11.3
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070418Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.9,
+                    11.2
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070500Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    164.7,
+                    11.2
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070506Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.3,
+                    11.3
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070512Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162,
+                    11.3
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "desc": "Intensity: 55 knots",
+                "name": "15070518Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.9,
+                    11.3
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "desc": "\nTROPICAL STORM 10W (LINFA) WARNING #17\nWTPN32 PGTW 060300    \n060000Z POSIT: NEAR 18.8N 119.4E\nMOVING 340 DEGREES TRUE AT 06 KNOTS\nMAXIMUM SIGNIFICANT WAVE HEIGHT: 13 FEET \n06/00Z, WINDS 040 KTS, GUSTS TO 050 KTS\n06/12Z, WINDS 045 KTS, GUSTS TO 055 KTS\n07/00Z, WINDS 050 KTS, GUSTS TO 065 KTS\n07/12Z, WINDS 055 KTS, GUSTS TO 070 KTS\n08/00Z, WINDS 050 KTS, GUSTS TO 065 KTS\n09/00Z, WINDS 040 KTS, GUSTS TO 050 KTS\n10/00Z, WINDS 030 KTS, GUSTS TO 040 KTS\n11/00Z, WINDS 025 KTS, GUSTS TO 035 KTS\n________________________________________\n          \nCPA TO:               NM     DTG\nHong_Kong             326  07/05Z\nTaipei                126  11/00Z\n________________________________________\n          \nBearing and Distance      Dir  Dist  TAU\n                               (nm) (hrs)\nClark_AB                  349   305   24\nHong_Kong                 112   327   24\nManila                    347   345   24\nTaipei                    200   312   24\nSubic_Bay                 354   326   24               \n               ",
+                "name": "06/00Z (TROPICAL STORM 10W (LINFA) WARNING NR 017- 40 knots)",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.4,
+                    18.8
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 12 - 2015070612Z\nPOSIT19.5 N, 119.4 E\nWRNG NMBR017\nWIND SPD45 KTS\nMOVEMENT\n]]>",
+                "name": "06/12Z - 45 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.4,
+                    19.5
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 24 - 2015070700Z\nPOSIT20.2 N, 119.6 E\nWRNG NMBR017\nWIND SPD50 KTS\nMOVEMENT015 DEG AT 04 KTS\n]]>",
+                "name": "07/00Z - 50 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6,
+                    20.2
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 36 - 2015070712Z\nPOSIT21.0 N, 119.9 E\nWRNG NMBR017\nWIND SPD55 KTS\nMOVEMENT020 DEG AT 04 KTS\n]]>",
+                "name": "07/12Z - 55 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.9,
+                    21
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 48 - 2015070800Z\nPOSIT21.7 N, 120.1 E\nWRNG NMBR017\nWIND SPD50 KTS\nMOVEMENT015 DEG AT 04 KTS\n]]>",
+                "name": "08/00Z - 50 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1,
+                    21.7
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 72 - 2015070900Z\nPOSIT22.3 N, 120.2 E\nWRNG NMBR017\nWIND SPD40 KTS\nMOVEMENT010 DEG AT 02 KTS\n]]>",
+                "name": "09/00Z - 40 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    22.3
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 96 - 2015071000Z\nPOSIT22.9 N, 120.2 E\nWRNG NMBR017\nWIND SPD30 KTS\nMOVEMENT360 DEG AT 02 KTS\n]]>",
+                "name": "10/00Z - 30 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    22.9
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "desc": "\n\nRequested Information\n\n\nNAMELINFA\nTIMETAU 120 - 2015071100Z\nPOSIT23.5 N, 120.0 E\nWRNG NMBR017\nWIND SPD25 KTS\nMOVEMENT345 DEG AT 02 KTS\n]]>",
+                "name": "11/00Z - 25 knots",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    23.5
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063000Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9,
+                    11.8
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063006Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5,
+                    11.7
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063012Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.2,
+                    11.6
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15063018Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8,
+                    11.6
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070100Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.5,
+                    11.7
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070106Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    12
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "desc": "Intensity: 15 knots",
+                "name": "15070112Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9,
+                    12.7
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "desc": "Intensity: 20 knots",
+                "name": "15070118Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9,
+                    13.3
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "desc": "Intensity: 25 knots",
+                "name": "15070200Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.6,
+                    13.9
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "desc": "Intensity: 30 knots",
+                "name": "15070206Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129,
+                    14.7
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "desc": "Intensity: 30 knots",
+                "name": "15070212Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.6,
+                    15.2
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "desc": "Intensity: 35 knots",
+                "name": "15070218Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9,
+                    16.1
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "desc": "Intensity: 35 knots",
+                "name": "15070300Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.6,
+                    15.6
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070306Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.9,
+                    15.4
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070312Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.4,
+                    15.4
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070318Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8,
+                    15.5
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070400Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.2,
+                    16.1
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070406Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.8,
+                    16.7
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070412Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.3,
+                    17.2
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070418Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.7,
+                    17.5
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070500Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8,
+                    17.6
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "desc": "Intensity: 45 knots",
+                "name": "15070506Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1,
+                    17.7
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070512Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    17.9
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "desc": "Intensity: 50 knots",
+                "name": "15070518Z",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.6,
+                    18.2
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

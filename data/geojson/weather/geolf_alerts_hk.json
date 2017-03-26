@@ -1,0 +1,1042 @@
+var activeStormHK = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "139.90",
+                "desc": "",
+                "name": "17 AUG 1700hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015081717",
+                "lat": "17.10",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9,
+                    17.1
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "139.20",
+                "desc": "",
+                "name": "17 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015081720",
+                "lat": "17.30",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2,
+                    17.3
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "137.70",
+                "desc": "",
+                "name": "18 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081802",
+                "lat": "17.80",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.7,
+                    17.8
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "136.00",
+                "desc": "",
+                "name": "18 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081808",
+                "lat": "18.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136,
+                    18.2
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "134.50",
+                "desc": "",
+                "name": "18 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081814",
+                "lat": "18.60",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5,
+                    18.6
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "132.90",
+                "desc": "",
+                "name": "18 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081820",
+                "lat": "18.70",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9,
+                    18.7
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "131.10",
+                "desc": "",
+                "name": "19 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081902",
+                "lat": "18.70",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.1,
+                    18.7
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "129.80",
+                "desc": "",
+                "name": "19 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081908",
+                "lat": "18.80",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.8,
+                    18.8
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "128.40",
+                "desc": "",
+                "name": "19 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015081914",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.4,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "stormclassification": "",
+                "lon": "127.30",
+                "desc": "",
+                "name": "19 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "195",
+                "datetime": "2015081920",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.3,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "stormclassification": "",
+                "lon": "126.10",
+                "desc": "",
+                "name": "20 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "195",
+                "datetime": "2015082002",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.1,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "stormclassification": "",
+                "lon": "125.20",
+                "desc": "",
+                "name": "20 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "195",
+                "datetime": "2015082008",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.2,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "stormclassification": "",
+                "lon": "125.00",
+                "desc": "",
+                "name": "20 AUG 1100hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "185",
+                "datetime": "2015082011",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "stormclassification": "",
+                "lon": "124.70",
+                "desc": "",
+                "name": "20 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "185",
+                "datetime": "2015082014",
+                "lat": "18.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.7,
+                    18.9
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "stormclassification": "",
+                "lon": "124.40",
+                "desc": "",
+                "name": "20 AUG 1700hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "185",
+                "datetime": "2015082017",
+                "lat": "19.00",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.4,
+                    19
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "stormclassification": "",
+                "lon": "124.00",
+                "desc": "",
+                "name": "20 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "185",
+                "datetime": "2015082020",
+                "lat": "19.00",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124,
+                    19
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "stormclassification": "",
+                "lon": "123.70",
+                "desc": "",
+                "name": "20 AUG 2300hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "185",
+                "datetime": "2015082023",
+                "lat": "19.10",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.7,
+                    19.1
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "123.20",
+                "desc": "",
+                "name": "21 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082102",
+                "lat": "19.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.2,
+                    19.2
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "123.10",
+                "desc": "",
+                "name": "21 AUG 0500hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082105",
+                "lat": "19.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.1,
+                    19.2
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "123.00",
+                "desc": "",
+                "name": "21 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082108",
+                "lat": "19.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123,
+                    19.2
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.70",
+                "desc": "",
+                "name": "21 AUG 1100hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082111",
+                "lat": "19.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.7,
+                    19.4
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.40",
+                "desc": "",
+                "name": "21 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082114",
+                "lat": "19.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4,
+                    19.4
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.40",
+                "desc": "",
+                "name": "21 AUG 1700hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082117",
+                "lat": "19.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4,
+                    19.4
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.40",
+                "desc": "",
+                "name": "21 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082120",
+                "lat": "19.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4,
+                    19.4
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.40",
+                "desc": "",
+                "name": "21 AUG 2300hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082123",
+                "lat": "19.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4,
+                    19.4
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.50",
+                "desc": "",
+                "name": "22 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "165",
+                "datetime": "2015082202",
+                "lat": "19.60",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.5,
+                    19.6
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.50",
+                "desc": "",
+                "name": "22 AUG 0500hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082205",
+                "lat": "19.80",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.5,
+                    19.8
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.60",
+                "desc": "",
+                "name": "22 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082208",
+                "lat": "20.10",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.6,
+                    20.1
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.60",
+                "desc": "",
+                "name": "22 AUG 1100hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082211",
+                "lat": "20.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.6,
+                    20.4
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.70",
+                "desc": "",
+                "name": "22 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082214",
+                "lat": "20.60",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.7,
+                    20.6
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "122.90",
+                "desc": "",
+                "name": "22 AUG 1700hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082217",
+                "lat": "20.90",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.9,
+                    20.9
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.10",
+                "desc": "",
+                "name": "22 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "145",
+                "datetime": "2015082220",
+                "lat": "21.40",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.1,
+                    21.4
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.20",
+                "desc": "",
+                "name": "22 AUG 2300hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "140",
+                "datetime": "2015082223",
+                "lat": "21.80",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.2,
+                    21.8
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.30",
+                "desc": "",
+                "name": "23 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "140",
+                "datetime": "2015082302",
+                "lat": "22.30",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.3,
+                    22.3
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.40",
+                "desc": "",
+                "name": "23 AUG 0500hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "140",
+                "datetime": "2015082305",
+                "lat": "22.70",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.4,
+                    22.7
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.40",
+                "desc": "",
+                "name": "23 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "140",
+                "datetime": "2015082308",
+                "lat": "23.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.4,
+                    23.2
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.40",
+                "desc": "",
+                "name": "23 AUG 1100hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "140",
+                "datetime": "2015082311",
+                "lat": "23.50",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.4,
+                    23.5
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "123.50",
+                "desc": "",
+                "name": "23 AUG 1400hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "145",
+                "datetime": "2015082314",
+                "lat": "23.80",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.5,
+                    23.8
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "123.70",
+                "desc": "",
+                "name": "23 AUG 1700hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "155",
+                "datetime": "2015082317",
+                "lat": "24.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.7,
+                    24.2
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "124.00",
+                "desc": "",
+                "name": "23 AUG 2000hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082320",
+                "lat": "24.50",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124,
+                    24.5
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "124.30",
+                "desc": "",
+                "name": "23 AUG 2300hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082323",
+                "lat": "24.70",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.3,
+                    24.7
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "124.60",
+                "desc": "",
+                "name": "24 AUG 0200hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082402",
+                "lat": "25.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.6,
+                    25.2
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "125.20",
+                "desc": "",
+                "name": "24 AUG 0500hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082405",
+                "lat": "25.60",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.2,
+                    25.6
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "stormclassification": "Severe Typhoon",
+                "lon": "125.90",
+                "desc": "",
+                "name": "24 AUG 0800hrs",
+                "positiontype": "Analysed Position",
+                "type": "#icon",
+                "speedKPH": "175",
+                "datetime": "2015082408",
+                "lat": "26.20",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.9,
+                    26.2
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "stormclassification": "Typhoon",
+                "lon": "130.00",
+                "desc": "",
+                "name": "25 AUG 0800hrs",
+                "positiontype": "Forecast Position",
+                "type": "#icon",
+                "speedKPH": "145",
+                "datetime": "2015082508",
+                "lat": "33.10",
+                "url": "http://www.hko.gov.hk/wxinfo/currwx/tc_fixarea_e.htm"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130,
+                    33.1
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

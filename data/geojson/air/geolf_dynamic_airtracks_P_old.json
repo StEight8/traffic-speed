@@ -1,0 +1,3482 @@
+var geoAirDynamic_P = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2646_MAS2646", 
+		"AIRCRAFT_ID": "75268ec", 
+		"HEADING": "75.0", 
+		"SPEEDINKNOTS": "441.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "BKI", 
+		"FLIGHT": "MH2646", 
+		"CALLSIGN": "MAS2646", 
+		"REGCODE1": "750203", 
+		"REGCODE2": "9M-MXC", 
+		"SQUAWK": "2122", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75268ec&altitude=37000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.4928, 3.7109 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FY3505_FY3505", 
+		"AIRCRAFT_ID": "7526fd8", 
+		"HEADING": "136.0", 
+		"SPEEDINKNOTS": "253.0", 
+		"HEIGHTINMETRES": "4564.435503535723", 
+		"LOCATIONSTART": "SZB", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "FY3505", 
+		"CALLSIGN": "FY3505", 
+		"REGCODE1": "750326", 
+		"REGCODE2": "9M-FIB", 
+		"SQUAWK": "2111", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMKJ4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526fd8&altitude=14975&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.8695, 1.7427 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI918_SLK918", 
+		"AIRCRAFT_ID": "7527035", 
+		"HEADING": "33.0", 
+		"SPEEDINKNOTS": "461.0", 
+		"HEIGHTINMETRES": "9753.718605218239", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "HGH", 
+		"FLIGHT": "MI918", 
+		"CALLSIGN": "SLK918", 
+		"REGCODE1": "76B4E9", 
+		"REGCODE2": "9V-MGI", 
+		"SQUAWK": "0214", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527035&altitude=32000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.5702, 5.1046 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FD360_AIQ360", 
+		"AIRCRAFT_ID": "7527570", 
+		"HEADING": "338.0", 
+		"SPEEDINKNOTS": "459.0", 
+		"HEIGHTINMETRES": "11574.920751036332", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "DMK", 
+		"FLIGHT": "FD360", 
+		"CALLSIGN": "AIQ360", 
+		"REGCODE1": "88044F", 
+		"REGCODE2": "HS-ABO", 
+		"SQUAWK": "2220", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527570&altitude=37975&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.2322, 3.8637 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5879_AXM5879", 
+		"AIRCRAFT_ID": "7526cf5", 
+		"HEADING": "285.0", 
+		"SPEEDINKNOTS": "487.0", 
+		"HEIGHTINMETRES": "10972.933430870518", 
+		"LOCATIONSTART": "SBW", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5879", 
+		"CALLSIGN": "AXM5879", 
+		"REGCODE1": "7503B3", 
+		"REGCODE2": "9M-AJI", 
+		"SQUAWK": "2023", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526cf5&altitude=36000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.5132, 2.8065 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5247_AXM5247", 
+		"AIRCRAFT_ID": "7525af9", 
+		"HEADING": "146.0", 
+		"SPEEDINKNOTS": "195.0", 
+		"HEIGHTINMETRES": "1112.5335284077055", 
+		"LOCATIONSTART": "BTU", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5247", 
+		"CALLSIGN": "AXM5247", 
+		"REGCODE1": "75014C", 
+		"REGCODE2": "9M-AFZ", 
+		"SQUAWK": "2063", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "T-WMSA35", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525af9&altitude=3650&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.5631, 2.9843 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_AIQ358", 
+		"AIRCRAFT_ID": "7526749", 
+		"HEADING": "112.0", 
+		"SPEEDINKNOTS": "10.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "AIQ358", 
+		"REGCODE1": "880448", 
+		"REGCODE2": "", 
+		"SQUAWK": "0120", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526749&altitude=0&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9892, 1.3671 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QZ504_AWQ504", 
+		"AIRCRAFT_ID": "75240fd", 
+		"HEADING": "290.0", 
+		"SPEEDINKNOTS": "355.0", 
+		"HEIGHTINMETRES": "5539.807364057547", 
+		"LOCATIONSTART": "DPS", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "QZ504", 
+		"CALLSIGN": "AWQ504", 
+		"REGCODE1": "8A01BA", 
+		"REGCODE2": "PK-AXF", 
+		"SQUAWK": "4173", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75240fd&altitude=18175&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.7497, 0.7855 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK376_AXM376", 
+		"AIRCRAFT_ID": "7527f3e", 
+		"HEADING": "149.0", 
+		"SPEEDINKNOTS": "165.0", 
+		"HEIGHTINMETRES": "891.5508412582296", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "DPS", 
+		"FLIGHT": "AK376", 
+		"CALLSIGN": "AXM376", 
+		"REGCODE1": "750146", 
+		"REGCODE2": "9M-AFT", 
+		"SQUAWK": "2133", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f3e&altitude=2925&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7455, 2.6707 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CZ388_CSN388", 
+		"AIRCRAFT_ID": "752649d", 
+		"HEADING": "37.0", 
+		"SPEEDINKNOTS": "455.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "CAN", 
+		"FLIGHT": "CZ388", 
+		"CALLSIGN": "CSN388", 
+		"REGCODE1": "7809E9", 
+		"REGCODE2": "B-5748", 
+		"SQUAWK": "2461", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WIOO3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752649d&altitude=35000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 111.5995, 0.2361 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ172_SIA172", 
+		"AIRCRAFT_ID": "75264a4", 
+		"HEADING": "34.0", 
+		"SPEEDINKNOTS": "449.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "SGN", 
+		"FLIGHT": "SQ172", 
+		"CALLSIGN": "SIA172", 
+		"REGCODE1": "76CE8F", 
+		"REGCODE2": "9V-STO", 
+		"SQUAWK": "0124", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMKC1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264a4&altitude=37000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.9085, 8.3413 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI326_SLK326", 
+		"AIRCRAFT_ID": "752740c", 
+		"HEADING": "320.0", 
+		"SPEEDINKNOTS": "325.0", 
+		"HEIGHTINMETRES": "3985.30846135089", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MI326", 
+		"CALLSIGN": "SLK326", 
+		"REGCODE1": "76CD89", 
+		"REGCODE2": "9V-SLI", 
+		"SQUAWK": "2245", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752740c&altitude=13075&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9638, 1.4648 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2182_TGW2182", 
+		"AIRCRAFT_ID": "752701a", 
+		"HEADING": "343.0", 
+		"SPEEDINKNOTS": "460.0", 
+		"HEIGHTINMETRES": "8557.36405754694", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "KBV", 
+		"FLIGHT": "TR2182", 
+		"CALLSIGN": "TGW2182", 
+		"REGCODE1": "76D03A", 
+		"REGCODE2": "9V-TAZ", 
+		"SQUAWK": "0121", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752701a&altitude=28075&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.6504, 2.6291 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VN234_HVN234", 
+		"AIRCRAFT_ID": "7527f1d", 
+		"HEADING": "239.0", 
+		"SPEEDINKNOTS": "247.0", 
+		"HEIGHTINMETRES": "2834.674469641551", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "HAN", 
+		"FLIGHT": "VN234", 
+		"CALLSIGN": "HVN234", 
+		"REGCODE1": "88801D", 
+		"REGCODE2": "VN-A146", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "B772", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f1d&altitude=9300&equip_hint=B772&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.4604, 10.6622 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "D7372_XAX372", 
+		"AIRCRAFT_ID": "752641a", 
+		"HEADING": "35.0", 
+		"SPEEDINKNOTS": "460.0", 
+		"HEIGHTINMETRES": "11887.344550109729", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "TPE", 
+		"FLIGHT": "D7372", 
+		"CALLSIGN": "XAX372", 
+		"REGCODE1": "7503A9", 
+		"REGCODE2": "9M-XXS", 
+		"SQUAWK": "2145", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752641a&altitude=39000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.2481, 6.12 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5177_AXM5177", 
+		"AIRCRAFT_ID": "7526d5b", 
+		"HEADING": "255.0", 
+		"SPEEDINKNOTS": "479.0", 
+		"HEIGHTINMETRES": "11597.781029017313", 
+		"LOCATIONSTART": "LBU", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5177", 
+		"CALLSIGN": "AXM5177", 
+		"REGCODE1": "7503C4", 
+		"REGCODE2": "9M-AJN", 
+		"SQUAWK": "0447", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WBGG3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526d5b&altitude=38050&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 109.392, 4.2064 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5203_AXM5203", 
+		"AIRCRAFT_ID": "7525e7d", 
+		"HEADING": "325.0", 
+		"SPEEDINKNOTS": "293.0", 
+		"HEIGHTINMETRES": "3063.2772494513533", 
+		"LOCATIONSTART": "KCH", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5203", 
+		"CALLSIGN": "AXM5203", 
+		"REGCODE1": "750104", 
+		"REGCODE2": "9M-AFA", 
+		"SQUAWK": "2044", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525e7d&altitude=10050&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.608, 3.1279 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI771_SLK771", 
+		"AIRCRAFT_ID": "752780e", 
+		"HEADING": "146.0", 
+		"SPEEDINKNOTS": "450.0", 
+		"HEIGHTINMETRES": "10675.749817117776", 
+		"LOCATIONSTART": "USM", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "MI771", 
+		"CALLSIGN": "SLK771", 
+		"REGCODE1": "76CC45", 
+		"REGCODE2": "9V-SBE", 
+		"SQUAWK": "4557", 
+		"AIRCRAFTTYPE": "A319", 
+		"RADAR": "F-WMKC5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752780e&altitude=35025&equip_hint=A319&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4268, 7.5236 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK381_AXM381", 
+		"AIRCRAFT_ID": "75256c5", 
+		"HEADING": "326.0", 
+		"SPEEDINKNOTS": "32.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK381", 
+		"CALLSIGN": "AXM381", 
+		"REGCODE1": "7501F0", 
+		"REGCODE2": "9M-AHW", 
+		"SQUAWK": "7152", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75256c5&altitude=0&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7018, 2.7409 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ107_SIA107", 
+		"AIRCRAFT_ID": "75273f4", 
+		"HEADING": "141.0", 
+		"SPEEDINKNOTS": "361.0", 
+		"HEIGHTINMETRES": "6141.79468422336", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "SQ107", 
+		"CALLSIGN": "SIA107", 
+		"REGCODE1": "76CE89", 
+		"REGCODE2": "9V-STI", 
+		"SQUAWK": "2156", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMSA5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75273f4&altitude=20150&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.0075, 1.6557 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI345_SLK345", 
+		"AIRCRAFT_ID": "7526ac3", 
+		"HEADING": "82.0", 
+		"SPEEDINKNOTS": "269.0", 
+		"HEIGHTINMETRES": "4274.8719824433065", 
+		"LOCATIONSTART": "PEN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "MI345", 
+		"CALLSIGN": "SLK345", 
+		"REGCODE1": "76CD8C", 
+		"REGCODE2": "9V-SLL", 
+		"SQUAWK": "2656", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSL1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526ac3&altitude=14025&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8403, 1.0862 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX723_CPA723", 
+		"AIRCRAFT_ID": "752276a", 
+		"HEADING": "221.0", 
+		"SPEEDINKNOTS": "478.0", 
+		"HEIGHTINMETRES": "11887.344550109729", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "CX723", 
+		"CALLSIGN": "CPA723", 
+		"REGCODE1": "78012B", 
+		"REGCODE2": "B-HLH", 
+		"SQUAWK": "5316", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "T-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752276a&altitude=39000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.9147, 7.7495 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_TGW2771", 
+		"AIRCRAFT_ID": "7527f34", 
+		"HEADING": "84.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "TGW2771", 
+		"REGCODE1": "76D248", 
+		"REGCODE2": "", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-WSAP4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f34&altitude=0&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9904, 1.3516 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK6057_AXM6057", 
+		"AIRCRAFT_ID": "75275bc", 
+		"HEADING": "69.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "BTU", 
+		"LOCATIONEND": "KCH", 
+		"FLIGHT": "AK6057", 
+		"CALLSIGN": "AXM6057", 
+		"REGCODE1": "7502B9", 
+		"REGCODE2": "9M-AQR", 
+		"SQUAWK": "3135", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WBGG2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75275bc&altitude=0&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 110.3435, 1.4871 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ1_SIA1", 
+		"AIRCRAFT_ID": "7522bd7", 
+		"HEADING": "203.0", 
+		"SPEEDINKNOTS": "229.0", 
+		"HEIGHTINMETRES": "1607.839551328944", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "SQ1", 
+		"CALLSIGN": "SIA1", 
+		"REGCODE1": "76CEF5", 
+		"REGCODE2": "9V-SWU", 
+		"SQUAWK": "5323", 
+		"AIRCRAFTTYPE": "B77W", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7522bd7&altitude=5275&equip_hint=B77W&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1117, 1.6671 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5301_AXM5301", 
+		"AIRCRAFT_ID": "75264a8", 
+		"HEADING": "241.0", 
+		"SPEEDINKNOTS": "484.0", 
+		"HEIGHTINMETRES": "11582.540843696659", 
+		"LOCATIONSTART": "BKI", 
+		"LOCATIONEND": "JHB", 
+		"FLIGHT": "AK5301", 
+		"CALLSIGN": "AXM5301", 
+		"REGCODE1": "75002A", 
+		"REGCODE2": "9M-AHJ", 
+		"SQUAWK": "0420", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WBGG3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264a8&altitude=38000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 109.9049, 3.1218 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5111_AXM5111", 
+		"AIRCRAFT_ID": "7525647", 
+		"HEADING": "267.0", 
+		"SPEEDINKNOTS": "478.0", 
+		"HEIGHTINMETRES": "11582.540843696659", 
+		"LOCATIONSTART": "BKI", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5111", 
+		"CALLSIGN": "AXM5111", 
+		"REGCODE1": "750090", 
+		"REGCODE2": "9M-AHQ", 
+		"SQUAWK": "0461", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKJ3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525647&altitude=38000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.5469, 3.4401 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TG461_THA461", 
+		"AIRCRAFT_ID": "75258ef", 
+		"HEADING": "150.0", 
+		"SPEEDINKNOTS": "462.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "MEL", 
+		"FLIGHT": "TG461", 
+		"CALLSIGN": "THA461", 
+		"REGCODE1": "885157", 
+		"REGCODE2": "HS-TJW", 
+		"SQUAWK": "6137", 
+		"AIRCRAFTTYPE": "B772", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75258ef&altitude=37000&equip_hint=B772&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.0414, 1.156 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5136_AXM5136", 
+		"AIRCRAFT_ID": "7527adf", 
+		"HEADING": "64.0", 
+		"SPEEDINKNOTS": "424.0", 
+		"HEIGHTINMETRES": "7658.193123628383", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "BKI", 
+		"FLIGHT": "AK5136", 
+		"CALLSIGN": "AXM5136", 
+		"REGCODE1": "7503CD", 
+		"REGCODE2": "9M-AJU", 
+		"SQUAWK": "2137", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527adf&altitude=25125&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.8908, 3.1304 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VJ322_VJC322", 
+		"AIRCRAFT_ID": "7527d27", 
+		"HEADING": "250.0", 
+		"SPEEDINKNOTS": "419.0", 
+		"HEIGHTINMETRES": "6408.497927334796", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "PQC", 
+		"FLIGHT": "VJ322", 
+		"CALLSIGN": "VJC322", 
+		"REGCODE1": "8880E8", 
+		"REGCODE2": "VN-A650", 
+		"SQUAWK": "5773", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527d27&altitude=21025&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.7567, 10.4967 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5882_AXM5882", 
+		"AIRCRAFT_ID": "7527987", 
+		"HEADING": "67.0", 
+		"SPEEDINKNOTS": "396.0", 
+		"HEIGHTINMETRES": "6538.039502560351", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "SBW", 
+		"FLIGHT": "AK5882", 
+		"CALLSIGN": "AXM5882", 
+		"REGCODE1": "7503C7", 
+		"REGCODE2": "9M-AJO", 
+		"SQUAWK": "2114", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMSA5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527987&altitude=21450&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.4991, 2.9939 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH714_MAS714", 
+		"AIRCRAFT_ID": "751bfc6", 
+		"HEADING": "0.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "MH714", 
+		"CALLSIGN": "MAS714", 
+		"REGCODE1": "7502E1", 
+		"REGCODE2": "-", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-WMSA8", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=751bfc6&altitude=0&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6847, 2.7461 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VJ158_VJC158", 
+		"AIRCRAFT_ID": "7527e51", 
+		"HEADING": "211.0", 
+		"SPEEDINKNOTS": "293.0", 
+		"HEIGHTINMETRES": "4229.151426481346", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "HAN", 
+		"FLIGHT": "VJ158", 
+		"CALLSIGN": "VJC158", 
+		"REGCODE1": "8880B6", 
+		"REGCODE2": "VN-A680", 
+		"SQUAWK": "5722", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527e51&altitude=13875&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.3577, 10.4861 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2308_TGW2308", 
+		"AIRCRAFT_ID": "752745d", 
+		"HEADING": "12.0", 
+		"SPEEDINKNOTS": "469.0", 
+		"HEIGHTINMETRES": "9144.1111923921", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "HAN", 
+		"FLIGHT": "TR2308", 
+		"CALLSIGN": "TGW2308", 
+		"REGCODE1": "76D031", 
+		"REGCODE2": "9V-TAQ", 
+		"SQUAWK": "2256", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752745d&altitude=30000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.116, 4.2829 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX691_CPA691", 
+		"AIRCRAFT_ID": "7523327", 
+		"HEADING": "180.0", 
+		"SPEEDINKNOTS": "369.0", 
+		"HEIGHTINMETRES": "6819.982930992441", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "CX691", 
+		"CALLSIGN": "CPA691", 
+		"REGCODE1": "780A4B", 
+		"REGCODE2": "B-LAZ", 
+		"SQUAWK": "5346", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7523327&altitude=22375&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1049, 2.6563 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2742_MAS2742", 
+		"AIRCRAFT_ID": "752752b", 
+		"HEADING": "59.0", 
+		"SPEEDINKNOTS": "376.0", 
+		"HEIGHTINMETRES": "4252.011704462326", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "BTU", 
+		"FLIGHT": "MH2742", 
+		"CALLSIGN": "MAS2742", 
+		"REGCODE1": "750216", 
+		"REGCODE2": "9M-MSG", 
+		"SQUAWK": "2101", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "T-WMSA35", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752752b&altitude=13950&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.2587, 2.7988 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "9W15_JAI15", 
+		"AIRCRAFT_ID": "7527efe", 
+		"HEADING": "101.0", 
+		"SPEEDINKNOTS": "243.0", 
+		"HEIGHTINMETRES": "952.5115825408436", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "MAA", 
+		"FLIGHT": "9W15", 
+		"CALLSIGN": "JAI15", 
+		"REGCODE1": "800506", 
+		"REGCODE2": "VT-JBK", 
+		"SQUAWK": "0171", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527efe&altitude=3125&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9983, 1.2623 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ910_SIA910A", 
+		"AIRCRAFT_ID": "7526d5c", 
+		"HEADING": "51.0", 
+		"SPEEDINKNOTS": "480.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "MNL", 
+		"FLIGHT": "SQ910", 
+		"CALLSIGN": "SIA910A", 
+		"REGCODE1": "76CEE9", 
+		"REGCODE2": "9V-SWI", 
+		"SQUAWK": "2254", 
+		"AIRCRAFTTYPE": "B77W", 
+		"RADAR": "T-EST1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526d5c&altitude=35000&equip_hint=B77W&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.9988, 4.452 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH151_MAS151", 
+		"AIRCRAFT_ID": "7516b12", 
+		"HEADING": "146.0", 
+		"SPEEDINKNOTS": "132.0", 
+		"HEIGHTINMETRES": "22.860277980980246", 
+		"LOCATIONSTART": "JED", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH151", 
+		"CALLSIGN": "MAS151", 
+		"REGCODE1": "750256", 
+		"REGCODE2": "9M-MTC", 
+		"SQUAWK": "5215", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "T-WMSA8", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7516b12&altitude=75&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7018, 2.7785 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ972_SIA972", 
+		"AIRCRAFT_ID": "75264a3", 
+		"HEADING": "1.0", 
+		"SPEEDINKNOTS": "449.0", 
+		"HEIGHTINMETRES": "12192.148256522798", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "BKK", 
+		"FLIGHT": "SQ972", 
+		"CALLSIGN": "SIA972", 
+		"REGCODE1": "76CE86", 
+		"REGCODE2": "9V-STF", 
+		"SQUAWK": "2251", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-VTSB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264a3&altitude=40000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.5714, 8.6088 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VJ811_VJC811", 
+		"AIRCRAFT_ID": "752632c", 
+		"HEADING": "172.0", 
+		"SPEEDINKNOTS": "317.0", 
+		"HEIGHTINMETRES": "4351.072909046574", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "VJ811", 
+		"CALLSIGN": "VJC811", 
+		"REGCODE1": "8880EE", 
+		"REGCODE2": "VN-A656", 
+		"SQUAWK": "5543", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752632c&altitude=14275&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.139, 2.3819 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ857_SIA857", 
+		"AIRCRAFT_ID": "7524c51", 
+		"HEADING": "213.0", 
+		"SPEEDINKNOTS": "475.0", 
+		"HEIGHTINMETRES": "12192.148256522798", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "SQ857", 
+		"CALLSIGN": "SIA857", 
+		"REGCODE1": "76CE81", 
+		"REGCODE2": "9V-STA", 
+		"SQUAWK": "5321", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7524c51&altitude=40000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.6518, 10.2935 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK365_AXM365", 
+		"AIRCRAFT_ID": "7525d39", 
+		"HEADING": "308.0", 
+		"SPEEDINKNOTS": "480.0", 
+		"HEIGHTINMETRES": "10972.933430870518", 
+		"LOCATIONSTART": "SUB", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK365", 
+		"CALLSIGN": "AXM365", 
+		"REGCODE1": "75002C", 
+		"REGCODE2": "9M-AHL", 
+		"SQUAWK": "7011", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525d39&altitude=36000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.8531, 0.7176 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ973_SIA973", 
+		"AIRCRAFT_ID": "75273cf", 
+		"HEADING": "169.0", 
+		"SPEEDINKNOTS": "455.0", 
+		"HEIGHTINMETRES": "12496.95196293587", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "SQ973", 
+		"CALLSIGN": "SIA973", 
+		"REGCODE1": "76CE85", 
+		"REGCODE2": "9V-STE", 
+		"SQUAWK": "6165", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-VTSB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75273cf&altitude=41000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6069, 9.8959 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VN651_HVN651", 
+		"AIRCRAFT_ID": "7527659", 
+		"HEADING": "196.0", 
+		"SPEEDINKNOTS": "475.0", 
+		"HEIGHTINMETRES": "10972.933430870518", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "VN651", 
+		"CALLSIGN": "HVN651", 
+		"REGCODE1": "8880AE", 
+		"REGCODE2": "VN-A603", 
+		"SQUAWK": "5537", 
+		"AIRCRAFTTYPE": "A321", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527659&altitude=36000&equip_hint=A321&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.7371, 7.7714 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD1805_OD1805", 
+		"AIRCRAFT_ID": "7527867", 
+		"HEADING": "218.0", 
+		"SPEEDINKNOTS": "280.0", 
+		"HEIGHTINMETRES": "4876.859302609119", 
+		"LOCATIONSTART": "TGG", 
+		"LOCATIONEND": "SZB", 
+		"FLIGHT": "OD1805", 
+		"CALLSIGN": "OD1805", 
+		"REGCODE1": "7502DF", 
+		"REGCODE2": "9M-LMJ", 
+		"SQUAWK": "0335", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMKC5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527867&altitude=16000&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.3258, 4.4047 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "NH8528_ANA8528", 
+		"AIRCRAFT_ID": "75276ef", 
+		"HEADING": "255.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "NRT", 
+		"FLIGHT": "NH8528", 
+		"CALLSIGN": "ANA8528", 
+		"REGCODE1": "86D67E", 
+		"REGCODE2": "JA8286", 
+		"SQUAWK": "2212", 
+		"AIRCRAFTTYPE": "B763", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75276ef&altitude=0&equip_hint=B763&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9964, 1.3679 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK521_AXM521", 
+		"AIRCRAFT_ID": "75262f9", 
+		"HEADING": "310.0", 
+		"SPEEDINKNOTS": "315.0", 
+		"HEIGHTINMETRES": "3200.4389173372347", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK521", 
+		"CALLSIGN": "AXM521", 
+		"REGCODE1": "7502AD", 
+		"REGCODE2": "9M-AQN", 
+		"SQUAWK": "5632", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75262f9&altitude=10500&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6999, 3.0187 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GA873_GIA873", 
+		"AIRCRAFT_ID": "752466f", 
+		"HEADING": "184.0", 
+		"SPEEDINKNOTS": "461.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "CGK", 
+		"FLIGHT": "GA873", 
+		"CALLSIGN": "GIA873", 
+		"REGCODE1": "8A04F4", 
+		"REGCODE2": "PK-GNQ", 
+		"SQUAWK": "5347", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752466f&altitude=37000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.6315, 8.7006 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CZ353_CSN353", 
+		"AIRCRAFT_ID": "75241b3", 
+		"HEADING": "211.0", 
+		"SPEEDINKNOTS": "470.0", 
+		"HEIGHTINMETRES": "10972.933430870518", 
+		"LOCATIONSTART": "CAN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "CZ353", 
+		"CALLSIGN": "CSN353", 
+		"REGCODE1": "78088D", 
+		"REGCODE2": "B-5645", 
+		"SQUAWK": "3112", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75241b3&altitude=36000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.0507, 6.1837 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ830_SIA830", 
+		"AIRCRAFT_ID": "7526122", 
+		"HEADING": "28.0", 
+		"SPEEDINKNOTS": "484.0", 
+		"HEIGHTINMETRES": "10988.173616191172", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "PVG", 
+		"FLIGHT": "SQ830", 
+		"CALLSIGN": "SIA830", 
+		"REGCODE1": "76CD65", 
+		"REGCODE2": "9V-SKE", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "A388", 
+		"RADAR": "T-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526122&altitude=36050&equip_hint=A388&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.8962, 7.1596 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5746_AXM5746", 
+		"AIRCRAFT_ID": "7527210", 
+		"HEADING": "87.0", 
+		"SPEEDINKNOTS": "428.0", 
+		"HEIGHTINMETRES": "11262.496951962936", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "TWU", 
+		"FLIGHT": "AK5746", 
+		"CALLSIGN": "AXM5746", 
+		"REGCODE1": "7501FD", 
+		"REGCODE2": "9M-AHZ", 
+		"SQUAWK": "2106", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527210&altitude=36950&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.8035, 3.5039 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TG471_THA471", 
+		"AIRCRAFT_ID": "7525435", 
+		"HEADING": "135.0", 
+		"SPEEDINKNOTS": "473.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "SYD", 
+		"FLIGHT": "TG471", 
+		"CALLSIGN": "THA471", 
+		"REGCODE1": "88006D", 
+		"REGCODE2": "HS-TGF", 
+		"SQUAWK": "6133", 
+		"AIRCRAFTTYPE": "B744", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525435&altitude=37000&equip_hint=B744&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.525, 2.8756 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CZ349_CSN349", 
+		"AIRCRAFT_ID": "7523f10", 
+		"HEADING": "211.0", 
+		"SPEEDINKNOTS": "460.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "CAN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "CZ349", 
+		"CALLSIGN": "CSN349", 
+		"REGCODE1": "7807DA", 
+		"REGCODE2": "B-5281", 
+		"SQUAWK": "3122", 
+		"AIRCRAFTTYPE": "B737", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7523f10&altitude=35000&equip_hint=B737&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.0632, 6.2039 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH1143_MAS1143", 
+		"AIRCRAFT_ID": "7527583", 
+		"HEADING": "270.0", 
+		"SPEEDINKNOTS": "275.0", 
+		"HEIGHTINMETRES": "3040.416971470373", 
+		"LOCATIONSTART": "PEN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH1143", 
+		"CALLSIGN": "MAS1143", 
+		"REGCODE1": "750229", 
+		"REGCODE2": "9M-MLF", 
+		"SQUAWK": "5471", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "T-WMSA8", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527583&altitude=9975&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4701, 3.2594 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD820_MXD820", 
+		"AIRCRAFT_ID": "7526d3e", 
+		"HEADING": "306.0", 
+		"SPEEDINKNOTS": "413.0", 
+		"HEIGHTINMETRES": "7315.2889539136795", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "IPH", 
+		"FLIGHT": "OD820", 
+		"CALLSIGN": "MXD820", 
+		"REGCODE1": "7503C2", 
+		"REGCODE2": "9M-LNQ", 
+		"SQUAWK": "2271", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKM2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526d3e&altitude=24000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.0708, 2.8726 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH643_MAS643", 
+		"AIRCRAFT_ID": "7527292", 
+		"HEADING": "274.0", 
+		"SPEEDINKNOTS": "482.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "KCH", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "MH643", 
+		"CALLSIGN": "MAS643", 
+		"REGCODE1": "7503AB", 
+		"REGCODE2": "9M-MLU", 
+		"SQUAWK": "2051", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WIOO3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527292&altitude=34000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.2093, 1.3479 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2454_TGW2454", 
+		"AIRCRAFT_ID": "7526b6a", 
+		"HEADING": "236.0", 
+		"SPEEDINKNOTS": "32.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "TR2454", 
+		"CALLSIGN": "TGW2454", 
+		"REGCODE1": "76D02E", 
+		"REGCODE2": "9V-TAN", 
+		"SQUAWK": "0165", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526b6a&altitude=0&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7057, 2.7374 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JT276_LNI276", 
+		"AIRCRAFT_ID": "752681c", 
+		"HEADING": "151.0", 
+		"SPEEDINKNOTS": "220.0", 
+		"HEIGHTINMETRES": "1104.9134357473786", 
+		"LOCATIONSTART": "BTH", 
+		"LOCATIONEND": "JOG", 
+		"FLIGHT": "JT276", 
+		"CALLSIGN": "LNI276", 
+		"REGCODE1": "8A0285", 
+		"REGCODE2": "PK-LHS", 
+		"SQUAWK": "2230", 
+		"AIRCRAFTTYPE": "B739", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752681c&altitude=3625&equip_hint=B739&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1815, 1.0949 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QG914_CTV914", 
+		"AIRCRAFT_ID": "7527ef5", 
+		"HEADING": "115.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "BTH", 
+		"LOCATIONEND": "PDG", 
+		"FLIGHT": "QG914", 
+		"CALLSIGN": "CTV914", 
+		"REGCODE1": "8A0508", 
+		"REGCODE2": "PK-GQJ", 
+		"SQUAWK": "7257", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527ef5&altitude=0&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1159, 1.1229 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_9MWAM", 
+		"AIRCRAFT_ID": "7526ce0", 
+		"HEADING": "104.0", 
+		"SPEEDINKNOTS": "42.0", 
+		"HEIGHTINMETRES": "76.20092660326749", 
+		"LOCATIONSTART": "KBR", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "9MWAM", 
+		"REGCODE1": "75028A", 
+		"REGCODE2": "9M-WAM", 
+		"SQUAWK": "3400", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-MLAT5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526ce0&altitude=250&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.2797, 6.1645 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_CTV140D", 
+		"AIRCRAFT_ID": "75268b1", 
+		"HEADING": "300.0", 
+		"SPEEDINKNOTS": "472.0", 
+		"HEIGHTINMETRES": "9776.57888319922", 
+		"LOCATIONSTART": "BTH", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "CTV140D", 
+		"REGCODE1": "8A02AF", 
+		"REGCODE2": "PK-GLF", 
+		"SQUAWK": "2221", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMSA5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75268b1&altitude=32075&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.325, 1.7624 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "JT272_LNI272", 
+		"AIRCRAFT_ID": "7527b5b", 
+		"HEADING": "152.0", 
+		"SPEEDINKNOTS": "437.0", 
+		"HEIGHTINMETRES": "7543.891733723482", 
+		"LOCATIONSTART": "BTH", 
+		"LOCATIONEND": "SRG", 
+		"FLIGHT": "JT272", 
+		"CALLSIGN": "LNI272", 
+		"REGCODE1": "8A0380", 
+		"REGCODE2": "PK-LKP", 
+		"SQUAWK": "2276", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527b5b&altitude=24750&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.3454, 0.2506 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH1388_MAS1388", 
+		"AIRCRAFT_ID": "7527df4", 
+		"HEADING": "52.0", 
+		"SPEEDINKNOTS": "267.0", 
+		"HEIGHTINMETRES": "2316.5081687393317", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "KBR", 
+		"FLIGHT": "MH1388", 
+		"CALLSIGN": "MAS1388", 
+		"REGCODE1": "750214", 
+		"REGCODE2": "9M-MSE", 
+		"SQUAWK": "0334", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "T-WMSA8", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527df4&altitude=7600&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.8349, 2.6528 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH129_MAS129", 
+		"AIRCRAFT_ID": "7527541", 
+		"HEADING": "236.0", 
+		"SPEEDINKNOTS": "24.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "MEL", 
+		"FLIGHT": "MH129", 
+		"CALLSIGN": "MAS129", 
+		"REGCODE1": "750255", 
+		"REGCODE2": "9M-MTB", 
+		"SQUAWK": "2153", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527541&altitude=0&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6988, 2.7432 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX736_CPA736", 
+		"AIRCRAFT_ID": "7526c8a", 
+		"HEADING": "24.0", 
+		"SPEEDINKNOTS": "443.0", 
+		"HEIGHTINMETRES": "12192.148256522798", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "HKG", 
+		"FLIGHT": "CX736", 
+		"CALLSIGN": "CPA736", 
+		"REGCODE1": "780127", 
+		"REGCODE2": "B-HLD", 
+		"SQUAWK": "2272", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526c8a&altitude=40000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.1841, 6.1899 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ462_SIA462", 
+		"AIRCRAFT_ID": "7527726", 
+		"HEADING": "276.0", 
+		"SPEEDINKNOTS": "521.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "MLE", 
+		"FLIGHT": "SQ462", 
+		"CALLSIGN": "SIA462", 
+		"REGCODE1": "76CECF", 
+		"REGCODE2": "9V-SVO", 
+		"SQUAWK": "0135", 
+		"AIRCRAFTTYPE": "B772", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527726&altitude=34000&equip_hint=B772&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4535, 0.9535 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2710_MAS2710", 
+		"AIRCRAFT_ID": "7527d7d", 
+		"HEADING": "89.0", 
+		"SPEEDINKNOTS": "278.0", 
+		"HEIGHTINMETRES": "2979.456230187759", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "SDK", 
+		"FLIGHT": "MH2710", 
+		"CALLSIGN": "MAS2710", 
+		"REGCODE1": "750209", 
+		"REGCODE2": "9M-MXI", 
+		"SQUAWK": "2105", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMSA4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527d7d&altitude=9775&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.9439, 2.6303 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_WST104", 
+		"AIRCRAFT_ID": "752785f", 
+		"HEADING": "281.0", 
+		"SPEEDINKNOTS": "132.0", 
+		"HEIGHTINMETRES": "441.9653742989515", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "WST104", 
+		"REGCODE1": "7503DC", 
+		"REGCODE2": "", 
+		"SQUAWK": "5123", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "F-WMKC4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752785f&altitude=1450&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.2904, 6.196 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH6052_MAS6052", 
+		"AIRCRAFT_ID": "75269fe", 
+		"HEADING": "87.0", 
+		"SPEEDINKNOTS": "445.0", 
+		"HEIGHTINMETRES": "12283.58936844672", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "LBU", 
+		"FLIGHT": "MH6052", 
+		"CALLSIGN": "MAS6052", 
+		"REGCODE1": "750264", 
+		"REGCODE2": "9M-MUB", 
+		"SQUAWK": "2141", 
+		"AIRCRAFTTYPE": "A332", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75269fe&altitude=40300&equip_hint=A332&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.3216, 3.5307 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH704_MAS704", 
+		"AIRCRAFT_ID": "7526f7b", 
+		"HEADING": "87.0", 
+		"SPEEDINKNOTS": "417.0", 
+		"HEIGHTINMETRES": "11323.45769324555", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "MNL", 
+		"FLIGHT": "MH704", 
+		"CALLSIGN": "MAS704", 
+		"REGCODE1": "750319", 
+		"REGCODE2": "9M-MLS", 
+		"SQUAWK": "2161", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKJ3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526f7b&altitude=37150&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.9994, 3.4642 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "KC936_KZR936", 
+		"AIRCRAFT_ID": "7527c1f", 
+		"HEADING": "335.0", 
+		"SPEEDINKNOTS": "33.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "ALA", 
+		"FLIGHT": "KC936", 
+		"CALLSIGN": "KZR936", 
+		"REGCODE1": "484354", 
+		"REGCODE2": "P4-MAS", 
+		"SQUAWK": "2173", 
+		"AIRCRAFTTYPE": "B752", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527c1f&altitude=0&equip_hint=B752&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6843, 2.7392 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2103_TGW2103", 
+		"AIRCRAFT_ID": "75255f3", 
+		"HEADING": "157.0", 
+		"SPEEDINKNOTS": "443.0", 
+		"HEIGHTINMETRES": "11605.40112167764", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "TR2103", 
+		"CALLSIGN": "TGW2103", 
+		"REGCODE1": "76D02F", 
+		"REGCODE2": "9V-TAO", 
+		"SQUAWK": "6161", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75255f3&altitude=38075&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.4318, 3.3616 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "3K512_JSA512", 
+		"AIRCRAFT_ID": "752657b", 
+		"HEADING": "169.0", 
+		"SPEEDINKNOTS": "449.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "3K512", 
+		"CALLSIGN": "JSA512", 
+		"REGCODE1": "76AA6B", 
+		"REGCODE2": "9V-JSK", 
+		"SQUAWK": "6164", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-VTSB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752657b&altitude=37000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7253, 9.4545 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH604_MAS604", 
+		"AIRCRAFT_ID": "7527145", 
+		"HEADING": "191.0", 
+		"SPEEDINKNOTS": "257.0", 
+		"HEIGHTINMETRES": "2141.2460375518167", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH604", 
+		"CALLSIGN": "MAS604", 
+		"REGCODE1": "75027B", 
+		"REGCODE2": "9M-MLK", 
+		"SQUAWK": "2022", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "T-WMSA35", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527145&altitude=7025&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4746, 3.1825 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "EK415_UAE415", 
+		"AIRCRAFT_ID": "751b42c", 
+		"HEADING": "308.0", 
+		"SPEEDINKNOTS": "512.0", 
+		"HEIGHTINMETRES": "11582.540843696659", 
+		"LOCATIONSTART": "SYD", 
+		"LOCATIONEND": "DXB", 
+		"FLIGHT": "EK415", 
+		"CALLSIGN": "UAE415", 
+		"REGCODE1": "896186", 
+		"REGCODE2": "A6-EEG", 
+		"SQUAWK": "1456", 
+		"AIRCRAFTTYPE": "A388", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=751b42c&altitude=38000&equip_hint=A388&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.5198, 0.1829 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CA976_CCA976", 
+		"AIRCRAFT_ID": "7525ef0", 
+		"HEADING": "11.0", 
+		"SPEEDINKNOTS": "470.0", 
+		"HEIGHTINMETRES": "10972.933430870518", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "PEK", 
+		"FLIGHT": "CA976", 
+		"CALLSIGN": "CCA976", 
+		"REGCODE1": "780CBA", 
+		"REGCODE2": "B-5957", 
+		"SQUAWK": "0142", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525ef0&altitude=36000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 108.5974, 9.7416 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VN663_HVN663", 
+		"AIRCRAFT_ID": "752353b", 
+		"HEADING": "179.0", 
+		"SPEEDINKNOTS": "402.0", 
+		"HEIGHTINMETRES": "9022.189709826871", 
+		"LOCATIONSTART": "HAN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "VN663", 
+		"CALLSIGN": "HVN663", 
+		"REGCODE1": "888090", 
+		"REGCODE2": "VN-A331", 
+		"SQUAWK": "1753", 
+		"AIRCRAFTTYPE": "A321", 
+		"RADAR": "F-WMSA2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752353b&altitude=29600&equip_hint=A321&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1031, 3.0819 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_9MFYC", 
+		"AIRCRAFT_ID": "7526335", 
+		"HEADING": "290.0", 
+		"SPEEDINKNOTS": "124.0", 
+		"HEIGHTINMETRES": "815.3499146549622", 
+		"LOCATIONSTART": "SZB", 
+		"LOCATIONEND": "KBR", 
+		"FLIGHT": "", 
+		"CALLSIGN": "9MFYC", 
+		"REGCODE1": "75002F", 
+		"REGCODE2": "9M-FYC", 
+		"SQUAWK": "0343", 
+		"AIRCRAFTTYPE": "AT75", 
+		"RADAR": "T-MLAT7", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526335&altitude=2675&equip_hint=AT75&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4686, 3.0606 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2323_TGW2323", 
+		"AIRCRAFT_ID": "75264c4", 
+		"HEADING": "179.0", 
+		"SPEEDINKNOTS": "347.0", 
+		"HEIGHTINMETRES": "8785.966837356742", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "TR2323", 
+		"CALLSIGN": "TGW2323", 
+		"REGCODE1": "76D249", 
+		"REGCODE2": "9V-TRI", 
+		"SQUAWK": "5557", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264c4&altitude=28825&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1053, 2.9088 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "QR943_QTR943", 
+		"AIRCRAFT_ID": "75277a5", 
+		"HEADING": "96.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "DOH", 
+		"FLIGHT": "QR943", 
+		"CALLSIGN": "QTR943", 
+		"REGCODE1": "06A0F8", 
+		"REGCODE2": "A7-ALD", 
+		"SQUAWK": "0143", 
+		"AIRCRAFTTYPE": "A359", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75277a5&altitude=0&equip_hint=A359&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9979, 1.367 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TG431_THA431", 
+		"AIRCRAFT_ID": "7527090", 
+		"HEADING": "194.0", 
+		"SPEEDINKNOTS": "495.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "BKK", 
+		"LOCATIONEND": "DPS", 
+		"FLIGHT": "TG431", 
+		"CALLSIGN": "THA431", 
+		"REGCODE1": "88003F", 
+		"REGCODE2": "HS-TKB", 
+		"SQUAWK": "6162", 
+		"AIRCRAFTTYPE": "B773", 
+		"RADAR": "F-VTSB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527090&altitude=37000&equip_hint=B773&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.4906, 8.5126 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH752_MAS752", 
+		"AIRCRAFT_ID": "7525f2c", 
+		"HEADING": "35.0", 
+		"SPEEDINKNOTS": "446.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "HAN", 
+		"FLIGHT": "MH752", 
+		"CALLSIGN": "MAS752", 
+		"REGCODE1": "750219", 
+		"REGCODE2": "9M-MSJ", 
+		"SQUAWK": "2131", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525f2c&altitude=35000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.1797, 10.1648 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GA820_GIA820", 
+		"AIRCRAFT_ID": "7526056", 
+		"HEADING": "29.0", 
+		"SPEEDINKNOTS": "326.0", 
+		"HEIGHTINMETRES": "4861.619117288466", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "GA820", 
+		"CALLSIGN": "GIA820", 
+		"REGCODE1": "8A04F6", 
+		"REGCODE2": "PK-GNS", 
+		"SQUAWK": "2451", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKK4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526056&altitude=15950&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6925, 2.4421 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "3K697_JSA697", 
+		"AIRCRAFT_ID": "7526b7e", 
+		"HEADING": "32.0", 
+		"SPEEDINKNOTS": "447.0", 
+		"HEIGHTINMETRES": "10660.509631797122", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "HKG", 
+		"FLIGHT": "3K697", 
+		"CALLSIGN": "JSA697", 
+		"REGCODE1": "76AA6D", 
+		"REGCODE2": "9V-JSM", 
+		"SQUAWK": "0170", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526b7e&altitude=34975&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.148, 4.4393 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5199_AXM5199", 
+		"AIRCRAFT_ID": "7525e04", 
+		"HEADING": "261.0", 
+		"SPEEDINKNOTS": "480.0", 
+		"HEIGHTINMETRES": "11590.160936356986", 
+		"LOCATIONSTART": "SDK", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5199", 
+		"CALLSIGN": "AXM5199", 
+		"REGCODE1": "7502BC", 
+		"REGCODE2": "9M-AQS", 
+		"SQUAWK": "0464", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WBGG3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525e04&altitude=38025&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.6745, 3.8049 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK6434_AXM6434", 
+		"AIRCRAFT_ID": "7527d85", 
+		"HEADING": "12.0", 
+		"SPEEDINKNOTS": "383.0", 
+		"HEIGHTINMETRES": "4633.016337478663", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "KBR", 
+		"FLIGHT": "AK6434", 
+		"CALLSIGN": "AXM6434", 
+		"REGCODE1": "750140", 
+		"REGCODE2": "9M-AJT", 
+		"SQUAWK": "0371", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMSA5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527d85&altitude=15200&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.9979, 3.0304 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK103_WST103", 
+		"AIRCRAFT_ID": "7527f17", 
+		"HEADING": "217.0", 
+		"SPEEDINKNOTS": "131.0", 
+		"HEIGHTINMETRES": "632.4676908071202", 
+		"LOCATIONSTART": "KBR", 
+		"LOCATIONEND": "KMG", 
+		"FLIGHT": "AK103", 
+		"CALLSIGN": "WST103", 
+		"REGCODE1": "750141", 
+		"REGCODE2": "9M-AFR", 
+		"SQUAWK": "5121", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKC1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f17&altitude=2075&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.7287, 6.6989 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "SQ217_SIA217", 
+		"AIRCRAFT_ID": "7527b3f", 
+		"HEADING": "262.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "MEL", 
+		"FLIGHT": "SQ217", 
+		"CALLSIGN": "SIA217", 
+		"REGCODE1": "76CEE2", 
+		"REGCODE2": "9V-SWB", 
+		"SQUAWK": "2264", 
+		"AIRCRAFTTYPE": "B77W", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527b3f&altitude=0&equip_hint=B77W&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9936, 1.3691 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VN1232_HVN1232", 
+		"AIRCRAFT_ID": "7527d05", 
+		"HEADING": "19.0", 
+		"SPEEDINKNOTS": "442.0", 
+		"HEIGHTINMETRES": "7231.467934650085", 
+		"LOCATIONSTART": "PQC", 
+		"LOCATIONEND": "HAN", 
+		"FLIGHT": "VN1232", 
+		"CALLSIGN": "HVN1232", 
+		"REGCODE1": "8880B3", 
+		"REGCODE2": "VN-A604", 
+		"SQUAWK": "5755", 
+		"AIRCRAFTTYPE": "A321", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527d05&altitude=23725&equip_hint=A321&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.3458, 10.9532 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5596_AXM5596", 
+		"AIRCRAFT_ID": "752726e", 
+		"HEADING": "68.0", 
+		"SPEEDINKNOTS": "431.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "JHB", 
+		"LOCATIONEND": "TWU", 
+		"FLIGHT": "AK5596", 
+		"CALLSIGN": "AXM5596", 
+		"REGCODE1": "750159", 
+		"REGCODE2": "9M-AHF", 
+		"SQUAWK": "0111", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIOO3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752726e&altitude=37000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.4848, 2.0206 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX718_CPA718", 
+		"AIRCRAFT_ID": "75259ae", 
+		"HEADING": "24.0", 
+		"SPEEDINKNOTS": "456.0", 
+		"HEIGHTINMETRES": "11887.344550109729", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "HKG", 
+		"FLIGHT": "CX718", 
+		"CALLSIGN": "CPA718", 
+		"REGCODE1": "780133", 
+		"REGCODE2": "B-HNB", 
+		"SQUAWK": "2346", 
+		"AIRCRAFTTYPE": "B772", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75259ae&altitude=39000&equip_hint=B772&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.7727, 5.4356 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI601_SLK601", 
+		"AIRCRAFT_ID": "7527370", 
+		"HEADING": "197.0", 
+		"SPEEDINKNOTS": "461.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "PNH", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "MI601", 
+		"CALLSIGN": "SLK601", 
+		"REGCODE1": "76B4E2", 
+		"REGCODE2": "9V-MGB", 
+		"SQUAWK": "1611", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKC1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527370&altitude=37000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1836, 7.1578 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK891_AXM891", 
+		"AIRCRAFT_ID": "75252f4", 
+		"HEADING": "146.0", 
+		"SPEEDINKNOTS": "150.0", 
+		"HEIGHTINMETRES": "929.6513045598634", 
+		"LOCATIONSTART": "DMK", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK891", 
+		"CALLSIGN": "AXM891", 
+		"REGCODE1": "75027E", 
+		"REGCODE2": "9M-AQF", 
+		"SQUAWK": "0711", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMSA4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75252f4&altitude=3050&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6107, 2.9142 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CZ366_CSN366", 
+		"AIRCRAFT_ID": "7525dc5", 
+		"HEADING": "33.0", 
+		"SPEEDINKNOTS": "456.0", 
+		"HEIGHTINMETRES": "9753.718605218239", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "CAN", 
+		"FLIGHT": "CZ366", 
+		"CALLSIGN": "CSN366", 
+		"REGCODE1": "7802AC", 
+		"REGCODE2": "B-6290", 
+		"SQUAWK": "2147", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525dc5&altitude=32000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 108.0868, 8.9316 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5205_AXM5205", 
+		"AIRCRAFT_ID": "75273e9", 
+		"HEADING": "285.0", 
+		"SPEEDINKNOTS": "497.0", 
+		"HEIGHTINMETRES": "9753.718605218239", 
+		"LOCATIONSTART": "KCH", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5205", 
+		"CALLSIGN": "AXM5205", 
+		"REGCODE1": "7503B1", 
+		"REGCODE2": "9M-AJG", 
+		"SQUAWK": "2040", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIOO3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75273e9&altitude=32000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.7421, 2.1901 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2154_TGW2154", 
+		"AIRCRAFT_ID": "7527e97", 
+		"HEADING": "337.0", 
+		"SPEEDINKNOTS": "281.0", 
+		"HEIGHTINMETRES": "2042.1848329675688", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "HKT", 
+		"FLIGHT": "TR2154", 
+		"CALLSIGN": "TGW2154", 
+		"REGCODE1": "76D032", 
+		"REGCODE2": "9V-TAR", 
+		"SQUAWK": "2204", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSL1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527e97&altitude=6700&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.0265, 1.3759 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MU546_CES546", 
+		"AIRCRAFT_ID": "7526e00", 
+		"HEADING": "38.0", 
+		"SPEEDINKNOTS": "463.0", 
+		"HEIGHTINMETRES": "8534.50377956596", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "PVG", 
+		"FLIGHT": "MU546", 
+		"CALLSIGN": "CES546", 
+		"REGCODE1": "780B34", 
+		"REGCODE2": "B-5931", 
+		"SQUAWK": "2242", 
+		"AIRCRAFTTYPE": "A332", 
+		"RADAR": "F-WMKD1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526e00&altitude=28000&equip_hint=A332&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.0561, 3.1582 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "3K556_JSA556", 
+		"AIRCRAFT_ID": "75264c3", 
+		"HEADING": "179.0", 
+		"SPEEDINKNOTS": "332.0", 
+		"HEIGHTINMETRES": "5661.728846622775", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "3K556", 
+		"CALLSIGN": "JSA556", 
+		"REGCODE1": "76AA68", 
+		"REGCODE2": "9V-JSH", 
+		"SQUAWK": "5505", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264c3&altitude=18575&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.1051, 2.5166 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK648_AXM648", 
+		"AIRCRAFT_ID": "75262e8", 
+		"HEADING": "32.0", 
+		"SPEEDINKNOTS": "443.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "DAD", 
+		"FLIGHT": "AK648", 
+		"CALLSIGN": "AXM648", 
+		"REGCODE1": "75010B", 
+		"REGCODE2": "9M-AFF", 
+		"SQUAWK": "2154", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75262e8&altitude=35000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.1957, 8.7253 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK763_AXM763", 
+		"AIRCRAFT_ID": "7526284", 
+		"HEADING": "268.0", 
+		"SPEEDINKNOTS": "368.0", 
+		"HEIGHTINMETRES": "4701.597171421604", 
+		"LOCATIONSTART": "MYY", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "AK763", 
+		"CALLSIGN": "AXM763", 
+		"REGCODE1": "750111", 
+		"REGCODE2": "9M-AJS", 
+		"SQUAWK": "0463", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIKB1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526284&altitude=15425&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.8718, 1.1735 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_E35L", 
+		"AIRCRAFT_ID": "75272bd", 
+		"HEADING": "27.0", 
+		"SPEEDINKNOTS": "421.0", 
+		"HEIGHTINMETRES": "9448.91489880517", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "E35L", 
+		"REGCODE1": "", 
+		"REGCODE2": "", 
+		"SQUAWK": "2255", 
+		"AIRCRAFTTYPE": "E35L", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75272bd&altitude=31000&equip_hint=E35L&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.9611, 1.6978 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_MACHO", 
+		"AIRCRAFT_ID": "7525bd4", 
+		"HEADING": "234.0", 
+		"SPEEDINKNOTS": "221.0", 
+		"HEIGHTINMETRES": "7315.2889539136795", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "MACHO", 
+		"REGCODE1": "76E303", 
+		"REGCODE2": "017", 
+		"SQUAWK": "4344", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-MLAT5", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525bd4&altitude=24000&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.7082, 1.3936 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_", 
+		"AIRCRAFT_ID": "7527be7", 
+		"HEADING": "112.0", 
+		"SPEEDINKNOTS": "123.0", 
+		"HEIGHTINMETRES": "1676.420385271885", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "", 
+		"REGCODE1": "75023A", 
+		"REGCODE2": "9M-WAA", 
+		"SQUAWK": "3400", 
+		"AIRCRAFTTYPE": "A139", 
+		"RADAR": "T-MLAT7", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527be7&altitude=5500&equip_hint=A139&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.6246, 6.0242 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5322_AXM5322", 
+		"AIRCRAFT_ID": "7526f83", 
+		"HEADING": "94.0", 
+		"SPEEDINKNOTS": "442.0", 
+		"HEIGHTINMETRES": "10043.282126310656", 
+		"LOCATIONSTART": "PEN", 
+		"LOCATIONEND": "BKI", 
+		"FLIGHT": "AK5322", 
+		"CALLSIGN": "AXM5322", 
+		"REGCODE1": "75033B", 
+		"REGCODE2": "9M-AJC", 
+		"SQUAWK": "2132", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526f83&altitude=32950&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.8275, 3.7236 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD803_MXD803", 
+		"AIRCRAFT_ID": "7526cd0", 
+		"HEADING": "82.0", 
+		"SPEEDINKNOTS": "273.0", 
+		"HEIGHTINMETRES": "4777.798098024872", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "OD803", 
+		"CALLSIGN": "MXD803", 
+		"REGCODE1": "7502DB", 
+		"REGCODE2": "9M-LNP", 
+		"SQUAWK": "2146", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "T-WSSS2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526cd0&altitude=15675&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.5835, 1.0529 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD1330_OD1330", 
+		"AIRCRAFT_ID": "75265e3", 
+		"HEADING": "155.0", 
+		"SPEEDINKNOTS": "207.0", 
+		"HEIGHTINMETRES": "1318.2760302365275", 
+		"LOCATIONSTART": "PEN", 
+		"LOCATIONEND": "MKZ", 
+		"FLIGHT": "OD1330", 
+		"CALLSIGN": "OD1330", 
+		"REGCODE1": "7502DC", 
+		"REGCODE2": "9M-LMF", 
+		"SQUAWK": "2655", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMKM1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75265e3&altitude=4325&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.0486, 2.1996 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2574_MAS2574", 
+		"AIRCRAFT_ID": "75266b8", 
+		"HEADING": "75.0", 
+		"SPEEDINKNOTS": "441.0", 
+		"HEIGHTINMETRES": "10058.522311631308", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "MYY", 
+		"FLIGHT": "MH2574", 
+		"CALLSIGN": "MAS2574", 
+		"REGCODE1": "75020A", 
+		"REGCODE2": "9M-MXJ", 
+		"SQUAWK": "2164", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75266b8&altitude=33000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.9918, 3.5788 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD1001_MXD1001", 
+		"AIRCRAFT_ID": "7526e8d", 
+		"HEADING": "255.0", 
+		"SPEEDINKNOTS": "473.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "BKI", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "OD1001", 
+		"CALLSIGN": "MXD1001", 
+		"REGCODE1": "7502C4", 
+		"REGCODE2": "9M-LNH", 
+		"SQUAWK": "0414", 
+		"AIRCRAFTTYPE": "B739", 
+		"RADAR": "F-WBGG3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526e8d&altitude=34000&equip_hint=B739&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 111.5284, 4.7528 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2613_MAS2613", 
+		"AIRCRAFT_ID": "7525f99", 
+		"HEADING": "261.0", 
+		"SPEEDINKNOTS": "480.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "BKI", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH2613", 
+		"CALLSIGN": "MAS2613", 
+		"REGCODE1": "75027F", 
+		"REGCODE2": "9M-MLL", 
+		"SQUAWK": "0405", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525f99&altitude=34000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 106.9108, 3.5615 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH1269_MAS1269", 
+		"AIRCRAFT_ID": "7526ed6", 
+		"HEADING": "236.0", 
+		"SPEEDINKNOTS": "23.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "KUA", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH1269", 
+		"CALLSIGN": "MAS1269", 
+		"REGCODE1": "75020E", 
+		"REGCODE2": "9M-MXN", 
+		"SQUAWK": "0352", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526ed6&altitude=0&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7099, 2.7519 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "VN1356_HVN1356", 
+		"AIRCRAFT_ID": "752787f", 
+		"HEADING": "59.0", 
+		"SPEEDINKNOTS": "461.0", 
+		"HEIGHTINMETRES": "8229.70007315289", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "CXR", 
+		"FLIGHT": "VN1356", 
+		"CALLSIGN": "HVN1356", 
+		"REGCODE1": "8880AC", 
+		"REGCODE2": "VN-A601", 
+		"SQUAWK": "5735", 
+		"AIRCRAFTTYPE": "A321", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752787f&altitude=27000&equip_hint=A321&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.7834, 11.1557 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MI233_SLK233", 
+		"AIRCRAFT_ID": "75274f1", 
+		"HEADING": "94.0", 
+		"SPEEDINKNOTS": "448.0", 
+		"HEIGHTINMETRES": "11277.73713728359", 
+		"LOCATIONSTART": "KNO", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "MI233", 
+		"CALLSIGN": "SLK233", 
+		"REGCODE1": "76B4E8", 
+		"REGCODE2": "9V-MGH", 
+		"SQUAWK": "6711", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75274f1&altitude=37000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.8626, 2.1836 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK608_AXM608", 
+		"AIRCRAFT_ID": "75275b2", 
+		"HEADING": "87.0", 
+		"SPEEDINKNOTS": "448.0", 
+		"HEIGHTINMETRES": "8839.307485979029", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "KLO", 
+		"FLIGHT": "AK608", 
+		"CALLSIGN": "AXM608", 
+		"REGCODE1": "7501F1", 
+		"REGCODE2": "9M-AHX", 
+		"SQUAWK": "2162", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKJ3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75275b2&altitude=29000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.6339, 3.4446 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FY3542_FY3542", 
+		"AIRCRAFT_ID": "7526ed4", 
+		"HEADING": "307.0", 
+		"SPEEDINKNOTS": "271.0", 
+		"HEIGHTINMETRES": "4876.859302609119", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "IPH", 
+		"FLIGHT": "FY3542", 
+		"CALLSIGN": "FY3542", 
+		"REGCODE1": "7503CB", 
+		"REGCODE2": "9M-FIF", 
+		"SQUAWK": "0113", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526ed4&altitude=16000&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7315, 2.7297 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK273_AXM273", 
+		"AIRCRAFT_ID": "75259a8", 
+		"HEADING": "266.0", 
+		"SPEEDINKNOTS": "365.0", 
+		"HEIGHTINMETRES": "5600.76810534016", 
+		"LOCATIONSTART": "BWN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK273", 
+		"CALLSIGN": "AXM273", 
+		"REGCODE1": "75033C", 
+		"REGCODE2": "9M-AJE", 
+		"SQUAWK": "2004", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75259a8&altitude=18375&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.3526, 2.7802 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5641_AXM5641", 
+		"AIRCRAFT_ID": "7526e83", 
+		"HEADING": "267.0", 
+		"SPEEDINKNOTS": "492.0", 
+		"HEIGHTINMETRES": "9144.1111923921", 
+		"LOCATIONSTART": "MYY", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK5641", 
+		"CALLSIGN": "AXM5641", 
+		"REGCODE1": "750239", 
+		"REGCODE2": "9M-AQB", 
+		"SQUAWK": "0410", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526e83&altitude=30000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.061, 3.4661 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "ID7014_BTK7014", 
+		"AIRCRAFT_ID": "751e26e", 
+		"HEADING": "137.0", 
+		"SPEEDINKNOTS": "428.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "KNO", 
+		"LOCATIONEND": "HLP", 
+		"FLIGHT": "ID7014", 
+		"CALLSIGN": "BTK7014", 
+		"REGCODE1": "8A04CE", 
+		"REGCODE2": "PK-LBS", 
+		"SQUAWK": "4713", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMSA4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=751e26e&altitude=35000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.2562, 1.0178 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_CPA777", 
+		"AIRCRAFT_ID": "7524fa8", 
+		"HEADING": "211.0", 
+		"SPEEDINKNOTS": "498.0", 
+		"HEIGHTINMETRES": "11887.344550109729", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "CGK", 
+		"FLIGHT": "", 
+		"CALLSIGN": "CPA777", 
+		"REGCODE1": "780237", 
+		"REGCODE2": "B-LAL", 
+		"SQUAWK": "5325", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-VVCT1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7524fa8&altitude=39000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.9247, 10.7791 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GA898_GIA898", 
+		"AIRCRAFT_ID": "7526254", 
+		"HEADING": "27.0", 
+		"SPEEDINKNOTS": "449.0", 
+		"HEIGHTINMETRES": "10668.129724457449", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "CAN", 
+		"FLIGHT": "GA898", 
+		"CALLSIGN": "GIA898", 
+		"REGCODE1": "8A0450", 
+		"REGCODE2": "PK-GNO", 
+		"SQUAWK": "2443", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526254&altitude=35000&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.3507, 2.8549 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK417_AXM417", 
+		"AIRCRAFT_ID": "7525520", 
+		"HEADING": "326.0", 
+		"SPEEDINKNOTS": "287.0", 
+		"HEIGHTINMETRES": "3177.5786393562544", 
+		"LOCATIONSTART": "BDO", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK417", 
+		"CALLSIGN": "AXM417", 
+		"REGCODE1": "75010A", 
+		"REGCODE2": "9M-AFE", 
+		"SQUAWK": "2440", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525520&altitude=10425&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7766, 2.8767 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_PAL502", 
+		"AIRCRAFT_ID": "75277bc", 
+		"HEADING": "112.0", 
+		"SPEEDINKNOTS": "4.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "PAL502", 
+		"REGCODE1": "758335", 
+		"REGCODE2": "", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-WSAP4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75277bc&altitude=0&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9982, 1.364 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GA828_GIA828", 
+		"AIRCRAFT_ID": "7526114", 
+		"HEADING": "202.0", 
+		"SPEEDINKNOTS": "159.0", 
+		"HEIGHTINMETRES": "15.240185320653499", 
+		"LOCATIONSTART": "CGK", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "GA828", 
+		"CALLSIGN": "GIA828", 
+		"REGCODE1": "8A02D6", 
+		"REGCODE2": "PK-GMX", 
+		"SQUAWK": "7140", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526114&altitude=50&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9824, 1.36 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD1601_MXD1601", 
+		"AIRCRAFT_ID": "752587e", 
+		"HEADING": "156.0", 
+		"SPEEDINKNOTS": "186.0", 
+		"HEIGHTINMETRES": "1165.8741770299926", 
+		"LOCATIONSTART": "KCH", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "OD1601", 
+		"CALLSIGN": "MXD1601", 
+		"REGCODE1": "7503D9", 
+		"REGCODE2": "9M-LNT", 
+		"SQUAWK": "2060", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMSA2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752587e&altitude=3825&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.5148, 3.0631 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_", 
+		"AIRCRAFT_ID": "7527f6a", 
+		"HEADING": "218.0", 
+		"SPEEDINKNOTS": "0.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "", 
+		"REGCODE1": "76EB45", 
+		"REGCODE2": "-", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "", 
+		"RADAR": "T-WSAP4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f6a&altitude=0&equip_hint=&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9989, 1.3682 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "HY551_UZB551", 
+		"AIRCRAFT_ID": "7527f4a", 
+		"HEADING": "203.0", 
+		"SPEEDINKNOTS": "178.0", 
+		"HEIGHTINMETRES": "739.1489880516947", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "HY551", 
+		"CALLSIGN": "UZB551", 
+		"REGCODE1": "507C46", 
+		"REGCODE2": "UK-75701", 
+		"SQUAWK": "0172", 
+		"AIRCRAFTTYPE": "B752", 
+		"RADAR": "F-WSSS1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f4a&altitude=2425&equip_hint=B752&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.9885, 1.3163 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK543_AXM543", 
+		"AIRCRAFT_ID": "75255d0", 
+		"HEADING": "146.0", 
+		"SPEEDINKNOTS": "17.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "REP", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK543", 
+		"CALLSIGN": "AXM543", 
+		"REGCODE1": "75029C", 
+		"REGCODE2": "9M-AQM", 
+		"SQUAWK": "1607", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75255d0&altitude=0&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.7147, 2.7559 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "FY2113_FY2113", 
+		"AIRCRAFT_ID": "75279c5", 
+		"HEADING": "214.0", 
+		"SPEEDINKNOTS": "247.0", 
+		"HEIGHTINMETRES": "4191.050963179712", 
+		"LOCATIONSTART": "TGG", 
+		"LOCATIONEND": "SZB", 
+		"FLIGHT": "FY2113", 
+		"CALLSIGN": "FY2113", 
+		"REGCODE1": "7503D6", 
+		"REGCODE2": "9M-FIC", 
+		"SQUAWK": "0364", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75279c5&altitude=13750&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.5281, 4.5934 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "GA825_GIA825", 
+		"AIRCRAFT_ID": "752701b", 
+		"HEADING": "147.0", 
+		"SPEEDINKNOTS": "439.0", 
+		"HEIGHTINMETRES": "8968.849061204584", 
+		"LOCATIONSTART": "SIN", 
+		"LOCATIONEND": "CGK", 
+		"FLIGHT": "GA825", 
+		"CALLSIGN": "GIA825", 
+		"REGCODE1": "8A023E", 
+		"REGCODE2": "PK-GFF", 
+		"SQUAWK": "0161", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKJ3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=752701b&altitude=29425&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 104.5372, 0.2293 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH2543_MAS2543", 
+		"AIRCRAFT_ID": "7525a04", 
+		"HEADING": "145.0", 
+		"SPEEDINKNOTS": "142.0", 
+		"HEIGHTINMETRES": "495.3060229212387", 
+		"LOCATIONSTART": "KCH", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "MH2543", 
+		"CALLSIGN": "MAS2543", 
+		"REGCODE1": "750244", 
+		"REGCODE2": "9M-MLJ", 
+		"SQUAWK": "2057", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525a04&altitude=1625&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6585, 2.8429 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX759_CPA759", 
+		"AIRCRAFT_ID": "7523751", 
+		"HEADING": "213.0", 
+		"SPEEDINKNOTS": "487.0", 
+		"HEIGHTINMETRES": "12192.148256522798", 
+		"LOCATIONSTART": "HKG", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "CX759", 
+		"CALLSIGN": "CPA759", 
+		"REGCODE1": "780209", 
+		"REGCODE2": "B-LAH", 
+		"SQUAWK": "5320", 
+		"AIRCRAFTTYPE": "A333", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7523751&altitude=40000&equip_hint=A333&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.5816, 7.0407 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "_GLEX", 
+		"AIRCRAFT_ID": "7526334", 
+		"HEADING": "33.0", 
+		"SPEEDINKNOTS": "447.0", 
+		"HEIGHTINMETRES": "13716.166788588149", 
+		"LOCATIONSTART": "", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "", 
+		"CALLSIGN": "GLEX", 
+		"REGCODE1": "", 
+		"REGCODE2": "", 
+		"SQUAWK": "2244", 
+		"AIRCRAFTTYPE": "GLEX", 
+		"RADAR": "T-EST1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526334&altitude=45000&equip_hint=GLEX&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 107.0142, 7.3139 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK329_AXM329", 
+		"AIRCRAFT_ID": "7526146", 
+		"HEADING": "308.0", 
+		"SPEEDINKNOTS": "476.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "SRG", 
+		"LOCATIONEND": "KUL", 
+		"FLIGHT": "AK329", 
+		"CALLSIGN": "AXM329", 
+		"REGCODE1": "7501E6", 
+		"REGCODE2": "9M-AHV", 
+		"SQUAWK": "2420", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WIPP2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526146&altitude=34000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 105.5175, 0.1838 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "MH717_MAS717", 
+		"AIRCRAFT_ID": "75278af", 
+		"HEADING": "123.0", 
+		"SPEEDINKNOTS": "461.0", 
+		"HEIGHTINMETRES": "8641.185076810534", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "CGK", 
+		"FLIGHT": "MH717", 
+		"CALLSIGN": "MAS717", 
+		"REGCODE1": "75020C", 
+		"REGCODE2": "9M-MXL", 
+		"SQUAWK": "2140", 
+		"AIRCRAFTTYPE": "B738", 
+		"RADAR": "F-WMKM2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75278af&altitude=28350&equip_hint=B738&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 102.4247, 1.7599 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK5204_AXM5204", 
+		"AIRCRAFT_ID": "7525e2c", 
+		"HEADING": "248.0", 
+		"SPEEDINKNOTS": "148.0", 
+		"HEIGHTINMETRES": "99.06120458424773", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "KCH", 
+		"FLIGHT": "AK5204", 
+		"CALLSIGN": "AXM5204", 
+		"REGCODE1": "750323", 
+		"REGCODE2": "9M-AQY", 
+		"SQUAWK": "2117", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WBGG3", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7525e2c&altitude=325&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 110.3812, 1.4986 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "AK625_AXM625", 
+		"AIRCRAFT_ID": "75264c2", 
+		"HEADING": "139.0", 
+		"SPEEDINKNOTS": "444.0", 
+		"HEIGHTINMETRES": "10363.32601804438", 
+		"LOCATIONSTART": "SGN", 
+		"LOCATIONEND": "JHB", 
+		"FLIGHT": "AK625", 
+		"CALLSIGN": "AXM625", 
+		"REGCODE1": "750272", 
+		"REGCODE2": "9M-AQE", 
+		"SQUAWK": "5673", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKN1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=75264c2&altitude=34000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8885, 3.3407 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "CX790_CPA790", 
+		"AIRCRAFT_ID": "7527091", 
+		"HEADING": "54.0", 
+		"SPEEDINKNOTS": "457.0", 
+		"HEIGHTINMETRES": "8839.307485979029", 
+		"LOCATIONSTART": "KUL", 
+		"LOCATIONEND": "HKG", 
+		"FLIGHT": "CX790", 
+		"CALLSIGN": "CPA790", 
+		"REGCODE1": "780175", 
+		"REGCODE2": "B-HXH", 
+		"SQUAWK": "2176", 
+		"AIRCRAFTTYPE": "A343", 
+		"RADAR": "F-WMKD1", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527091&altitude=29000&equip_hint=A343&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 103.8313, 3.6807 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "TR2153_TGW2153", 
+		"AIRCRAFT_ID": "7526625", 
+		"HEADING": "156.0", 
+		"SPEEDINKNOTS": "456.0", 
+		"HEIGHTINMETRES": "11887.344550109729", 
+		"LOCATIONSTART": "HKT", 
+		"LOCATIONEND": "SIN", 
+		"FLIGHT": "TR2153", 
+		"CALLSIGN": "TGW2153", 
+		"REGCODE1": "76D035", 
+		"REGCODE2": "9V-TAU", 
+		"SQUAWK": "0762", 
+		"AIRCRAFTTYPE": "A320", 
+		"RADAR": "F-WMKK2", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7526625&altitude=39000&equip_hint=A320&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.6391, 3.2232 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"NAME": "OD1507_OD1507", 
+		"AIRCRAFT_ID": "7527f32", 
+		"HEADING": "149.0", 
+		"SPEEDINKNOTS": "43.0", 
+		"HEIGHTINMETRES": "0.0", 
+		"LOCATIONSTART": "SZB", 
+		"LOCATIONEND": "", 
+		"FLIGHT": "OD1507", 
+		"CALLSIGN": "OD1507", 
+		"REGCODE1": "7503B6", 
+		"REGCODE2": "9M-LMM", 
+		"SQUAWK": "0000", 
+		"AIRCRAFTTYPE": "AT76", 
+		"RADAR": "F-WMSA4", 
+		"URL": "	http://arn.data.fr24.com/_external/planedata_json.1.4.php?f=7527f32&altitude=0&equip_hint=AT76&format=2&callback=flight_data_service_cb&_=1441336678959", 
+		"CREATEDATETIME": "20150904111758"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 101.5472, 3.1344 ] } 
+	 }
+
+	]
+}
+];

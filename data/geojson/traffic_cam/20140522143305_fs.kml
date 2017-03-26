@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>PUB Flood Cameras (48)</name>
+    <Style id="pub_floodcamera">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_floodcamera.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>bfffaa55</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>C001</name>
+      <description>[Recorded=20140522143307],Create DateTime=20140522143308<![CDATA[<img src='./C001.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.82337068935962,1.3043810576961077, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C002</name>
+      <description>[Recorded=20140522143308],Create DateTime=20140522143310<![CDATA[<img src='./C002.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.82555568392631,1.3047356199768279, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C003</name>
+      <description>[Recorded=20140522143310],Create DateTime=20140522143312<![CDATA[<img src='./C003.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.82779299098391,1.305787994064175, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C005</name>
+      <description>[Recorded=20140522143312],Create DateTime=20140522143313<![CDATA[<img src='./C005.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.82867010640389,1.306489607763624, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C006</name>
+      <description>[Recorded=20140522143313],Create DateTime=20140522143315<![CDATA[<img src='./C006.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.8306368568307,1.30547066769995, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C007</name>
+      <description>[Recorded=20140522143315],Create DateTime=20140522143316<![CDATA[<img src='./C007.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.83022846767739,1.3051154615549763, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C008</name>
+      <description>[Recorded=20140522143316],Create DateTime=20140522143319<![CDATA[<img src='./C008.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.83435118866659,1.3037732204650991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C009</name>
+      <description>[Recorded=20140522143319],Create DateTime=20140522143320<![CDATA[<img src='./C009.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.83514208044178,1.3041433747724747, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C013</name>
+      <description>[Recorded=20140522143320],Create DateTime=20140522143322<![CDATA[<img src='./C013.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84411338184744,1.2801641954412448, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C014</name>
+      <description>[Recorded=20140522143322],Create DateTime=20140522143324<![CDATA[<img src='./C014.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.85012350647546,1.2790027739499055, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C015</name>
+      <description>[Recorded=20140522143324],Create DateTime=20140522143326<![CDATA[<img src='./C015.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.85401888362975,1.276881278076094, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C021</name>
+      <description>[Recorded=20140522143326],Create DateTime=20140522143328<![CDATA[<img src='./C021.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.7956683017527,1.3314311301179718, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C024</name>
+      <description>[Recorded=20140522143328],Create DateTime=20140522143330<![CDATA[<img src='./C024.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.80575210136088,1.3277200685166095, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C026</name>
+      <description>[Recorded=20140522143330],Create DateTime=20140522143333<![CDATA[<img src='./C026.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.8111948934559,1.3233499653244123, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C029</name>
+      <description>[Recorded=20140522143333],Create DateTime=20140522143335<![CDATA[<img src='./C029.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.81933450515967,1.3226774522055587, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C030</name>
+      <description>[Recorded=20140522143335],Create DateTime=20140522143340<![CDATA[<img src='./C030.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.8288654096015,1.3194544922019915, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C031</name>
+      <description>[Recorded=20140522143340],Create DateTime=20140522143342<![CDATA[<img src='./C031.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.83861178130492,1.3125397689731886, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C032</name>
+      <description>[Recorded=20140522143342],Create DateTime=20140522143344<![CDATA[<img src='./C032.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.8426631379155,1.3135540605896021, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C033</name>
+      <description>[Recorded=20140522143344],Create DateTime=20140522143346<![CDATA[<img src='./C033.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.85575389543706,1.306617044356885, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C037</name>
+      <description>[Recorded=20140522143346],Create DateTime=20140522143348<![CDATA[<img src='./C037.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84425047346606,1.3182335494477433, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C038</name>
+      <description>[Recorded=20140522143348],Create DateTime=20140522143350<![CDATA[<img src='./C038.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84373847145045,1.3186209253806296, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C040</name>
+      <description>[Recorded=20140522143350],Create DateTime=20140522143352<![CDATA[<img src='./C040.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84909276060426,1.3157225938950936, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C042</name>
+      <description>[Recorded=20140522143352],Create DateTime=20140522143354<![CDATA[<img src='./C042.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.85022577809625,1.3182637757690367, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C043</name>
+      <description>[Recorded=20140522143354],Create DateTime=20140522143355<![CDATA[<img src='./C043.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.85244173106642,1.3228716292873408, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C044</name>
+      <description>[Recorded=20140522143355],Create DateTime=20140522143357<![CDATA[<img src='./C044.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84986472685367,1.3257690194113037, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C050</name>
+      <description>[Recorded=20140522143357],Create DateTime=20140522143400<![CDATA[<img src='./C050.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.88242003343476,1.3322093014847227, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C051</name>
+      <description>[Recorded=20140522143400],Create DateTime=20140522143403<![CDATA[<img src='./C051.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.88469616723525,1.332696551058745, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C057</name>
+      <description>[Recorded=20140522143403],Create DateTime=20140522143405<![CDATA[<img src='./C057.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.862736015341,1.3169075795362375, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C065</name>
+      <description>[Recorded=20140522143405],Create DateTime=20140522143407<![CDATA[<img src='./C065.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.84076710711128,1.3698407507152057, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C066</name>
+      <description>[Recorded=20140522143407],Create DateTime=20140522143409<![CDATA[<img src='./C066.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.83496190021314,1.3533936081402371, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E007</name>
+      <description>[Recorded=20140522143409],Create DateTime=20140522143413<![CDATA[<img src='./E007.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.92320476010372,1.3228669184075679, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E013</name>
+      <description>[Recorded=20140522143413],Create DateTime=20140522143415<![CDATA[<img src='./E013.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.94854101337853,1.3685794073536706, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E014</name>
+      <description>[Recorded=20140522143415],Create DateTime=20140522143418<![CDATA[<img src='./E014.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.896206894824,1.3999841649426026, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E016</name>
+      <description>[Recorded=20140522143418],Create DateTime=20140522143421<![CDATA[<img src='./E016.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.89102305583549,1.3610115786105355, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E017</name>
+      <description>[Recorded=20140522143421],Create DateTime=20140522143423<![CDATA[<img src='./E017.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.88899954402355,1.3526414519959749, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E025</name>
+      <description>[Recorded=20140522143423],Create DateTime=20140522143426<![CDATA[<img src='./E025.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.78684780202484,1.427499448523052, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E026</name>
+      <description>[Recorded=20140522143426],Create DateTime=20140522143428<![CDATA[<img src='./E026.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.82418638875649,1.4418014622889122, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E027</name>
+      <description>[Recorded=20140522143428],Create DateTime=20140522143430<![CDATA[<img src='./E027.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.92317471853345,1.323034017960574, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W003</name>
+      <description>[Recorded=20140522143430],Create DateTime=20140522143433<![CDATA[<img src='./W003.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.72034610052734,1.3446549215342234, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W004</name>
+      <description>[Recorded=20140522143433],Create DateTime=20140522143435<![CDATA[<img src='./W004.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.70830081367016,1.3308686485705654, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W005</name>
+      <description>[Recorded=20140522143435],Create DateTime=20140522143437<![CDATA[<img src='./W005.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.70805230585717,1.3636611186389653, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W006</name>
+      <description>[Recorded=20140522143437],Create DateTime=20140522143439<![CDATA[<img src='./W006.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.7557345162158,1.4130869319960675, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W007</name>
+      <description>[Recorded=20140522143439],Create DateTime=20140522143441<![CDATA[<img src='./W007.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.75669710450008,1.3866376655908748, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W014</name>
+      <description>[Recorded=20140522143441],Create DateTime=20140522143447<![CDATA[<img src='./W014.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.78929130106677,1.3335934661746864, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W016</name>
+      <description>[Recorded=20140522143447],Create DateTime=20140522143450<![CDATA[<img src='./W016.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.78995330686551,1.3339309128178054, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W019</name>
+      <description>[Recorded=20140522143450],Create DateTime=20140522143452<![CDATA[<img src='./W019.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.7989790987667,1.3015798476593, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W026</name>
+      <description>[Recorded=20140522143452],Create DateTime=20140522143455<![CDATA[<img src='./W026.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.76219660911651,1.3569760469836711, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C028</name>
+      <description>[Recorded=20140522143455],Create DateTime=20140522143457<![CDATA[<img src='./C028.jpg'>]]></description>
+      <styleUrl>#pub_floodcamera</styleUrl>
+      <Point>
+        <coordinates>103.80695357255587,1.3179285730594719, 0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+

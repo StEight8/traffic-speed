@@ -1,0 +1,292 @@
+var activeGDACS = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000220", 
+		"name": "Green Alert for  Tropical Cyclone JOAQUIN-15", 
+		"desc": "Date, Wed, 30 Sep 2015 03:00:00 GMT, Location, 25.80,-71.70 (lat,lon), Severity, Tropical Storm (maximum wind speed of 167 km\/h) , Population, Population affected by Category 1 (120 km\/h) wind speeds or higher is 0, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000220", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.70, 25.80 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000220_Red", 
+		"name": "Tropical Cyclone 120 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -73.4274, 25.5077 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000220_Green", 
+		"name": "Tropical Cyclone 60 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.5752, 27.6227 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000220_Orange", 
+		"name": "Tropical Cyclone 90 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -72.0192, 26.5705 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000219", 
+		"name": "Green Alert for  Tropical Cyclone MARTY-15", 
+		"desc": "Date, Wed, 30 Sep 2015 03:00:00 GMT, Location, 16.30,-101.20 (lat,lon), Severity, Tropical Storm (maximum wind speed of 130 km\/h) , Population, Population affected by Category 1 (120 km\/h) wind speeds or higher is 0, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000219", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -101.20, 16.30 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000219_Red", 
+		"name": "Tropical Cyclone 120 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -102.1, 16.45 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000219_Green", 
+		"name": "Tropical Cyclone 60 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -103, 12.933 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000219_Orange", 
+		"name": "Tropical Cyclone 90 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -102.8, 14.567 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Earthquake", 
+		"id": "EQ_1067132", 
+		"name": "Green Alert for  Earthquake in Chile", 
+		"desc": "Date, Sat, 26 Sep 2015 02:51:18 GMT, Location, -30.82,-71.39 (lat,lon), Severity, Magnitude 6.2M, Depth:38.07km , Population, 547830 people within 100km, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1067132", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.39, -30.82 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Earthquake", 
+		"id": "EQ_1067132_Intensity", 
+		"name": "Earthquake Intensity VI (estimated)", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.385, -31.111999999999995 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000218", 
+		"name": "Green Alert for  Tropical Cyclone NIALA-15", 
+		"desc": "Date, Tue, 29 Sep 2015 03:00:00 GMT, Location, 15.50,-158.80 (lat,lon), Severity, Tropical Depression (maximum wind speed of 102 km\/h) , Population, Population affected by Category 1 (120 km\/h) wind speeds or higher is 0, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000218", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -158.80, 15.50 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000218_Green", 
+		"name": "Tropical Cyclone 60 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -150.1, 14.016 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000218_Orange", 
+		"name": "Tropical Cyclone 90 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -152.1, 17.6 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000217", 
+		"name": "Red Alert for  Tropical Cyclone DUJUAN-15", 
+		"desc": "Date, Tue, 29 Sep 2015 00:00:00 GMT, Location, 25.00,119.10 (lat,lon), Severity, Hurricane\/Typhoon > 74 mph (maximum wind speed of 231 km\/h) , Population, Population affected by Category 1 (120 km\/h) wind speeds or higher is 1.029 million, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000217", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 119.10, 25.00 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000217_Red", 
+		"name": "Tropical Cyclone 120 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 131.8, 19.05 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000217_Green", 
+		"name": "Tropical Cyclone 60 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 136.7, 15.932 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000217_Orange", 
+		"name": "Tropical Cyclone 90 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 132.2, 18 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000214", 
+		"name": "Green Alert for  Tropical Cyclone IDA-15", 
+		"desc": "Date, Sun, 27 Sep 2015 21:00:00 GMT, Location, 24.50,-48.70 (lat,lon), Severity, Tropical Depression (maximum wind speed of 83 km\/h) , Population, Population affected by Category 1 (120 km\/h) wind speeds or higher is 0, Details, GDACS Report, Provided by GDACS", 
+		"url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000214", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -48.70, 24.50 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Tropical Cyclone", 
+		"id": "TC_1000214_Green", 
+		"name": "Tropical Cyclone 60 km/h", 
+		"desc": "", 
+		"url": "", 
+		"createdatetime": "20150930162452"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -37.5, 13.2 ] } 
+	 }
+
+	]
+}
+];

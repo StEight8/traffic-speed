@@ -1,0 +1,837 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "name": "Woodlands Checkpoint (Towards BKE)",
+                "images": ["geojson/images/2702.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.768339660158,
+                    1.44555410852187
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "name": "Second Link at Tuas",
+                "images": ["geojson/images/4703.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635041328775,
+                    1.348697861667
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "name": "Rivervale Drive (Towards SLE)",
+                "images": ["geojson/images/7796.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.904105375325,
+                    1.39569973757996
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "name": "Jurong West St 81 (Towards Jurong)",
+                "images": ["geojson/images/6708.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.691817478917,
+                    1.34634720875012
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "name": "Chua Chu Kang St 53 (Towards PIE)",
+                "images": ["geojson/images/8701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745981642361,
+                    1.3903208663645
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "name": "Woodlands Causeway (Towards Johor)",
+                "images": ["geojson/images/2701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771654290857,
+                    1.44702372838641
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "name": "Pandan Gardens (Towards Tuas)",
+                "images": ["geojson/images/4710.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.750234473366,
+                    1.32044509037027
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "name": "Tanjong Katong Flyover (Towards Changi)",
+                "images": ["geojson/images/3796.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898301879111,
+                    1.29751256855421
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "name": "St George's Rd (Towards AYE)",
+                "images": ["geojson/images/1701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858780239941,
+                    1.32360482302649
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "name": "St George's Rd (Towards SLE)",
+                "images": ["geojson/images/1703.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86220328204826,
+                    1.328147221948573
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "name": "Braddell Flyover (Towards SLE)",
+                "images": ["geojson/images/1702.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.860198364379,
+                    1.34355015009339
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "name": "Ang Mo Kio Ave 5 Flyover (Towards City)",
+                "images": ["geojson/images/1705.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858798593508,
+                    1.3759250224871
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "name": "Tuas Checkpoint",
+                "images": ["geojson/images/4713.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.636695549129,
+                    1.34764582917724
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "name": "Near Tuas Ave 8 exit (Towards Tuas)",
+                "images": ["geojson/images/4712.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.643913387427,
+                    1.34124400068073
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "name": "Woodlands South Flyover (Towards Woodlands)",
+                "images": ["geojson/images/9703.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771251917445,
+                    1.42162894397039
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "name": "Lentor Flyover (Towards TPE)",
+                "images": ["geojson/images/9701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834743177953,
+                    1.39471746642552
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "name": "SLE Flyover (Towards BKE)",
+                "images": ["geojson/images/7798.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854071579846,
+                    1.39751434675496
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "name": "Marine Parade  Flyover (Towards City)",
+                "images": ["geojson/images/3795.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91059632023654,
+                    1.3014514516606621
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "name": "Tanjong Rhu (Towards AYE)",
+                "images": ["geojson/images/3797.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88528304930898,
+                    1.29565733262976
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "name": "Benjamin Sheares Bridge",
+                "images": ["geojson/images/3798.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861598706499,
+                    1.2915848398839
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "name": "Alexandra Rd (Towards ECP)",
+                "images": ["geojson/images/4701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79407059546816,
+                    1.2884443714667655
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "name": "Lower Delta (Towards City)",
+                "images": ["geojson/images/4704.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823899138306,
+                    1.27873007552855
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "name": "Keppel Viaduct",
+                "images": ["geojson/images/4702.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832674338568,
+                    1.27218996050662
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "name": "Bedok North (Towards Jurong)",
+                "images": ["geojson/images/5794.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.916861568309,
+                    1.3309693003786
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "name": "Bedok Flyover (Towards Jurong)",
+                "images": ["geojson/images/5795.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905625036063,
+                    1.32602482201594
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "name": "Paya Lebar Flyover (Towards Jurong)",
+                "images": ["geojson/images/5797.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.891079283348,
+                    1.32287528799973
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "name": "Kallang",
+                "images": ["geojson/images/5798.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.877174116489,
+                    1.32036078126842
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "name": "Woodsville Flyover (Towards Changi)",
+                "images": ["geojson/images/5799.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.868519130659,
+                    1.32817160800947
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "name": "Kim Keat (Towards Changi)",
+                "images": ["geojson/images/6701.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.858644305985,
+                    1.32883258494797
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "name": "Laguna Flyover (Towards Changi)",
+                "images": ["geojson/images/3793.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93505039653,
+                    1.30933083658948
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "name": "Thomson Rd",
+                "images": ["geojson/images/6703.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84308798265,
+                    1.33003101529272
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "name": "Mt Pleasant (Towards Jurong)",
+                "images": ["geojson/images/6704.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82685729563286,
+                    1.3265740363236604
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "name": "Adam Road (Towards Changi)",
+                "images": ["geojson/images/6705.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81872330516264,
+                    1.3314126655538856
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "name": "Bukit Timah Expressway (Towards Changi)",
+                "images": ["geojson/images/6706.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.795279946549,
+                    1.34942889274899
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "name": "KPE/ECP",
+                "images": ["geojson/images/1001.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871145993977,
+                    1.29531332000902
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "name": "Kallang Bahru",
+                "images": ["geojson/images/1002.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.878562714946,
+                    1.31954106749762
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "name": "Kallang Way Flyover",
+                "images": ["geojson/images/1004.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875066845504,
+                    1.31953571184396
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "name": "KPE/PIE",
+                "images": ["geojson/images/1003.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872857583338,
+                    1.32395743906752
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "name": "Defu Flyover",
+                "images": ["geojson/images/1005.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905394003335,
+                    1.36351988576149
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "name": "KPE 8.5km",
+                "images": ["geojson/images/1006.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902042030759,
+                    1.3570986855431
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "name": "Near NUH (Towards Tuas)",
+                "images": ["geojson/images/4706.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.781380954829,
+                    1.29802372861857
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "name": "Near Dover ITE (Towards ECP)",
+                "images": ["geojson/images/4708.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.780061141998,
+                    1.2995281111972
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "name": "Chantek Flyover (Towards PIE)",
+                "images": ["geojson/images/2703.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7910335813251,
+                    1.3504779079138587
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "name": "Woodlands Flyover (Towards Checkpoint)",
+                "images": ["geojson/images/2704.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769311040849,
+                    1.42958853559909
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "name": "Dairy Farm Flyover (Towards PIE)",
+                "images": ["geojson/images/2705.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.779469756849,
+                    1.36728572001716
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "name": "Upper Changi Flyover (Towards PIE)",
+                "images": ["geojson/images/7791.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9638489544,
+                    1.35425716898297
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "name": "Sentosa Gateway Towards Sentosa",
+                "images": ["geojson/images/4799.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823888890049,
+                    1.26027777363278
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "name": "Sentosa Gateway Towards Telok Blangah",
+                "images": ["geojson/images/4798.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.823611110166,
+                    1.25999999687243
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "name": "Marina Boulevard/Marina Coastal Drive",
+                "images": ["geojson/images/1502.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861828440597,
+                    1.27135090682664
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "name": "MCE 1.02km",
+                "images": ["geojson/images/1503.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856977943394,
+                    1.27066408655104
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "name": "MCE/ECP",
+                "images": ["geojson/images/1504.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.876056196568,
+                    1.29409891409364
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "name": "Marina Boulevard",
+                "images": ["geojson/images/1505.jpg"],
+                "type": "#traffic_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866390381759,
+                    1.2752977149006
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,601 @@
+var activePDC = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8055", 
+		"TITLE": "Tropical Storm - Joa ...", 
+		"TYPE": "CYCLONE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58235", 
+		"CREATEDATETIME": "2015-09-27 16:41:21", 
+		"UPDATEDDATETIME": "2 hrs 16 mins ago", 
+		"LOCATION": "25.7999992, -71.6999969"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.6999969, 25.7999992 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8049", 
+		"TITLE": "Tropical Storm - Mar ...", 
+		"TYPE": "CYCLONE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58207", 
+		"CREATEDATETIME": "2015-09-26 10:37:22", 
+		"UPDATEDDATETIME": "2 hrs 18 mins ago", 
+		"LOCATION": "16.2999992, -101.1999969"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -101.1999969, 16.2999992 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8072", 
+		"TITLE": "Earthquake - 5.0 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58298", 
+		"CREATEDATETIME": "2015-09-29 17:31:31", 
+		"UPDATEDDATETIME": "4 hrs 52 mins ago", 
+		"LOCATION": "-7.2154999, 154.4664001"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 154.4664001, -7.2154999 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8071", 
+		"TITLE": "Typhoon - Dujuan", 
+		"TYPE": "CYCLONE", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58051", 
+		"CREATEDATETIME": "2015-09-21 10:39:15", 
+		"UPDATEDDATETIME": "5 hrs 7 mins ago", 
+		"LOCATION": "25.0000000, 119.0999985"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 119.0999985, 25.0000000 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8070", 
+		"TITLE": "Earthquake - 5.4 - 4 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58286", 
+		"CREATEDATETIME": "2015-09-29 13:41:27", 
+		"UPDATEDDATETIME": "7 hrs 13 mins ago", 
+		"LOCATION": "-2.5962000, 140.1994019"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 140.1994019, -2.5962000 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8069", 
+		"TITLE": "Earthquake - 5.0 - 6 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58282", 
+		"CREATEDATETIME": "2015-09-29 10:41:28", 
+		"UPDATEDDATETIME": "11 hrs 42 mins ago", 
+		"LOCATION": "1.5908999, 128.5652008"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 128.5652008, 1.5908999 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8068", 
+		"TITLE": "Earthquake - 5.3 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58280", 
+		"CREATEDATETIME": "2015-09-29 10:21:20", 
+		"UPDATEDDATETIME": "12 hrs 3 mins ago", 
+		"LOCATION": "-3.4303000, 146.4064941"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 146.4064941, -3.4303000 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8066", 
+		"TITLE": "Earthquake - 5.4 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58272", 
+		"CREATEDATETIME": "2015-09-29 06:01:21", 
+		"UPDATEDDATETIME": "12 hrs 53 mins ago", 
+		"LOCATION": "-5.4144001, 151.9996948"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 151.9996948, -5.4144001 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8067", 
+		"TITLE": "Earthquake - 5.0 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58277", 
+		"CREATEDATETIME": "2015-09-29 09:11:29", 
+		"UPDATEDDATETIME": "13 hrs 12 mins ago", 
+		"LOCATION": "13.7042999, -58.4515991"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -58.4515991, 13.7042999 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8065", 
+		"TITLE": "Earthquake - 5.5 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58203", 
+		"CREATEDATETIME": "2015-09-26 08:41:26", 
+		"UPDATEDDATETIME": "16 hrs 19 mins ago", 
+		"LOCATION": "-6.2648001, 151.6721039"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 151.6721039, -6.2648001 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8064", 
+		"TITLE": "Earthquake - 5.5 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58202", 
+		"CREATEDATETIME": "2015-09-26 07:51:25", 
+		"UPDATEDDATETIME": "17 hrs 19 mins ago", 
+		"LOCATION": "5.2455001, 123.7623978"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 123.7623978, 5.2455001 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8063", 
+		"TITLE": "Earthquake - 5.0 - 1 ...", 
+		"TYPE": "EARTHQUAKE", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://dynamic.pdc.org/snc/prod/58261", 
+		"CREATEDATETIME": "2015-09-28 23:11:29", 
+		"UPDATEDDATETIME": "23 hrs 12 mins ago", 
+		"LOCATION": "40.3017998, 143.7783051"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 143.7783051, 40.3017998 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8062", 
+		"TITLE": "Floods - Wales/South ...", 
+		"TYPE": "FLOOD", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://apps.environment-agency.gov.uk/flood/31618.aspx", 
+		"CREATEDATETIME": "2015-09-28 12:10:47", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "52.0660019, -3.1860399"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -3.1860399, 52.0660019 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7550", 
+		"TITLE": "Wildfires - British  ...", 
+		"TYPE": "WILDFIRE", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://bcwildfire.ca/hprScripts/WildfireNews/OneFire.asp", 
+		"CREATEDATETIME": "2015-08-17 05:41:47", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "53.7224503, -127.6171875"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -127.6171875, 53.7224503 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7546", 
+		"TITLE": "Wildfires - Oregon,  ...", 
+		"TYPE": "WILDFIRE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://inciweb.nwcg.gov/state/38/", 
+		"CREATEDATETIME": "2015-08-17 05:14:46", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "44.0242615, -120.6079025"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -120.6079025, 44.0242615 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7270", 
+		"TITLE": "Fires - California,  ...", 
+		"TYPE": "WILDFIRE", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://cdfdata.fire.ca.gov/incidents/incidents_current", 
+		"CREATEDATETIME": "2015-07-23 08:43:10", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "38.2723312, -120.8935471"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -120.8935471, 38.2723312 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8060", 
+		"TITLE": "Wildfires - Montana, ...", 
+		"TYPE": "WILDFIRE", 
+		"SEVERITY_TITLE": "WATCH", 
+		"SEVERITY_ID": "1", 
+		"SOURCE": "http://inciweb.nwcg.gov/state/27/", 
+		"CREATEDATETIME": "2015-09-28 12:04:09", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "47.0401802, -109.7314529"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -109.7314529, 47.0401802 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8061", 
+		"TITLE": "Heavy Rain/Floods -  ...", 
+		"TYPE": "FLOOD", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://reliefweb.int/report/sri-lanka/sri-lanka-severe-weather-disaster-management-centre-sri-lanka-red-cross-sri-lanka", 
+		"CREATEDATETIME": "2015-09-28 11:31:34", 
+		"UPDATEDDATETIME": "1 day 10 hrs ago", 
+		"LOCATION": "7.9069099, 80.7934570"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 80.7934570, 7.9069099 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8058", 
+		"TITLE": "Severe Weather - Teg ...", 
+		"TYPE": "STORM", 
+		"SEVERITY_TITLE": "INFORMATION", 
+		"SEVERITY_ID": "2", 
+		"SOURCE": "http://reliefweb.int/report/honduras/copeco-reporta-m-s-da-os-provocados-por-intensas-lluvias", 
+		"CREATEDATETIME": "2015-09-28 03:37:56", 
+		"UPDATEDDATETIME": "1 day 18 hrs ago", 
+		"LOCATION": "14.0859699, -87.1847534"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -87.1847534, 14.0859699 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8059", 
+		"TITLE": "Wildfires - Boyaca,  ...", 
+		"TYPE": "WILDFIRE", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://www.paho.org/disasters/index.php?option=com_content&view=article&id=2700%3Acolombia-9252015&catid=1198%3Amonitoring-emergencies&Itemid=1134&lang=en", 
+		"CREATEDATETIME": "2015-09-28 03:28:41", 
+		"UPDATEDDATETIME": "1 day 18 hrs ago", 
+		"LOCATION": "5.4615302, -73.3145065"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -73.3145065, 5.4615302 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7493", 
+		"TITLE": "Drought - Caribbean  ...", 
+		"TYPE": "DROUGHT", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://reliefweb.int/report/dominican-republic/la-rep-blica-dominicana-sufre-su-peor-sequ-de-los-ltimos-20-os", 
+		"CREATEDATETIME": "2015-05-18 03:08:03", 
+		"UPDATEDDATETIME": "5 days 14 hrs ago", 
+		"LOCATION": "18.9790306, -71.7187500"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -71.7187500, 18.9790306 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7492", 
+		"TITLE": "Drought - Central Am ...", 
+		"TYPE": "DROUGHT", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://www.redhum.org/noticia_detail/fuerte-sequia-golpea-gran-parte-de-centroamerica-50005", 
+		"CREATEDATETIME": "2015-05-18 03:12:58", 
+		"UPDATEDDATETIME": "5 days 14 hrs ago", 
+		"LOCATION": "14.4668102, -89.4115677"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -89.4115677, 14.4668102 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8024", 
+		"TITLE": "Volcano - Soufrière ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "INFORMATION", 
+		"SEVERITY_ID": "2", 
+		"SOURCE": "http://volcano.si.edu/reports/usgs/#soufhill", 
+		"CREATEDATETIME": "2009-10-07 14:04:56", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "16.7199993, -62.1800003"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -62.1800003, 16.7199993 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8025", 
+		"TITLE": "Volcano - Piton de l ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://volcano.si.edu/volcano.cfm?vn=233020", 
+		"CREATEDATETIME": "2009-10-14 14:04:24", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "-21.2439995, 55.7080002"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 55.7080002, -21.2439995 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7712", 
+		"TITLE": "Volcano - Nevado del ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://volcano.si.edu/volcano.cfm?vn=351020", 
+		"CREATEDATETIME": "2010-07-21 14:07:51", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "4.8920002, -75.3239975"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -75.3239975, 4.8920002 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7974", 
+		"TITLE": "Volcano - Mauna Loa, ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "", 
+		"CREATEDATETIME": "2010-03-31 14:04:58", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "19.4750004, -155.6080017"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -155.6080017, 19.4750004 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7531", 
+		"TITLE": "Volcano - Cotopaxi,  ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://volcano.si.edu/volcano.cfm?vn=352050", 
+		"CREATEDATETIME": "2015-06-10 14:01:05", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "-0.6770000, -78.4359970"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -78.4359970, -0.6770000 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7899", 
+		"TITLE": "Volcano - Asosan, Ja ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://www.trust.org/item/20150914015143-jfonp/?source=search", 
+		"CREATEDATETIME": "2014-01-15 14:10:08", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "32.8839989, 131.1040039"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 131.1040039, 32.8839989 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8026", 
+		"TITLE": "Volcano - Aira, Japa ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://volcano.si.edu/volcano.cfm?vn=282080", 
+		"CREATEDATETIME": "2014-02-19 14:02:03", 
+		"UPDATEDDATETIME": "6 days 8 hrs ago", 
+		"LOCATION": "31.5930004, 130.6569977"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 130.6569977, 31.5930004 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "8023", 
+		"TITLE": "Volcano - Telica, Ni ...", 
+		"TYPE": "VOLCANO", 
+		"SEVERITY_TITLE": "ADVISORY", 
+		"SEVERITY_ID": "4", 
+		"SOURCE": "http://www.redhum.org/noticia_detail/sinapred-brinda-informe-sobre-actividad-en-volcan-telica-52266", 
+		"CREATEDATETIME": "2011-05-18 14:13:59", 
+		"UPDATEDDATETIME": "6 days 13 hrs ago", 
+		"LOCATION": "12.6020002, -86.8450012"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -86.8450012, 12.6020002 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7195", 
+		"TITLE": "Drought - Western Un ...", 
+		"TYPE": "DROUGHT", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://droughtmonitor.unl.edu/", 
+		"CREATEDATETIME": "2013-11-21 09:15:35", 
+		"UPDATEDDATETIME": "6 days 13 hrs ago", 
+		"LOCATION": "37.0548134, -120.8056641"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -120.8056641, 37.0548134 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7702", 
+		"TITLE": "Drought - Ethiopia", 
+		"TYPE": "DROUGHT", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf", 
+		"CREATEDATETIME": "2015-08-26 09:17:30", 
+		"UPDATEDDATETIME": "6 days 13 hrs ago", 
+		"LOCATION": "9.0152998, 40.6054688"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 40.6054688, 9.0152998 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"ALERTID": "7498", 
+		"TITLE": "Floods - Western Afr ...", 
+		"TYPE": "FLOOD", 
+		"SEVERITY_TITLE": "WARNING", 
+		"SEVERITY_ID": "3", 
+		"SOURCE": "http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf", 
+		"CREATEDATETIME": "2015-08-05 09:49:30", 
+		"UPDATEDDATETIME": "6 days 13 hrs ago", 
+		"LOCATION": "11.0921698, -10.0195303"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -10.0195303, 11.0921698 ] } 
+	 }
+
+	]
+}
+];

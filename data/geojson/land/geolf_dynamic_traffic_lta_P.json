@@ -1,0 +1,961 @@
+var geoLTATraffic_P = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on PIE (towards Tuas) after Jalan Eunos",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:13hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89882106821338,
+                    1.3245504016318013
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on PIE (towards Tuas) after Upper Jurong Rd",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:12hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.66984156300798,
+                    1.3290585851288013
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Bukit Timah Road (towards Woodlands) after Balmoral Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:12hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82615118765435,
+                    1.32016957260444
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Dunearn Road (towards City) after Jalan Anak Bukit. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:12hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78029286925468,
+                    1.3372404263207016
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Keppel Road (towards Tuas) after Shenton Way. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:12hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84279426414346,
+                    1.2725244871537595
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Keppel Road (towards Tuas) after Shenton Way. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:11hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84467480006445,
+                    1.2725683410175868
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on PIE (towards Tuas) at Pioneer Rd North Entrance",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:11hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.68922591144046,
+                    1.3449327279668395
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on TPE (towards PIE) after KPE Exit. Avoid lane 4",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:09hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9192196654449,
+                    1.3807176117359912
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Upper Bukit Timah Road (towards Woodlands) after Dairy Farm Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:09hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76751176052666,
+                    1.364418561480546
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Lower Delta Road (towards Jalan Bukit Merah) after AYE. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:08hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82372147575069,
+                    1.2797276380930158
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on AYE (towards Tuas) after Lower Delta Rd Exit",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:07hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81497257525326,
+                    1.2821039694491771
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Lower Delta Road (towards Bukit Purmei Road) after Mount Faber Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:07hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82473397510401,
+                    1.271637845894717
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Kallang Bahru (towards Kallang Avenue) after Jalan Lembah Kallang. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:07hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86311403300611,
+                    1.3136475822312832
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on PIE (towards Tuas) after Bedok North Avenue 3 exit. Avoid lane 4",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:06hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91939324962378,
+                    1.3323314277379823
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on New Upper Changi Road (toward Changi) after Bedok North Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:05hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94928009381934,
+                    1.3283031860992258
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Dunearn Road (towards City) after Hillcrest Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:05hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80740642529257,
+                    1.3265075564925743
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on New Upper Changi Road (toward City) after Bedok Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:04hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94918198593967,
+                    1.3282208850651385
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Beach Road (towards Rochor Road) after Tan Quee Lan Street",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:04hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85761700490039,
+                    1.2980240020869038
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Upper Cross Street near Upper Cross Street Junction",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:04hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84171697016906,
+                    1.287906309253871
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Eu Tong Sen Street (towards Park Crescent) after New Bridge Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:02hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8404821761349,
+                    1.2809480718656103
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Keppel Road (towards City) after Kampong Bahru Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:01hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82841232226342,
+                    1.2689554402409982
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on ECP (towards Changi Airport) after Marine Vista Exit. Avoid lane 1",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 10:00hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92437290202562,
+                    1.3054205912480936
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "desc": "",
+                "style": "#trafficOtherIcon",
+                "name": " Vehicle breakdown on PIE (towards Changi Airport) before Eng Neo Ave",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:59hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80455450608132,
+                    1.3409873982725435
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Bukit Timah Road (towards Woodlands) after Kheam Hock Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:59hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81980480145822,
+                    1.3221962989524718
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Moulmein Road (towards Balestier Road) after CTE. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:58hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85156744916104,
+                    1.3193518745325186
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Mandai Road (towards SLE) after Lorong Lada Hitam",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:58hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80015737515606,
+                    1.415839502609135
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Outram Road (towards Chin Swee Road) after Outram Park. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:58hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83764522292017,
+                    1.282044615552215
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Lower Delta Road (towards AYE) after AYE. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:55hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8237302043562,
+                    1.2787047881233224
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on ECP (towards Changi Airport) before Still Rd Sth Exit. Avoid lane 4",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:54hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90232264933499,
+                    1.2989726689269692
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Woodlands Avenue 12 (towards Woodlands Avenue 1) after SLE. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:52hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7968320052593,
+                    1.4245981735479938
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on PIE (towards Tuas) before AYE Exit. Avoid lane 1",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:52hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.66914386116122,
+                    1.3287018874461556
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on CTE (towards SLE) at Yio Chu Kang Rd Exit",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:51hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85805030419317,
+                    1.3886681221643635
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on AYE (towards MCE) after Keppel Rd Entrance. Avoid lane 3",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:50hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8394597184531,
+                    1.2725367061619688
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Bedok North Avenue 3 (towards PIE) after Bedok Reservoir Road",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:49hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9331522278609,
+                    1.3372716080280154
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Marina Boulevard (towards Sheares Avenue) after Sheares Avenue",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:48hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85874206084611,
+                    1.277831157756052
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Bukit Timah Road (towards Woodlands) after Fourth Ave. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:46hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79705501378703,
+                    1.3309937663140052
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 1",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:45hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.98157223292353,
+                    1.3408526614928205
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Clementi Road (towards AYE) after AYE. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:45hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77116573564382,
+                    1.3059894234524494
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on BKE (towards Woodlands) after KJE Exit",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:44hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77383502943995,
+                    1.3982843746083715
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Bedok North Avenue 3 (towards PIE) after PIE. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:44hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93351740351143,
+                    1.3355489612247577
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Beach Road (towards Sultan Gate) after Bussorah Street",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:39hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86068207633404,
+                    1.3007448474864842
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Balestier Road (towards Martaban Road) after Mandalay Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:38hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85088925145844,
+                    1.324794220427246
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Dunearn Road (towards City) at Newton Flyover. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:37hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8378170903501,
+                    1.3148749015151218
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on KJE (towards BKE) after PIE Entrance. Avoid lane 4",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:37hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71860970240186,
+                    1.3693466339370337
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Outram Road (towards Second Hospital Avenue) after Second Hospital Avenue. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:36hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83885230907335,
+                    1.2812223685087425
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on ECP (towards Changi Airport) before Fort Rd Exit. Avoid lane 5",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:36hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87036713449615,
+                    1.2951573949600002
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on BKE (towards Woodlands) after PIE Entrance",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:36hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78504957238614,
+                    1.35517768924219
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Henderson Road (towards Telok Blangah Drive) after Telok Blangah Heights",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:36hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81233687664911,
+                    1.2728951251020804
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Henderson Road (towards Telok Blangah Drive) after Telok Blangah Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:35hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81156835837002,
+                    1.271929514722934
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Jalan Bukit Merah (towards Bukit Merah View) after Lower Delta Road. Avoid right lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:33hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82241867416295,
+                    1.2824460505278903
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Clementi Road (towards Ulu Pandan Road) after Clementi Avenue 2. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:31hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77125931762833,
+                    1.3184494886250457
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "desc": "",
+                "style": "#traffic_roadwork",
+                "name": " Roadworks on Crawford Street (towards North Bridge Road) after Kallang Road. Avoid left lane",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 9:19hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86461299711631,
+                    1.3066801096031995
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "desc": "",
+                "style": "#trafficOtherIcon",
+                "name": " Heavy Traffic on AYE (towards Tuas) at South Buona Vista Rd Exit",
+                "type": "#icon",
+                "datetime": "6 Oct 2015 @ 8:30hrs"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78717986706697,
+                    1.2927322022579115
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

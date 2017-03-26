@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>SG Traffic Cameras (52)</name>
+    <Style id="pub_trafficcamera">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>./icon_trafficcamera.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>bfffaa55</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Woodlands Checkpoint (Towards BKE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:37 hrs],Create DateTime=20140522133710<![CDATA[<img src='./2702.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.768339660158,1.44555410852187, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Link at Tuas</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133711<![CDATA[<img src='./4703.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.635041328775,1.348697861667, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivervale Drive (Towards SLE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133712<![CDATA[<img src='./7796.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.904105375325,1.39569973757996, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jurong West St 81 (Towards Jurong)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133713<![CDATA[<img src='./6708.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.691817478917,1.34634720875012, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chua Chu Kang St 53 (Towards PIE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133714<![CDATA[<img src='./8701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.745981642361,1.3903208663645, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Causeway (Towards Johor)</name>
+      <description>[Recorded=Time: 22/05/2014 13:34 hrs],Create DateTime=20140522133715<![CDATA[<img src='./2701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.771654290857,1.44702372838641, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pandan Gardens (Towards Tuas)</name>
+      <description>[Recorded=Time: 22/05/2014 13:36 hrs],Create DateTime=20140522133716<![CDATA[<img src='./4710.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.750234473366,1.32044509037027, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanjong Katong Flyover (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133720<![CDATA[<img src='./3796.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.898301879111,1.29751256855421, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St George's Rd (Towards AYE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:36 hrs],Create DateTime=20140522133721<![CDATA[<img src='./1701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.858780239941,1.32360482302649, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St George's Rd (Towards SLE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133723<![CDATA[<img src='./1703.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.86220328204826,1.328147221948573, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Braddell Flyover (Towards SLE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:34 hrs],Create DateTime=20140522133725<![CDATA[<img src='./1702.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.860198364379,1.34355015009339, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ang Mo Kio Ave 5 Flyover (Towards City)</name>
+      <description>[Recorded=Time: 22/05/2014 13:34 hrs],Create DateTime=20140522133727<![CDATA[<img src='./1705.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.858798593508,1.3759250224871, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuas Checkpoint</name>
+      <description>[Recorded=Time: 22/05/2014 13:36 hrs],Create DateTime=20140522133729<![CDATA[<img src='./4713.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.636695549129,1.34764582917724, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Near Tuas Ave 8 exit (Towards Tuas)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133730<![CDATA[<img src='./4712.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.643913387427,1.34124400068073, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands South Flyover (Towards Woodlands)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133731<![CDATA[<img src='./9703.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.771251917445,1.42162894397039, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lentor Flyover (Towards TPE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133733<![CDATA[<img src='./9701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.834743177953,1.39471746642552, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SLE Flyover (Towards BKE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133734<![CDATA[<img src='./7798.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.854071579846,1.39751434675496, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marine Parade  Flyover (Towards City)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133736<![CDATA[<img src='./3795.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.91059632023654,1.3014514516606621, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanjong Rhu (Towards AYE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133738<![CDATA[<img src='./3797.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.88528304930898,1.29565733262976, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Benjamin Sheares Bridge</name>
+      <description>[Recorded=Time: 22/05/2014 13:34 hrs],Create DateTime=20140522133740<![CDATA[<img src='./3798.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.861598706499,1.2915848398839, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Rd (Towards ECP)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133742<![CDATA[<img src='./4701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.79407059546816,1.2884443714667655, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lower Delta (Towards City)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133745<![CDATA[<img src='./4704.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.823899138306,1.27873007552855, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keppel Viaduct</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133747<![CDATA[<img src='./4702.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.832674338568,1.27218996050662, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedok North (Towards Jurong)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133748<![CDATA[<img src='./5794.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.916861568309,1.3309693003786, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedok Flyover (Towards Jurong)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133750<![CDATA[<img src='./5795.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.905625036063,1.32602482201594, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paya Lebar Flyover (Towards Jurong)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133753<![CDATA[<img src='./5797.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.891079283348,1.32287528799973, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kallang</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133754<![CDATA[<img src='./5798.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.877174116489,1.32036078126842, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodsville Flyover (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133756<![CDATA[<img src='./5799.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.868519130659,1.32817160800947, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kim Keat (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133759<![CDATA[<img src='./6701.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.858644305985,1.32883258494797, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Flyover (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133801<![CDATA[<img src='./3793.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.93505039653,1.30933083658948, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thomson Rd</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133804<![CDATA[<img src='./6703.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.84308798265,1.33003101529272, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mt Pleasant (Towards Jurong)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133806<![CDATA[<img src='./6704.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.82685729563286,1.3265740363236604, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adam Road (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133809<![CDATA[<img src='./6705.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.81872330516264,1.3314126655538856, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bukit Timah Expressway (Towards Changi)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133812<![CDATA[<img src='./6706.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.795279946549,1.34942889274899, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPE/ECP</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133813<![CDATA[<img src='./1001.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.871145993977,1.29531332000902, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Bahru</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133814<![CDATA[<img src='./1002.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.878562714946,1.31954106749762, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kallang Way Flyover</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133815<![CDATA[<img src='./1004.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.875066845504,1.31953571184396, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPE/PIE</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133816<![CDATA[<img src='./1003.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.872857583338,1.32395743906752, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Defu Flyover</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133818<![CDATA[<img src='./1005.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.905394003335,1.36351988576149, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPE 8.5km</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133819<![CDATA[<img src='./1006.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.902042030759,1.3570986855431, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Near NUH (Towards Tuas)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133821<![CDATA[<img src='./4706.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.781380954829,1.29802372861857, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Near Dover ITE (Towards ECP)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133823<![CDATA[<img src='./4708.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.780061141998,1.2995281111972, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chantek Flyover (Towards PIE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133825<![CDATA[<img src='./2703.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.7910335813251,1.3504779079138587, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Flyover (Towards Checkpoint)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133828<![CDATA[<img src='./2704.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.769311040849,1.42958853559909, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dairy Farm Flyover (Towards PIE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133830<![CDATA[<img src='./2705.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.779469756849,1.36728572001716, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper Changi Flyover (Towards PIE)</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133833<![CDATA[<img src='./7791.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.9638489544,1.35425716898297, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa Gateway Towards Sentosa</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133836<![CDATA[<img src='./4799.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.823888890049,1.26027777363278, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sentosa Gateway Towards Telok Blangah</name>
+      <description>[Recorded=Time: 22/05/2014 13:35 hrs],Create DateTime=20140522133838<![CDATA[<img src='./4798.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.823611110166,1.25999999687243, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Boulevard/Marina Coastal Drive</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133839<![CDATA[<img src='./1502.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.861828440597,1.27135090682664, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCE 1.02km</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133840<![CDATA[<img src='./1503.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.856977943394,1.27066408655104, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCE/ECP</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133841<![CDATA[<img src='./1504.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.876056196568,1.29409891409364, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina Boulevard</name>
+      <description>[Recorded=Time: 22/05/2014 13:33 hrs],Create DateTime=20140522133842<![CDATA[<img src='./1505.jpg'>]]></description>
+      <styleUrl>#pub_trafficcamera</styleUrl>
+      <Point>
+        <coordinates>103.866390381759,1.2752977149006, 0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+

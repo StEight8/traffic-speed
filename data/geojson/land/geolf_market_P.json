@@ -1,0 +1,2249 @@
+var geoMarket_P = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Telok Blangah Market",
+                "PostalCode": "100082",
+                "desc": "Blk 82 Telok Blangah Drive S(100082)",
+                "Address": "Blk 82 Telok Blangah Drive S(100082)",
+                "name": "Telok Blangah Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807619067293,
+                    1.27353706747766
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Telok Blangah Food Centre",
+                "PostalCode": "100079",
+                "desc": "Blk 79 Telok Blangah Drive S(100079)",
+                "Address": "Blk 79 Telok Blangah Drive S(100079)",
+                "name": "Telok Blangah Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807619067293,
+                    1.27353706747766
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Telok Blangah Rise Market",
+                "PostalCode": "090036",
+                "desc": "Blk 36 Telok Blangah Rise S(090036)",
+                "Address": "Blk 36 Telok Blangah Rise S(090036)",
+                "name": "Telok Blangah Rise Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82228999529,
+                    1.27285940623028
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Telok Blangah Crescent Market And Food Centre",
+                "PostalCode": "090011",
+                "desc": "Blk 11 Telok Blangah Crescent S(090011)",
+                "Address": "Blk 11 Telok Blangah Crescent S(090011)",
+                "name": "Telok Blangah Crescent Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818479352493,
+                    1.27704244441922
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Tanjong Pagar Plaza Market And Food Centre",
+                "PostalCode": "081006",
+                "desc": "Blk 6 Tanjong Pagar Plaza S(081006)",
+                "Address": "Blk 6 Tanjong Pagar Plaza S(081006)",
+                "name": "Tanjong Pagar Plaza Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843166743246,
+                    1.27661546619342
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Abc Brickworks Market/Food Centre",
+                "PostalCode": "150006",
+                "desc": "Blk 6 Jalan Bukit Merah S(150006)",
+                "Address": "Blk 6 Jalan Bukit Merah S(150006)",
+                "name": "Abc Brickworks Market/Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80816882533,
+                    1.28710802020248
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Alexandra Village Food Centre",
+                "PostalCode": "150120",
+                "desc": "Blk 120 Bukit Merah Lane 1 S(150120)",
+                "Address": "Blk 120 Bukit Merah Lane 1 S(150120)",
+                "name": "Alexandra Village Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.804571600912,
+                    1.28663551723508
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Blk 115 Bukit Merah View Market &amp; Food Centre",
+                "PostalCode": "151115",
+                "desc": "Blk 115 Bukit Merah View S(151115)",
+                "Address": "Blk 115 Bukit Merah View S(151115)",
+                "name": "Blk 115 Bukit Merah View Market &amp; Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.822193662424,
+                    1.28438053880915
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Redhill Market And Food Centre",
+                "PostalCode": "150079",
+                "desc": "Blk 79 Redhill Lane S(150079)",
+                "Address": "Blk 79 Redhill Lane S(150079)",
+                "name": "Redhill Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818089463546,
+                    1.28775839796618
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Redhill Market And Food Centre",
+                "PostalCode": "150085",
+                "desc": "Blk 85 Redhill Lane S(150085)",
+                "Address": "Blk 85 Redhill Lane S(150085)",
+                "name": "Redhill Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.818263269785,
+                    1.28707473833
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Tiong Bahru Market",
+                "PostalCode": "168898",
+                "desc": "Blk 30 Seng Poh Road S(168898)",
+                "Address": "Blk 30 Seng Poh Road S(168898)",
+                "name": "Tiong Bahru Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832421566015,
+                    1.28468599167964
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Beo Crescent Market And Food Centre",
+                "PostalCode": "169982",
+                "desc": "Blk 38A Beo Crescent S(169982)",
+                "Address": "Blk 38A Beo Crescent S(169982)",
+                "name": "Beo Crescent Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.827338635658,
+                    1.28882548433093
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Jalan Bukit Merah Market And Food Centre",
+                "PostalCode": "160112",
+                "desc": "Blk 112 Jalan Bukit Merah S(160112)",
+                "Address": "Blk 112 Jalan Bukit Merah S(160112)",
+                "name": "Jalan Bukit Merah Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.825802255609,
+                    1.27986119200875
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Jalan Kukoh Market &amp; Hawker Centre",
+                "PostalCode": "161001",
+                "desc": "Blk 1 Jalan Kukoh S(161001)",
+                "Address": "Blk 1 Jalan Kukoh S(161001)",
+                "name": "Jalan Kukoh Market &amp; Hawker Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840070159376,
+                    1.28800952285127
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "Hong Lim Complex Food Centre And Market",
+                "PostalCode": "051531",
+                "desc": "Blk 531A Upper Cross Street S(051531)",
+                "Address": "Blk 531A Upper Cross Street S(051531)",
+                "name": "Hong Lim Complex Food Centre And Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845751442817,
+                    1.28521178533096
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Chinatown Complex Market",
+                "PostalCode": "050335",
+                "desc": "Blk 335 Smith Street S(050335)",
+                "Address": "Blk 335 Smith Street S(050335)",
+                "name": "Chinatown Complex Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843011156732,
+                    1.28227066059969
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "Blk 726 Clementi West Street 2",
+                "PostalCode": "120726",
+                "desc": "Blk 726 Clementi West Street 2 S(120726)",
+                "Address": "Blk 726 Clementi West Street 2 S(120726)",
+                "name": "Blk 726 Clementi West Street 2",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763967829755,
+                    1.3036692157556
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Blk 33 Dover Road",
+                "PostalCode": "130033",
+                "desc": "Blk 33 Dover Road S(130033)",
+                "Address": "Blk 33 Dover Road S(130033)",
+                "name": "Blk 33 Dover Road",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.783382589532,
+                    1.29929278919374
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Commonwealth Drive Food Centre",
+                "PostalCode": "140001",
+                "desc": "Blk 1 Commonwealth Drive S(140001)",
+                "Address": "Blk 1 Commonwealth Drive S(140001)",
+                "name": "Commonwealth Drive Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797697017601,
+                    1.29973464708064
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Commonwealth Drive Food Centre",
+                "PostalCode": "140002",
+                "desc": "Blk 2 Commonwealth Drive S(140002)",
+                "Address": "Blk 2 Commonwealth Drive S(140002)",
+                "name": "Commonwealth Drive Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797699358586,
+                    1.29946679460449
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Commonwealth Drive Food Centre",
+                "PostalCode": "140003",
+                "desc": "Blk 3 Commonwealth Drive S(140003)",
+                "Address": "Blk 3 Commonwealth Drive S(140003)",
+                "name": "Commonwealth Drive Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797992647676,
+                    1.29948101262256
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Tanglin Halt Market",
+                "PostalCode": "148813",
+                "desc": "Blk 48A Tanglin Halt Road S(148813)",
+                "Address": "Blk 48A Tanglin Halt Road S(148813)",
+                "name": "Tanglin Halt Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.797646336371,
+                    1.30057932163626
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "Mei Chin Road Market",
+                "PostalCode": "140159",
+                "desc": "Blk 159 Mei Chin Road S(140159)",
+                "Address": "Blk 159 Mei Chin Road S(140159)",
+                "name": "Mei Chin Road Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.802535704695,
+                    1.29309941953514
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Zion Riverside Food Centre",
+                "PostalCode": "247792",
+                "desc": "Blk 70 Zion Road S(247792)",
+                "Address": "Blk 70 Zion Road S(247792)",
+                "name": "Zion Riverside Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831189302665,
+                    1.29234223167598
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Golden Mile Food Centre",
+                "PostalCode": "199583",
+                "desc": "Blk 505 Beach Road S(199583)",
+                "Address": "Blk 505 Beach Road S(199583)",
+                "name": "Golden Mile Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863883266692,
+                    1.30287553881054
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Albert Centre Market And Food Centre",
+                "PostalCode": "180270",
+                "desc": "Blk 270 Queen Street S(180270)",
+                "Address": "Blk 270 Queen Street S(180270)",
+                "name": "Albert Centre Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853656764382,
+                    1.30112903578325
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Jalan Batu Market And Food Centre",
+                "PostalCode": "432004",
+                "desc": "Blk 4A Jalan Batu S(432004)",
+                "Address": "Blk 4A Jalan Batu S(432004)",
+                "name": "Jalan Batu Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883771951562,
+                    1.30259778153438
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "440084",
+                "desc": "Blk 84 Marine Parade Central S(440084)",
+                "Address": "Blk 84 Marine Parade Central S(440084)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.906689774719,
+                    1.30233178845698
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Ayer Rajah Market And Food Centre",
+                "PostalCode": "120502",
+                "desc": "Blk 502 West Coast Drive S(120502)",
+                "Address": "Blk 502 West Coast Drive S(120502)",
+                "name": "Ayer Rajah Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.759057026872,
+                    1.31213527074206
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Ayer Rajah Market And Food Centre",
+                "PostalCode": "120503",
+                "desc": "Blk 503 West Coast Drive S(120503)",
+                "Address": "Blk 503 West Coast Drive S(120503)",
+                "name": "Ayer Rajah Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76004891059,
+                    1.3119440145177
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Clementi Town Centre Market And Food Centre",
+                "PostalCode": "120448",
+                "desc": "Blk 448 Clementi Avenue 3 S(120448)",
+                "Address": "Blk 448 Clementi Avenue 3 S(120448)",
+                "name": "Clementi Town Centre Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76425716049,
+                    1.31342128338616
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Clementi Ave 2 Market / Cooked Food Centre",
+                "PostalCode": "120353",
+                "desc": "Blk 353 Clementi Ave 2 S(120353)",
+                "Address": "Blk 353 Clementi Ave 2 S(120353)",
+                "name": "Clementi Ave 2 Market / Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.770654358528,
+                    1.3146008406842
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Holland Village Market &amp; Food Centre",
+                "PostalCode": "277700",
+                "desc": "Blk 1 Lorong Mambong S(277700)",
+                "Address": "Blk 1 Lorong Mambong S(277700)",
+                "name": "Holland Village Market &amp; Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.794863001147,
+                    1.31090808669149
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "270020",
+                "desc": "Blk 20 Ghim Moh Road S(270020)",
+                "Address": "Blk 20 Ghim Moh Road S(270020)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78780182044,
+                    1.31110080934357
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Holland Drive Market And Food Centre",
+                "PostalCode": "270044",
+                "desc": "Blk 44 Holland Road S(270044)",
+                "Address": "Blk 44 Holland Road S(270044)",
+                "name": "Holland Drive Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.792530198411,
+                    1.30791918644899
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "Commonwealth Crescent Market And Food Centre",
+                "PostalCode": "140000",
+                "desc": "Blk 31 Commonwealth Crescent S(140000)",
+                "Address": "Blk 31 Commonwealth Crescent S(140000)",
+                "name": "Commonwealth Crescent Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800369842967,
+                    1.306907939772
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Tekka Centre",
+                "PostalCode": "210665",
+                "desc": "Blk 665 Buffalo Road S(210665)",
+                "Address": "Blk 665 Buffalo Road S(210665)",
+                "name": "Tekka Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85060465609,
+                    1.30557910479716
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "North Bridge Road Market And Food Centre",
+                "PostalCode": "198783",
+                "desc": "Blk 861 North Bridge Road S(198783)",
+                "Address": "Blk 861 North Bridge Road S(198783)",
+                "name": "North Bridge Road Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863907356817,
+                    1.30575804343046
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "380017",
+                "desc": "Blk 17 Upper Boon Keng Road S(380017)",
+                "Address": "Blk 17 Upper Boon Keng Road S(380017)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871309835039,
+                    1.31469842857501
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "Kallang Estate Fresh Market &amp; Food Centre",
+                "PostalCode": "397972",
+                "desc": "Blk 17 Old Airport Road S(397972)",
+                "Address": "Blk 17 Old Airport Road S(397972)",
+                "name": "Kallang Estate Fresh Market &amp; Food Centre",
+                "type": "#airport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883800936499,
+                    1.30717007082451
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "51 Old Airport Road Food Centre And Shopping Mall",
+                "PostalCode": "390051",
+                "desc": "Blk 51 Old Airport Road S(390051)",
+                "Address": "Blk 51 Old Airport Road S(390051)",
+                "name": "51 Old Airport Road Food Centre And Shopping Mall",
+                "type": "#airport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886158537411,
+                    1.30828254865777
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "Haig Road Market &amp; Cooked Food Centre",
+                "PostalCode": "430013",
+                "desc": "Blk 13 Haig Road S(430013)",
+                "Address": "Blk 13 Haig Road S(430013)",
+                "name": "Haig Road Market &amp; Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.895796129499,
+                    1.314997052035
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Haig Road Market And Cooked Food Centre",
+                "PostalCode": "430014",
+                "desc": "Blk 14 Haig Road S(430014)",
+                "Address": "Blk 14 Haig Road S(430014)",
+                "name": "Haig Road Market And Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.895259036644,
+                    1.31527195365081
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "441050",
+                "desc": "Blk 50A Marine Terrace S(441050)",
+                "Address": "Blk 50A Marine Terrace S(441050)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.915706410906,
+                    1.30548324813216
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "Teban Gardens Market And Food Centre",
+                "PostalCode": "601037",
+                "desc": "Blk 37A Teban Gardens Road S(601037)",
+                "Address": "Blk 37A Teban Gardens Road S(601037)",
+                "name": "Teban Gardens Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.743033332063,
+                    1.32060203200193
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Empress Market And Food Centre",
+                "PostalCode": "260007",
+                "desc": "Blk 7 Empress Road S(260007)",
+                "Address": "Blk 7 Empress Road S(260007)",
+                "name": "Empress Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.805554726198,
+                    1.31641988846821
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Pek Kio Market And Food Centre",
+                "PostalCode": "211041",
+                "desc": "Blk 41A Cambridge Road S(211041)",
+                "Address": "Blk 41A Cambridge Road S(211041)",
+                "name": "Pek Kio Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849981795783,
+                    1.31640540987807
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Bendemeer Market And Food Centre",
+                "PostalCode": "330029",
+                "desc": "Blk 29 Bendemeer Road S(330029)",
+                "Address": "Blk 29 Bendemeer Road S(330029)",
+                "name": "Bendemeer Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862617633775,
+                    1.31928830065808
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Whampoa Makan Place",
+                "PostalCode": "320090",
+                "desc": "Blk 90 Whampoa Drive S(320090)",
+                "Address": "Blk 90 Whampoa Drive S(320090)",
+                "name": "Whampoa Makan Place",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855201377007,
+                    1.32272466725546
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Whampoa Makan Place",
+                "PostalCode": "320091",
+                "desc": "Blk 91 Whampoa Drive S(320091)",
+                "Address": "Blk 91 Whampoa Drive S(320091)",
+                "name": "Whampoa Makan Place",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853822944303,
+                    1.32374161659337
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "Whampoa Makan Place",
+                "PostalCode": "320092",
+                "desc": "Blk 92 Whampoa Drive S(320092)",
+                "Address": "Blk 92 Whampoa Drive S(320092)",
+                "name": "Whampoa Makan Place",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85396940382,
+                    1.32281742244926
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "Geylang Bahru Market And Food Centre",
+                "PostalCode": "330069",
+                "desc": "Blk 69 Geylang Bahru S(330069)",
+                "Address": "Blk 69 Geylang Bahru S(330069)",
+                "name": "Geylang Bahru Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86963117202,
+                    1.32168424833516
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Sims Vista Market And Food Centre",
+                "PostalCode": "380049",
+                "desc": "Blk 49 Sims Place S(380049)",
+                "Address": "Blk 49 Sims Place S(380049)",
+                "name": "Sims Vista Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.878958045064,
+                    1.31673641973318
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Geylang East Centre Market And Food Corner",
+                "PostalCode": "380117",
+                "desc": "Blk 117 Aljunied Ave 2 S(380117)",
+                "Address": "Blk 117 Aljunied Ave 2 S(380117)",
+                "name": "Geylang East Centre Market And Food Corner",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.887130547093,
+                    1.32079766369978
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "80 Circuit Road Market And Food Centre",
+                "PostalCode": "370080",
+                "desc": "Blk 80 Circuit Road S(370080)",
+                "Address": "Blk 80 Circuit Road S(370080)",
+                "name": "80 Circuit Road Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88692852094,
+                    1.32798266043348
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "370089",
+                "desc": "Blk 89 Circuit Road S(370089)",
+                "Address": "Blk 89 Circuit Road S(370089)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885203002975,
+                    1.32375241908393
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "Geylang Serai Market",
+                "PostalCode": "402001",
+                "desc": "Blk 1 Geylang Serai S(402001)",
+                "Address": "Blk 1 Geylang Serai S(402001)",
+                "name": "Geylang Serai Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.898684494354,
+                    1.31702578594792
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "402004",
+                "desc": "Blk 4A Eunos Crescent S(402004)",
+                "Address": "Blk 4A Eunos Crescent S(402004)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.903848297478,
+                    1.32014732789455
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Bedok Town Centre Market And Food Centre",
+                "PostalCode": "460207",
+                "desc": "Blk 207 New Upper Changi Road S(460207)",
+                "Address": "Blk 207 New Upper Changi Road S(460207)",
+                "name": "Bedok Town Centre Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93015406828,
+                    1.32485016730953
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Bedok Town Centre Market And Food Centre",
+                "PostalCode": "460216",
+                "desc": "Blk 216 Bedok North Street 1 S(460216)",
+                "Address": "Blk 216 Bedok North Street 1 S(460216)",
+                "name": "Bedok Town Centre Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.933157947361,
+                    1.32731792496351
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "460016",
+                "desc": "Blk 16 Bedok South Road S(460016)",
+                "Address": "Blk 16 Bedok South Road S(460016)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.935845077993,
+                    1.32082139908836
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "The Marketplace @ 58",
+                "PostalCode": "461058",
+                "desc": "Blk 58 New Upper Changi Road S(461058)",
+                "Address": "Blk 58 New Upper Changi Road S(461058)",
+                "name": "The Marketplace @ 58",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.940882825,
+                    1.32447749887486
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "Taman Jurong Market &amp; Food Centre",
+                "PostalCode": "618499",
+                "desc": "Blk 3 Yung Sheng Road S(618499)",
+                "Address": "Blk 3 Yung Sheng Road S(618499)",
+                "name": "Taman Jurong Market &amp; Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.721619259245,
+                    1.33468266425385
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "Bukit Timah Market",
+                "PostalCode": "588215",
+                "desc": "Blk 51 Upper Bukit Timah Road S(588215)",
+                "Address": "Blk 51 Upper Bukit Timah Road S(588215)",
+                "name": "Bukit Timah Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.775795391644,
+                    1.33964309703346
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "Blk 93 Toa Payoh Lorong 4",
+                "PostalCode": "310093",
+                "desc": "Blk 93 Lorong 4 Toa Payoh S(310093)",
+                "Address": "Blk 93 Lorong 4 Toa Payoh S(310093)",
+                "name": "Blk 93 Toa Payoh Lorong 4",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84970296385,
+                    1.33835775220635
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "Toa Payoh West Market And Food Centre",
+                "PostalCode": "310127",
+                "desc": "Blk 127 Toa Payoh Lor 1 S(310127)",
+                "Address": "Blk 127 Toa Payoh Lor 1 S(310127)",
+                "name": "Toa Payoh West Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844614231561,
+                    1.33839180323017
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "Toa Payoh Vista Market And Cooked Food Centre",
+                "PostalCode": "310074",
+                "desc": "Blk 74 Toa Payoh Lor 4 S(310074)",
+                "Address": "Blk 74 Toa Payoh Lor 4 S(310074)",
+                "name": "Toa Payoh Vista Market And Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852134214031,
+                    1.33479726489878
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "Toa Payoh Vista Market And Cooked Food Centre",
+                "PostalCode": "310075",
+                "desc": "Blk 75 Toa Payoh Lor 5 S(310075)",
+                "Address": "Blk 75 Toa Payoh Lor 5 S(310075)",
+                "name": "Toa Payoh Vista Market And Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852858138278,
+                    1.33624379457797
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "Kim Keat Palm Market And Food Centre",
+                "PostalCode": "310022",
+                "desc": "Blk 22 Toa Payoh Lor 7 S(310022)",
+                "Address": "Blk 22 Toa Payoh Lor 7 S(310022)",
+                "name": "Kim Keat Palm Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856684251949,
+                    1.3351180007368
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "310210",
+                "desc": "Blk 210 Toa Payoh Lor 8 S(310210)",
+                "Address": "Blk 210 Toa Payoh Lor 8 S(310210)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854706727193,
+                    1.34001437946586
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "Blk 630 Bedok Reservoir Road",
+                "PostalCode": "470630",
+                "desc": "Blk 630 Bedok Reservoir Road S(470630)",
+                "Address": "Blk 630 Bedok Reservoir Road S(470630)",
+                "name": "Blk 630 Bedok Reservoir Road",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.914504154795,
+                    1.33279540456363
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "Kaki Bukit 511 Market And Food Centre",
+                "PostalCode": "460511",
+                "desc": "Blk 511 Bedok North Street 3 S(460511)",
+                "Address": "Blk 511 Bedok North Street 3 S(460511)",
+                "name": "Kaki Bukit 511 Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93032300224,
+                    1.33293902903449
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "460538",
+                "desc": "Blk 538 Bedok North Street 3 S(460538)",
+                "Address": "Blk 538 Bedok North Street 3 S(460538)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.925127840114,
+                    1.33157054253433
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "85 Fengshan Centre",
+                "PostalCode": "460085",
+                "desc": "Blk 85 Bedok North Street 4 S(460085)",
+                "Address": "Blk 85 Bedok North Street 4 S(460085)",
+                "name": "85 Fengshan Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.938747326006,
+                    1.33173150622618
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "Boon Lay Place Market And Food Village",
+                "PostalCode": "641221",
+                "desc": "Blk 221A Boon Lay Place S(641221)",
+                "Address": "Blk 221A Boon Lay Place S(641221)",
+                "name": "Boon Lay Place Market And Food Village",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71282543636,
+                    1.34547887111099
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "640505",
+                "desc": "Blk 505 Jurong West Street 52 S(640505)",
+                "Address": "Blk 505 Jurong West Street 52 S(640505)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.718643934489,
+                    1.3498945459127
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "Boon Lay Place Market And Food Village",
+                "PostalCode": "642221",
+                "desc": "Blk 221B Boon Lay Place S(642221)",
+                "Address": "Blk 221B Boon Lay Place S(642221)",
+                "name": "Boon Lay Place Market And Food Village",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.713212732344,
+                    1.34588649128002
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "Yuhua Market And Hawker Centre",
+                "PostalCode": "600347",
+                "desc": "Blk 347 Jurong East Avenue 1 S(600347)",
+                "Address": "Blk 347 Jurong East Avenue 1 S(600347)",
+                "name": "Yuhua Market And Hawker Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.731276088998,
+                    1.34519833381862
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "Yuhua Village Market And Food Centre",
+                "PostalCode": "600254",
+                "desc": "Blk 254 Jurong East Street 24 S(600254)",
+                "Address": "Blk 254 Jurong East Street 24 S(600254)",
+                "name": "Yuhua Village Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.737857402755,
+                    1.34310794051199
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "NA",
+                "PostalCode": "651154",
+                "desc": "Blk 154A Bt Batok West Ave 8 S(651154)",
+                "Address": "Blk 154A Bt Batok West Ave 8 S(651154)",
+                "name": "NA",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.743898206151,
+                    1.34746288059548
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "Shunfu Mart",
+                "PostalCode": "570320",
+                "desc": "Blk 320 Shunfu Road S(570320)",
+                "Address": "Blk 320 Shunfu Road S(570320)",
+                "name": "Shunfu Mart",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836674691362,
+                    1.35207982753771
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "Chung Ling Wet Market",
+                "PostalCode": "571151",
+                "desc": "Blk 151A Bishan Street 11 S(571151)",
+                "Address": "Blk 151A Bishan Street 11 S(571151)",
+                "name": "Chung Ling Wet Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854987597887,
+                    1.34542186547742
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "Freshmart",
+                "PostalCode": "521823",
+                "desc": "Blk 823A Tampines Street 81 S(521823)",
+                "Address": "Blk 823A Tampines Street 81 S(521823)",
+                "name": "Freshmart",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.933801818742,
+                    1.34903478866994
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "Tampines Round Market And Food Centre",
+                "PostalCode": "521137",
+                "desc": "Blk 137 Tampines Street 11 S(521137)",
+                "Address": "Blk 137 Tampines Street 11 S(521137)",
+                "name": "Tampines Round Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.944629275472,
+                    1.34526411921016
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "Teck Ghee Court Market And Food Centre",
+                "PostalCode": "560341",
+                "desc": "Blk 341 Ang Mo Kio Avenue 1 S(560341)",
+                "Address": "Blk 341 Ang Mo Kio Avenue 1 S(560341)",
+                "name": "Teck Ghee Court Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848248815536,
+                    1.36410296344445
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "Serangoon Garden Market",
+                "PostalCode": "555945",
+                "desc": "Blk 49A Serangoon Garden Way S(555945)",
+                "Address": "Blk 49A Serangoon Garden Way S(555945)",
+                "name": "Serangoon Garden Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.866578225927,
+                    1.36299611185572
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "Teck Ghee Square Market And Hawker Centre",
+                "PostalCode": "560409",
+                "desc": "Blk 409 Ang Mo Kio Avenue 10 S(560409)",
+                "Address": "Blk 409 Ang Mo Kio Avenue 10 S(560409)",
+                "name": "Teck Ghee Square Market And Hawker Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855140845975,
+                    1.36288398940825
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "Serangoon Avenue 3 Food Centre &amp; Market",
+                "PostalCode": "550267",
+                "desc": "Blk 267 Serangoon Ave 3 S(550267)",
+                "Address": "Blk 267 Serangoon Ave 3 S(550267)",
+                "name": "Serangoon Avenue 3 Food Centre &amp; Market",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871102301593,
+                    1.35342215138973
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "Hougang 105 Hainanese Village Centre",
+                "PostalCode": "530105",
+                "desc": "Blk 105 Hougang Avenue 1 S(530105)",
+                "Address": "Blk 105 Hougang Avenue 1 S(530105)",
+                "name": "Hougang 105 Hainanese Village Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890116278113,
+                    1.35454683747073
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "Kovan Hougang Market And Food Centre",
+                "PostalCode": "530209",
+                "desc": "Blk 209 Hougang Street 21 S(530209)",
+                "Address": "Blk 209 Hougang Street 21 S(530209)",
+                "name": "Kovan Hougang Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.886179248421,
+                    1.35863488902788
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "Mayflower Market And Food Centre",
+                "PostalCode": "560162",
+                "desc": "Blk 162 Ang Mo Kio Avenue 4 S(560162)",
+                "Address": "Blk 162 Ang Mo Kio Avenue 4 S(560162)",
+                "name": "Mayflower Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838835609932,
+                    1.37388887840866
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "Kebun Baru Market And Food Centre",
+                "PostalCode": "568226",
+                "desc": "Blk 226H Ang Mo Kio Street 22 S(568226)",
+                "Address": "Blk 226H Ang Mo Kio Street 22 S(568226)",
+                "name": "Kebun Baru Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840194089099,
+                    1.36701377905533
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "Ang Mo Kio Town Centre Market And Food Centre",
+                "PostalCode": "560724",
+                "desc": "Blk 724 Ang Mo Kio Avenue 6 S(560724)",
+                "Address": "Blk 724 Ang Mo Kio Avenue 6 S(560724)",
+                "name": "Ang Mo Kio Town Centre Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846431303818,
+                    1.37246249459612
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "Mayflower Market And Food Centre",
+                "PostalCode": "560160",
+                "desc": "Blk 160 Ang Mo Kio Avenue 4 S(560160)",
+                "Address": "Blk 160 Ang Mo Kio Avenue 4 S(560160)",
+                "name": "Mayflower Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839046909688,
+                    1.37426570637971
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "Kebun Baru Market And Food Centre",
+                "PostalCode": "564226",
+                "desc": "Blk 226D Ang Mo Kio Avenue 1 S(564226)",
+                "Address": "Blk 226D Ang Mo Kio Avenue 1 S(564226)",
+                "name": "Kebun Baru Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.838996219127,
+                    1.36701327293786
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "Chong Boon Market And Food Centre",
+                "PostalCode": "561453",
+                "desc": "Blk 453A Ang Mo Kio Avenue 10 S(561453)",
+                "Address": "Blk 453A Ang Mo Kio Avenue 10 S(561453)",
+                "name": "Chong Boon Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856095907791,
+                    1.36849155792413
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "Cheng San Market And Cooked Food Centre",
+                "PostalCode": "560527",
+                "desc": "Blk 527 Ang Mo Kio Avenue 10 S(560527)",
+                "Address": "Blk 527 Ang Mo Kio Avenue 10 S(560527)",
+                "name": "Cheng San Market And Cooked Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854228359117,
+                    1.37296306516425
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "Keat Hong Shopping Centre",
+                "PostalCode": "680253",
+                "desc": "Blk 253 Choa Chu Kang Ave 1 S(680253)",
+                "Address": "Blk 253 Choa Chu Kang Ave 1 S(680253)",
+                "name": "Keat Hong Shopping Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744110814881,
+                    1.37776608857584
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "Name": "Fajar Shopping Centre",
+                "PostalCode": "670446",
+                "desc": "Blk 446 Fajar Road S(670446)",
+                "Address": "Blk 446 Fajar Road S(670446)",
+                "name": "Fajar Shopping Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.770870450963,
+                    1.38401672185581
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "Name": "Yio Chu Kang View Market And Food Centre",
+                "PostalCode": "560628",
+                "desc": "Blk 628 Ang Mo Kio Avenue 4 S(560628)",
+                "Address": "Blk 628 Ang Mo Kio Avenue 4 S(560628)",
+                "name": "Yio Chu Kang View Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840141266273,
+                    1.38096402984226
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "Name": "Rivervale Plaza",
+                "PostalCode": "540118",
+                "desc": "Blk 118 Rivervale Drive S(540118)",
+                "Address": "Blk 118 Rivervale Drive S(540118)",
+                "name": "Rivervale Plaza",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.901282186369,
+                    1.38496069495395
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "Name": "Elias Mall",
+                "PostalCode": "510623",
+                "desc": "Blk 623 Elias Road S(510623)",
+                "Address": "Blk 623 Elias Road S(510623)",
+                "name": "Elias Mall",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.942096157021,
+                    1.37780618726955
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "Name": "Blk 2 &amp; 3 Changi Village",
+                "PostalCode": "500002",
+                "desc": "Blk 2 Changi Village Road S(500002)",
+                "Address": "Blk 2 Changi Village Road S(500002)",
+                "name": "Blk 2 &amp; 3 Changi Village",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.987998859696,
+                    1.3892850055792
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "Name": "Blk 2 &amp; 3 Changi Village",
+                "PostalCode": "500003",
+                "desc": "Blk 3 Changi Village Road S(500003)",
+                "Address": "Blk 3 Changi Village Road S(500003)",
+                "name": "Blk 2 &amp; 3 Changi Village",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.987960303542,
+                    1.38941052184358
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "Name": "Yew Tee Square",
+                "PostalCode": "680622",
+                "desc": "Blk 622 Choa Chu Kang St 62 S(680622)",
+                "Address": "Blk 622 Choa Chu Kang St 62 S(680622)",
+                "name": "Yew Tee Square",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747072716191,
+                    1.39816943800405
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "Name": "Limbang Shopping Centre",
+                "PostalCode": "680532",
+                "desc": "Blk 532 Choa Chu Kang St 51 S(680532)",
+                "Address": "Blk 532 Choa Chu Kang St 51 S(680532)",
+                "name": "Limbang Shopping Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.743676003769,
+                    1.39201304358671
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "Name": "Kopitiam Square",
+                "PostalCode": "544829",
+                "desc": "Blk 10 Sengkang Square S(544829)",
+                "Address": "Blk 10 Sengkang Square S(544829)",
+                "name": "Kopitiam Square",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893654944772,
+                    1.39151569672387
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "Name": "Vista Point",
+                "PostalCode": "730548",
+                "desc": "Blk 548 Woodlands Drive 44 S(730548)",
+                "Address": "Blk 548 Woodlands Drive 44 S(730548)",
+                "name": "Vista Point",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793704007455,
+                    1.43048534748661
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "Name": "Chong Pang Market And Food Centre",
+                "PostalCode": "760104",
+                "desc": "Blk 104 Yishun Ring Road S(760104)",
+                "Address": "Blk 104 Yishun Ring Road S(760104)",
+                "name": "Chong Pang Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82833666168,
+                    1.43126561323763
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "Name": "Chong Pang Market And Food Centre",
+                "PostalCode": "760105",
+                "desc": "Blk 105 Yishun Ring Road S(760105)",
+                "Address": "Blk 105 Yishun Ring Road S(760105)",
+                "name": "Chong Pang Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.827955450179,
+                    1.43157501131676
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "Name": "Blk 4a Woodlands Centre Road",
+                "PostalCode": "731004",
+                "desc": "Blk 4A Woodlands Centre Road S(731004)",
+                "Address": "Blk 4A Woodlands Centre Road S(731004)",
+                "name": "Blk 4a Woodlands Centre Road",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769987835501,
+                    1.4405820925114
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "Name": "Blk 20/21 Marsiling Lane",
+                "PostalCode": "730020",
+                "desc": "Blk 20 Marsiling Lane S(730020)",
+                "Address": "Blk 20 Marsiling Lane S(730020)",
+                "name": "Blk 20/21 Marsiling Lane",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.777097463486,
+                    1.44370741920043
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "Name": "Market And Food Centre",
+                "PostalCode": "730021",
+                "desc": "Blk 21 Marsiling Lane S(730021)",
+                "Address": "Blk 21 Marsiling Lane S(730021)",
+                "name": "Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.777169200334,
+                    1.44363506305884
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "Name": "Woodlands North Plaza",
+                "PostalCode": "730883",
+                "desc": "Blk 883 Woodlands St 82 S(730883)",
+                "Address": "Blk 883 Woodlands St 82 S(730883)",
+                "name": "Woodlands North Plaza",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790991522613,
+                    1.44292009424352
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "properties": {
+                "Name": "Admiralty Place",
+                "PostalCode": "731678",
+                "desc": "Blk 678A Woodlands Avenue 6 S(731678)",
+                "Address": "Blk 678A Woodlands Avenue 6 S(731678)",
+                "name": "Admiralty Place",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801119741726,
+                    1.44002569796898
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "properties": {
+                "Name": "Sembawang Mart",
+                "PostalCode": "750511",
+                "desc": "Blk 511 Canberra Road S(750511)",
+                "Address": "Blk 511 Canberra Road S(750511)",
+                "name": "Sembawang Mart",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819386753135,
+                    1.4538231900599
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "properties": {
+                "Name": "Jalan Batu Market And Food Centre",
+                "PostalCode": "432004",
+                "desc": "Blk 4A Jalan Batu S(432004)",
+                "Address": "Blk 4A Jalan Batu S(432004)",
+                "name": "Jalan Batu Market And Food Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883771951562,
+                    1.30259778153438
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "properties": {
+                "Name": "Keat Hong Shopping Centre",
+                "PostalCode": "680253",
+                "desc": "Blk 253 Choa Chu Kang Ave 1 S(680253)",
+                "Address": "Blk 253 Choa Chu Kang Ave 1 S(680253)",
+                "name": "Keat Hong Shopping Centre",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744110814881,
+                    1.37776608857584
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

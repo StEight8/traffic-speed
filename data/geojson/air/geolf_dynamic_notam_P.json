@@ -1,0 +1,108 @@
+var geoNOTAMDynamic_P = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1918/15", 
+				"DESC": "AUG 31 2200-2359, SEP 01 0000-0200, 022200-2359, 03 0000-0200 MINI UNMANNED AERIAL VEHICLE OPERATIONS WILL TAKE PLACE WI SAFETY RADIUS 1641FT OF 012235N1033958E 012235N1034022E 012154N1034022E 012154N1033958E (WI WSAT ATZ). ALL PILOTS TO EXERCISE CAUTION", 
+				"LimitLowerUpper": "GND - 300FT AGL", 
+				"DateTimeFromTo": "1508312200 to 1509030200"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.66611111111112, 1.3558333333333334 ] } 
+		}
+,
+
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1919/15 NOTAMR A1914/15", 
+				"DESC": "AUG 30 0011-0900, SEP 05 0500-0900 06 0000-0900 AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE AT 012519N1035710E(WI WSAP CTR)", 
+				"LimitLowerUpper": "GND - 200FT AGL", 
+				"DateTimeFromTo": "1508300011 to 1509060900"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.95277777777778, 1.4236111111111112 ] } 
+		}
+,
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1885/15", 
+				"DESC": "AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE AT 012532N1034322E (WI WSAT ATZ)", 
+				"LimitLowerUpper": "GND - 120FT AGL", 
+				"DateTimeFromTo": "1509030500 to 1509030900"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.72277777777778, 1.4236111111111112 ] } 
+		 }
+,
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1886/15", 
+				"DESC": "AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE AT 012512N1034337E (WI WSAT ATZ)", 
+				"LimitLowerUpper": "GND - 66FT AGL", 
+				"DateTimeFromTo": "1509030500 to 1509030900"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.72694444444444, 1.4236111111111112 ] } 
+		 }
+, 
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1917/15", 
+				"DESC": "AUG 30 0001-0900, SEP 05 0001-0900 AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE WI SAFETY RADIUS 378FT OF 012240N1034414E (WI WSAT ATZ)", 
+				"LimitLowerUpper": "GND - 329FT AGL", 
+				"DateTimeFromTo": "1508300001 to 1509050900"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.73722222222223, 1.3727777777777779 ] } 
+		 }
+,
+
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1890/15", 
+				"DESC": "AERIAL PHOTOGRAPHY BY REMOTE CONTROL ACFT WILL TAKE PLACE AT 012700N1034801E (WI WSAG ATZ).", 
+				"LimitLowerUpper": "GND - 328FT AGL", 
+				"DateTimeFromTo": "1509160615 to 1509160715"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.80027777777778, 1.4575 ] } 
+		 }
+,
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1884/15", 
+				"DESC": "AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE AT 012100N1035349E(WI WSAP CTR)", 
+				"LimitLowerUpper": "GND - 30FT AGL", 
+				"DateTimeFromTo": "1509050030 to 1509050300"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.89694444444446, 1.3558333333333334 ] } 
+		 }
+, 
+
+		{ "type": "Feature", 
+			"properties": {
+				"NOTAM_ID": "A1874/15", 
+				"DESC": "AERIAL PHOTOGRAPHY BY REMOTE CONTROL AIRCRAFT WILL TAKE PLACE AT 011714N1033953E (WI WSAT ATZ).", 
+				"LimitLowerUpper": "GND - 328FT AGL", 
+				"DateTimeFromTo": "1509030500 to 1509031000"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.66472222222222, 1.2880555555555555 ] } 
+		 }
+
+
+	]
+}
+];

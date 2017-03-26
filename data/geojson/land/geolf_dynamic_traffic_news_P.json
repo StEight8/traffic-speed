@@ -1,0 +1,92 @@
+var geoTrafficNewsSG_P = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "desc": "Vehicle breakdown on CTE towards SLE after Braddell Rd Exit.",
+                "DateTimeCreated": "201509090801",
+                "name": "vehiclebreakdown",
+                "type": "#traffic_vehiclebreakdown"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85784440185601,
+                    1.3504061747480727
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "desc": "Heavy Traffic on KPE towards ECP before Buangkok Dr Exit.",
+                "DateTimeCreated": "201509090800",
+                "name": "heavytraffic",
+                "type": "#traffic_heavytraffic"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91177747724505,
+                    1.3775536446935266
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "desc": "Vehicle breakdown on KPE towards TPE before Airport Rd Entrance.",
+                "DateTimeCreated": "201509090753",
+                "name": "vehiclebreakdown",
+                "type": "#traffic_vehiclebreakdown"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89844946463425,
+                    1.3485105801257697
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "desc": "Heavy Traffic on PIE towards Changi Airport at Lornie Rd Exit.",
+                "DateTimeCreated": "201509090743",
+                "name": "heavytraffic",
+                "type": "#traffic_heavytraffic"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81381153296553,
+                    1.3338517354412949
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "desc": "Heavy Traffic on KPE towards ECP at Nicoll Highway Exit.",
+                "DateTimeCreated": "201509090737",
+                "name": "heavytraffic",
+                "type": "#traffic_heavytraffic"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87662778027703,
+                    1.3084405114875466
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

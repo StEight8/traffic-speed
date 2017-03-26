@@ -1,0 +1,47 @@
+var geoNTMDynamic_P = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+		{ "type": "Feature", 
+			"properties": {
+				"NTM_ID": "PORT MARINE NOTICE NO. 103 OF 2015", 
+				"DESC": "TESTING OF AUTONOMOUS UNDERWATER VEHICLE (AUV) OFF SAF YACHT CLUB CHANGI", 
+				"CRAFT": "KRAKEN I / SR 3117 H (Work Boat), - / SR 3570 Z (Work Boat)", 
+				"WORKINGHOURS": "Weekdays from 0800 hours to 1800 hours.", 
+				"DateTimeFromTo": "With effect from 17 Sep 2015 to 31 Oct 2015."
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 104.01626, 1.31260  ] } 
+		}
+,
+		{ "type": "Feature", 
+			"properties": {
+				"NTM_ID": "PORT MARINE NOTICE NO. 100 OF 2015", 
+				"DESC": "REPLACEMENT WORK AT EXXONMOBIL BERTH 5, OFF WEST JURONG CHANNEL", 
+				"CRAFT": "Catermas - 20 SR 3176C (Crane Barge), Catermas - 29 SC 4606C (Flat Top Barge), KM 1 / ST 0797E (Tug Boat), KM 11 ST 3388G (Tug Boat/Safety Boat)", 
+				"WORKINGHOURS": "Weekdays from 0800 hours to 1800 hours.", 
+				"DateTimeFromTo": "With effect from 08 Sep 2015 to 30 Sep 2015."
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 103.69338, 1.29328    ] } 
+		 }
+,
+		{ "type": "Feature", 
+			"properties": {
+				"NTM_ID": "PORT MARINE NOTICE NO. 92 OF 2015", 
+				"DESC": "MOORING AND UNMOORING OF VESSELS OFF PULAU TEKONG", 
+				"CRAFT": "TK-MB-2", 
+				"WORKINGHOURS": "-", 
+				"DateTimeFromTo": "-"
+			},
+			"geometry": 
+				{ "type": "Point", 
+				"coordinates": [ 104.07877, 1.33776     ] } 
+		 }
+
+	]
+}
+];

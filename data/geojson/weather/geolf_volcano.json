@@ -1,0 +1,228 @@
+var activeVolcano = [
+{
+	"type": "FeatureCollection",
+	"features": [
+
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "1", 
+		"desc": "Bezymianny, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	KVERT reported that seismicity at Bezymianny increased on 17 June, when about 12 shallow events were recorded that were thought to be caused by extrusion of material at the top of the lava dome. A thermal anomaly was also identified using satellite data. The Aviation Color Code was raised from Yellow to Orange., 	Source: Kamchatkan Volcanic Eruption Response Team (KVERT)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 160.587, 55.978 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "2", 
+		"desc": "Nishinoshima, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	Photographs and video taken from a Japanese Coast Guard helicopter on 11 and 13 June revealed continuing eruptive activity at Nishinoshima. Steaming along the shoreline indicated at least two locations with active, or recently active, lava ocean entries, possibly tube-fed since no surface incandescence was visible. Night video clearly showed an active lava flow and ocean entry being supplied from lava fountaining out of a cinder cone. A significant steam plume was rising from the center of the lava shield from hot tephra deposits over a broad area rather than a crater. However, pulsating tephra ejections and distinctly brown ash plumes were rising from two smaller craters. An incandescent lava lake was visible in one of the small craters on both days., , , , Similar Coast Guard photos taken on 21 May showed a large ash-bearing plume and Strombolian activity from a larger cinder cone in the center of the island. Minor steaming from two central cinder cones was photographed on 15 April, and incandescent lava could be seen in the crater of one., , , 	Source: Japan Coast GuardAdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 140.874, 27.247 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "3", 
+		"desc": "Pavlof, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	AVO reported that the eruption at Pavlof continued during 11-16 June. Seismic activity was steady and characterized by intermittent events. Weakly elevated surface temperatures were occasionally observed in mostly cloudy satellite images.The Aviation Color Code remained at Orange and the Volcano Alert Level remained at Watch., 	Source: US Geological Survey Alaska Volcano Observatory (AVO)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -161.887, 55.420 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "4", 
+		"desc": "Sangeang Api, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	Based on analyses of satellite imagery and wind data, the Darwin VAAC reported that on 14 June an ash plume from Sangeang Api rose to an altitude of 2.1 km (7,000 ft) a.s.l. and drifted 55 km NW. , 	Source: Darwin Volcanic Ash Advisory Centre (VAAC)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 119.070, -8.200 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "5", 
+		"desc": "Semisopochnoi, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	AVO reported that an earthquake swarm at Semisopochnoi started at 1000 on 9 June and escalated at 1200 on 12 June. The continuation of the anomalous activity prompted AVO to raise the Aviation Color Code to Yellow and the Volcano Alert Level to Advisory on 13 June. The earthquake swarm was continuing as of 17 June. Five of the six seismic stations on the volcano were operational., 	Source: US Geological Survey Alaska Volcano Observatory (AVO)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 179.580, 51.930 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "6", 
+		"desc": "Zhupanovsky, 	Report for 11 June-17 June 2014, 	New Activity \/ Unrest, 	KVERT reported that satellite images over Zhupanovsky detected gas-and-steam plumes drifting 100 km E on 9 and 11 June. Snow in the region was covered by ash. The Aviation Color Code remained at Yellow., 	Source: Kamchatkan Volcanic Eruption Response Team (KVERT)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 159.147, 53.590 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "7", 
+		"desc": "Bagana, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	Based on analyses of satellite imagery and wind data, the Darwin VAAC reported that during 11-12 June ash plumes from Bagana rose to an altitude of 2.4 km (8,000 ft) a.s.l. and drifted 25-40 km SW and W., 	Source: Darwin Volcanic Ash Advisory Centre (VAAC)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 155.195, -6.140 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "8", 
+		"desc": "Batu Tara, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	Based on analyses of satellite data, the Darwin VAAC reported an ash plume from Batu Tara on 15 June rising to an altitude of 2.1 km (7,000 ft) a.s.l. and drifting 55 km SW. During 16 June the plume was slightly lower, at 1.5 km (5,000 ft) a.s.l., extending 37 km NW., 	Source: Darwin Volcanic Ash Advisory Centre (VAAC)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 123.579, -7.792 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "9", 
+		"desc": "Dukono, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	Based on analyses of satellite imagery and wind data, the Darwin VAAC reported that on 11 June an ash plume from Dukono rose to an altitude of 2.4 km (8,000 ft) a.s.l. and drifted over 35 km NE., 	Source: Darwin Volcanic Ash Advisory Centre (VAAC)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 127.880, 1.680 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "10", 
+		"desc": "Fuego, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	INSIVUMEH reported that explosive activity from Fuego continued in mid-June. Explosions during 12-14 June sent ash plumes as high as 4,600 m (15,000 ft) a.s.l. that drifted 9-11 km S and W. Small avalanches also continued., 	Source: AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -90.880, 14.473 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "11", 
+		"desc": "Karymsky, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	KVERT reported that Strombolian and weak Vulcanian activity continued at Karymsky during 6-13 June. Satellite images detected a thermal anomaly on 11 June; clouds obscured the volcano on the other days. The Aviation Color Code remained at Orange., 	Source: Kamchatkan Volcanic Eruption Response Team (KVERT)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 159.450, 54.050 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "12", 
+		"desc": "Kilauea, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	During 11-17 June HVO reported that the circulating lava lake occasionally rose and fell in the deep pit within Kilauea's Halema'uma'u Crater. Gas emissions remained elevated. The plume from the vent continued to deposit variable amounts of ash, spatter, and Pele's hair onto nearby areas; smaller particles may have been dropped several kilometers away., , , , At Pu'u 'O'o Crater, glow emanated from spatter cones on the N, SE, and S portions of the crater floor, and from a small lava lake in the NE spatter cone. On 22 May geologists mapped the farthest point of activity from the Kahauale’a 2 lava flow, 8.4 km NE of Pu’u 'O'o, and on 6 June they mapped four small breakouts as far as 6.5 km from Pu’u 'O'o. Smoke plumes rising from forested areas suggested advancing lava from a new 12 June breakout at the N base of the Pu’u 'O'o cone. Overall, however, this slow-moving flow has appeared to be weakening over the past few months., 	Source: US Geological Survey Hawaiian Volcano Observatory (HVO) AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -155.287, 19.421 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "13", 
+		"desc": "San Miguel, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	According to SNET, the Ministerio de Medio Ambiente y Recursos Naturales (MARN) reported that seismicity at San Miguel increased significantly during 11-12 June, and remained very high through 17 June. Webcam images on 17 June showed a small steam plume rising from the summit crater., 	Source: Servicio Nacional de Estudios Territoriales (SNET) AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -88.269, 13.434 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "14", 
+		"desc": "Santa María, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	Eruptions continued at Santa María's Santiaguito lava-dome complex during the week of 11-17 June. INSIVUMEH reported small avalanches to the W and ash plumes drifting SW at altitudes of 2,800-3,200 m (9,000-10,500 ft) a.s.l., 	Source: Instituto Nacional de Sismologia, Vulcanologia, Meteorologia, e Hidrologia (INSIVUMEH)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -91.552, 14.756 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "15", 
+		"desc": "Shishaldin, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	AVO reported that, although cloudy conditions frequently obscured webcam and satellite views of Shishaldin during 11-16 June, seismicity indicated that the low-level eruption continued. Strongly elevated surface temperatures at the summit were detected in satellite data on the morning of 16 June. The Aviation Color Code remained at Orange and the Volcano Alert Level remained at Watch., 	Source: US Geological Survey Alaska Volcano Observatory (AVO)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -163.970, 54.756 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "16", 
+		"desc": "Shiveluch, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	KVERT reported that during 6-13 June lava-dome extrusion onto Shiveluch’s SE flank was accompanied by ash explosions, incandescence, hot avalanches, and fumarolic activity. Satellite images detected a thermal anomaly and an ash plume drifting 70 km SW during 7-8 and 12 June. Ashfall in Klyuchi (50 km SW) was reported on 11 June. The Aviation Color Code remained at Orange., 	Source: Kamchatkan Volcanic Eruption Response Team (KVERT)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ 161.360, 56.653 ] } 
+	 }
+
+, 
+	{ "type": "Feature", 
+	"properties": {
+		"type": "Volcano", 
+		"id": "17", 
+		"desc": "Ubinas, 	Report for 11 June-17 June 2014, 	Ongoing Activity, 	In a 12 June press release, IGP's Observatorio Volcanologico de Arequipa (IGP-OVA) reported that activity at Ubinas had decreased since April, however periods of intense tremor mainly associated with ash emissions continued to be detected. Ashfall affected areas around the volcano, especially within 6 km E and SSW. An IGP update on 17 June noted a small explosion at 1335 that day that sent ash 1,800 m above the crater, to an altitude of about 7,400 m (24,500 ft) a.s.l., 	Sources: Instituto Geofísico del Perú (IGP),Instituto Geológico Minero y Metalúrgico (INGEMMET)AdditionalVolcano Information, CompleteWeekly ReportThe Weekly Volcanic Activity Report is a cooperative project between the Smithsonian's Global Volcanism Program and the US Geological Survey's Volcano Hazards Program.", 
+		"createdatetime": "20140622184812"
+		},
+	"geometry": 
+		{ "type": "Point", 
+		"coordinates": [ -70.903, -16.355 ] } 
+	 }
+
+	]
+}
+];

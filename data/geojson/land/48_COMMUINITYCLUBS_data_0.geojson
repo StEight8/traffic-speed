@@ -1,0 +1,3322 @@
+{
+    "features": [
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Pek Kio CC",
+                "Y_ADDR": 32816.0488,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "21",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "219458",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "CF038115DD2576DA",
+                "ADDRESSSTREETNAME": "Gloucester Road",
+                "X_ADDR": 30008.6129,
+                "PHOTOURL": "https://one.pa.gov.sg/CRMSPortal/photos/1393643/NewpkCC.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 9
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85136696303948,
+                    1.3130511413570765
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Potong Pasir CC",
+                "Y_ADDR": 34990.2388,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "6",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "358361",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "B0952194E8F8B1A3",
+                "ADDRESSSTREETNAME": "Potong Pasir Avenue 2",
+                "X_ADDR": 31757.2538,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5310.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 10
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86707963461275,
+                    1.3327135796722978
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Punggol 21 CC",
+                "Y_ADDR": 41723.5655,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "80",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "828815",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "C856374FB17F439E",
+                "ADDRESSSTREETNAME": "Punggol Field",
+                "X_ADDR": 36919.1416,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1389755/P1040117.JPG",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 11
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91346411312513,
+                    1.3936062461211405
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Punggol CC",
+                "Y_ADDR": 39597.4231,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "3",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "538808",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "A091CDEBDDB3C6E2",
+                "ADDRESSSTREETNAME": "Hougang Avenue 6",
+                "X_ADDR": 34509.9693,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5350.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 12
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89181533469839,
+                    1.3743788269088553
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Punggol Park CC",
+                "Y_ADDR": 39968.4832,
+                "ADDRESSUNITNUMBER": "405",
+                "ADDRESSBLOCKHOUSENUMBER": "458",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "530458",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "5709171C8DCB53BD",
+                "ADDRESSSTREETNAME": "Hougang Avenue 10",
+                "X_ADDR": 35003.8043,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5370.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 13
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89625288345061,
+                    1.3777344462399015
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Queenstown CC",
+                "Y_ADDR": 31278.9738,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "365",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "149732",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "DD84CAA4CCADB02D",
+                "ADDRESSSTREETNAME": "Commonwealth Avenue",
+                "X_ADDR": 24437.1868,
+                "PHOTOURL": "https://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4030.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 14
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80130511125442,
+                    1.2991502388239933
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "ACE The Place CC",
+                "Y_ADDR": 45477.0896,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "120",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "739069",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E15B8CF32DFB9BBF",
+                "ADDRESSSTREETNAME": "Woodlands Avenue 1",
+                "X_ADDR": 23428.8141,
+                "PHOTOURL": "https://one.pa.gov.sg/CRMSPortal/photos/1389675/new/newcclowres.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 15
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79224225663063,
+                    1.42755276791939
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Woodlands Galaxy CC",
+                "Y_ADDR": 46720.6386,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "31",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "738991",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "19EE3E17E8013FE0",
+                "ADDRESSSTREETNAME": "Woodlands Avenue 6",
+                "X_ADDR": 24572.4473,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 16
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80251870435526,
+                    1.4387991358134797
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Aljunied CC",
+                "Y_ADDR": 37413.3571,
+                "ADDRESSUNITNUMBER": "1048",
+                "ADDRESSBLOCKHOUSENUMBER": "110",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "530110",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "4B208FAA2D7381F7",
+                "ADDRESSSTREETNAME": "Hougang Avenue 1",
+                "X_ADDR": 34246.3848,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4050.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 17
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88944638153073,
+                    1.3546269798307435
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kebun Baru CC",
+                "Y_ADDR": 39427.6296,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "216",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "569897",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "6675F385B01ADD63",
+                "ADDRESSSTREETNAME": "Ang Mo Kio Avenue 4",
+                "X_ADDR": 28477.4223,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4900.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 34
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83760856034193,
+                    1.3728439927243947
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kim Seng CC",
+                "Y_ADDR": 30232.0767,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "570",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "169640",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "0820C968666BBA1B",
+                "ADDRESSSTREETNAME": "Havelock Road",
+                "X_ADDR": 27709.292,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4910.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 35
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83070644760743,
+                    1.2896826715182799
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kolam Ayer CC",
+                "Y_ADDR": 34040.0974,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "3188",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "339717",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E41739A81B4E146C",
+                "ADDRESSSTREETNAME": "Geylang Bahru",
+                "X_ADDR": 32064.2677,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4930.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 36
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86983820202582,
+                    1.324120799403205
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kreta Ayer CC",
+                "Y_ADDR": 29253.5778,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "28A",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "88995",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "DB1F802334D69838",
+                "ADDRESSSTREETNAME": "Kreta Ayer Road",
+                "X_ADDR": 29061.6116,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4950.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84285756598705,
+                    1.2808334552991614
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Lam Soon CC",
+                "Y_ADDR": 40417.5419,
+                "ADDRESSUNITNUMBER": "218",
+                "ADDRESSBLOCKHOUSENUMBER": "421",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "680421",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "A2E0D41AB9C4E035",
+                "ADDRESSSTREETNAME": "Choa Chu Kang Avenue 4",
+                "X_ADDR": 17698.007700000002,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4970.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 38
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74074750853622,
+                    1.381794593787711
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Leng Kee CC",
+                "Y_ADDR": 30243.6347,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "400",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "159049",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "456BE22136637309",
+                "ADDRESSSTREETNAME": "Lengkok Bahru",
+                "X_ADDR": 25899.9038,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4990.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 39
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81444834546389,
+                    1.2897871288657308
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Fuchun CC",
+                "Y_ADDR": 45683.5898,
+                "ADDRESSUNITNUMBER": "2",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "738581",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E6B6FCEF39557F75",
+                "ADDRESSSTREETNAME": "Woodlands Street 31",
+                "X_ADDR": 21509.4464,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4530.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 40
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77499492631742,
+                    1.4294199048475043
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Changi Simei CC",
+                "Y_ADDR": 36324.2039,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "10",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "529915",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "16602FB1EADAD66F",
+                "ADDRESSSTREETNAME": "Simei Street 2",
+                "X_ADDR": 41556.3091,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4370.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 41
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955130208847,
+                    1.3447746616200278
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Anchorvale CC",
+                "Y_ADDR": 42112.8896,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "59",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "544965",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "1166AB74C4013133",
+                "ADDRESSSTREETNAME": "Anchorvale Road",
+                "X_ADDR": 33936.8197,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4060.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 18
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88666568381751,
+                    1.397127916829739
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Ang Mo Kio CC",
+                "Y_ADDR": 38766.194,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "795",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "569976",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "41BB978C298D9F3C",
+                "ADDRESSSTREETNAME": "Ang Mo Kio Avenue 1",
+                "X_ADDR": 28819.768799999998,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4070.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 19
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840684770129,
+                    1.3668621969953096
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Ayer Rajah CC",
+                "Y_ADDR": 33676.0698,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "150",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "609335",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E11CFE0F596B7A8A",
+                "ADDRESSSTREETNAME": "Pandan Gardens",
+                "X_ADDR": 18447.5498,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4090.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 20
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74748483751084,
+                    1.32082744087587
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bedok CC",
+                "Y_ADDR": 34054.2164,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "850",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "467352",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "3149577D6EF9DAC0",
+                "ADDRESSSTREETNAME": "New Upper Changi Road",
+                "X_ADDR": 39432.741,
+                "PHOTOURL": "https://one.pa.gov.sg/CRMSPortal/photos/1390013/Bedok_Community_Centre.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 21
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93604783700664,
+                    1.3242466165139848
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bishan CC",
+                "Y_ADDR": 36855.4901,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "51",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "579799",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "53B78D2C7C540B49",
+                "ADDRESSSTREETNAME": "Bishan Street 13",
+                "X_ADDR": 29938.678,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4130.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 22
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85073881945111,
+                    1.349582421175342
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bishan North CC",
+                "Y_ADDR": 37851.2603,
+                "ADDRESSUNITNUMBER": "126",
+                "ADDRESSBLOCKHOUSENUMBER": "233",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "570233",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "98E41BCDEB42B15E",
+                "ADDRESSSTREETNAME": "Bishan Street 22",
+                "X_ADDR": 29370.0637,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4150.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 23
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84562950889502,
+                    1.3585878436114363
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Boon Lay CC",
+                "Y_ADDR": 36716.587700000004,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "10",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "649882",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "DC2B2E72E3D3E3F4",
+                "ADDRESSSTREETNAME": "Boon Lay Place",
+                "X_ADDR": 14429.603,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1390244/boon_lay_cc.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 24
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71138018468167,
+                    1.3483232253270887
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Braddell Heights CC",
+                "Y_ADDR": 37079.9623,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "50",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "556129",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "61E6E9B8924D5C72",
+                "ADDRESSSTREETNAME": "Serangoon Avenue 2",
+                "X_ADDR": 32123.1697,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4190.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 25
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8703678792946,
+                    1.3516122455276192
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Batok CC",
+                "Y_ADDR": 36922.923500000004,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "21",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "659959",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "1B4DA44A53010AAA",
+                "ADDRESSSTREETNAME": "Bukit Batok Central",
+                "X_ADDR": 18450.9523,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4210.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 26
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74751439314404,
+                    1.3501908033348806
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Taman Jurong CC",
+                "Y_ADDR": 35277.2403,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "618495",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "F4818F8A32A20548",
+                "ADDRESSSTREETNAME": "Yung Sheng Road",
+                "X_ADDR": 15569.829099999999,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4770.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 27
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72162639776735,
+                    1.335306799024566
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tampines Central CC",
+                "Y_ADDR": 37498.2283,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "866A",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "521866",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "27BA5E18999A00FD",
+                "ADDRESSSTREETNAME": "Tampines Street 83",
+                "X_ADDR": 39252.4781,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5590.jpg",
+                "ADDRESSFLOORNUMBER": "2",
+                "OBJECTID": 28
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93442935833474,
+                    1.3553930561203476
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tampines Changkat CC",
+                "Y_ADDR": 36439.0164,
+                "ADDRESSUNITNUMBER": "5",
+                "ADDRESSBLOCKHOUSENUMBER": "13",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "529453",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "773E1915344A30CB",
+                "ADDRESSSTREETNAME": "Tampines Street 11",
+                "X_ADDR": 40728.047,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4390.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 29
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94768783194687,
+                    1.3458133461740525
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tampines East CC",
+                "Y_ADDR": 37258.1338,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "10",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "529341",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "C8B1D6004337D6D7",
+                "ADDRESSSTREETNAME": "Tampines Street 23",
+                "X_ADDR": 41499.9164,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5610.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 30
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95462390535054,
+                    1.3532207988079483
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Kembangan CC",
+                "Y_ADDR": 33931.0589,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "5",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "417408",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "44413A04EFBEC29A",
+                "ADDRESSSTREETNAME": "Lengkong Tiga",
+                "X_ADDR": 36837.3167,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4850.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 31
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91272655122133,
+                    1.323133685871456
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Ubi CC",
+                "Y_ADDR": 33347.5259,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "10",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "409075",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "64147975CA3A92E5",
+                "ADDRESSSTREETNAME": "Jalan Ubi",
+                "X_ADDR": 35504.9387,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4870.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 32
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90075429383513,
+                    1.3178567798269185
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Katong CC",
+                "Y_ADDR": 31417.283,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "51",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "438178",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "B643A1711FCF40DF",
+                "ADDRESSSTREETNAME": "Kampong Arang Road",
+                "X_ADDR": 33716.4452,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4890.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 33
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88468341460408,
+                    1.3004007372311555
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "Ulu Pandan Community Building",
+                "NAME": "Ulu Pandan CC",
+                "Y_ADDR": 32700.8965,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "170",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "279621",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "87C5432F09630B6F",
+                "ADDRESSSTREETNAME": "Ghim Moh Road",
+                "X_ADDR": 23091.2654,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5870.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 1
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78921118510192,
+                    1.312009418538143
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "West Coast CC",
+                "Y_ADDR": 31683.2048,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "2",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "129605",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "A1567AED61DDBF58",
+                "ADDRESSSTREETNAME": "Clementi West Street 2",
+                "X_ADDR": 20395.0077,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5890.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 2
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76498424181818,
+                    1.302805232151033
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Geylang West CC",
+                "Y_ADDR": 33096.4579,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1205",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "387311",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "5439489C2DF8C63F",
+                "ADDRESSSTREETNAME": "Upper Boon Keng Road",
+                "X_ADDR": 32356.5031,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4590.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 3
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87246395892997,
+                    1.3155868189508952
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Gombak CC",
+                "Y_ADDR": 38442.9354,
+                "ADDRESSUNITNUMBER": "348",
+                "ADDRESSBLOCKHOUSENUMBER": "386",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "650386",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "77E72EB121EC9CA0",
+                "ADDRESSSTREETNAME": "Bukit Batok West Avenue 5",
+                "X_ADDR": 19012.1028,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4230.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 4
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75255622216798,
+                    1.3639374096759123
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Merah CC",
+                "Y_ADDR": 29742.4142,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "4000",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "159465",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "6EB5E7990A63675A",
+                "ADDRESSSTREETNAME": "Jalan Bukit Merah",
+                "X_ADDR": 26053.5044,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4270.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 5
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8158285422177,
+                    1.285254276774253
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Panjang CC",
+                "Y_ADDR": 39815.767,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "8",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "678295",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "B0CF96A271AF8D13",
+                "ADDRESSSTREETNAME": "Pending Road",
+                "X_ADDR": 21025.965,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4290.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 6
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77065181078524,
+                    1.3763533426944008
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Timah CC",
+                "Y_ADDR": 35851.3772,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "20",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "596569",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "8AD289C3582471F3",
+                "ADDRESSSTREETNAME": "Toh Yi Drive",
+                "X_ADDR": 21132.4557,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4310.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 7
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77160961645123,
+                    1.340500859796011
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Buona Vista CC",
+                "Y_ADDR": 32388.2618,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "36",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "270036",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9C9B03E8B27F18D6",
+                "ADDRESSSTREETNAME": "Holland Drive",
+                "X_ADDR": 23462.5593,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4330.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 8
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79254748857707,
+                    1.3091821182787835
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tanglin CC",
+                "Y_ADDR": 33955.4178,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "245",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "297829",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "30D1AB865285F50A",
+                "ADDRESSSTREETNAME": "Whitley Road",
+                "X_ADDR": 27284.6683,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5650.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 66
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82689094308844,
+                    1.323355250004351
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Bukit Batok East CC",
+                "Y_ADDR": 36789.8182,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "23",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "659841",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "7D81B0EF30A40280",
+                "ADDRESSSTREETNAME": "Bukit Batok East Avenue 4",
+                "X_ADDR": 19639.6739,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4220.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 67
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75819583311221,
+                    1.3489874031814422
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Whampoa CC",
+                "Y_ADDR": 34100.6217,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "300",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "327737",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "7177DADA656100B6",
+                "ADDRESSSTREETNAME": "Whampoa Drive",
+                "X_ADDR": 30629.2165,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5910.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 68
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85694350451826,
+                    1.3246683179485848
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Woodlands CC",
+                "Y_ADDR": 46823.6328,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "738526",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "7ADDE12EEACC6DB8",
+                "ADDRESSSTREETNAME": "Woodlands Street 81",
+                "X_ADDR": 22982.9373,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5930.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 69
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78823540481689,
+                    1.4397303386194662
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "Yew Tee Community Building",
+                "NAME": "Yew Tee CC",
+                "Y_ADDR": 41868.6006,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "20",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "689286",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "92DCF2DE3D7E3718",
+                "ADDRESSSTREETNAME": "Choa Chu Kang Street 52",
+                "X_ADDR": 18141.0234,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5950.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 70
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74472784258415,
+                    1.3949175844698412
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Yio Chu Kang CC",
+                "Y_ADDR": 40386.6776,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "50",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "569163",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "923BCB422D35F6DB",
+                "ADDRESSSTREETNAME": "Ang Mo Kio Street 61",
+                "X_ADDR": 28902.4894,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5970.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 71
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84142812044111,
+                    1.3815172688645947
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Yuhua CC",
+                "Y_ADDR": 35791.5299,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "90",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "609958",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "490A7CC8B5FD7C45",
+                "ADDRESSSTREETNAME": "Boon Lay Way",
+                "X_ADDR": 17293.6633,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5980.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 72
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73711583431937,
+                    1.339958504327109
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Zhenghua CC",
+                "Y_ADDR": 40969.4164,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "677738",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "F92A6C69B365C296",
+                "ADDRESSSTREETNAME": "Segar Road",
+                "X_ADDR": 21134.2448,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5990.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 73
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77162451294788,
+                    1.3867865542774889
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Punggol Vista CC",
+                "Y_ADDR": 42783.6742,
+                "ADDRESSUNITNUMBER": "2",
+                "ADDRESSBLOCKHOUSENUMBER": "602",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "820602",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9B1B042C7A13AD65",
+                "ADDRESSSTREETNAME": "Punggol Central",
+                "X_ADDR": 36240.577900000004,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 74
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90736698614744,
+                    1.4031936810224563
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Toa Payoh South CC",
+                "Y_ADDR": 35231.219,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1999",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "319258",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "13BDD73C7365D031",
+                "ADDRESSSTREETNAME": "Lorong 8 Toa Payoh",
+                "X_ADDR": 30900.3245,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5830.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 101
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85937966184602,
+                    1.334893013012686
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Toa Payoh West CC",
+                "Y_ADDR": 35287.67,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "200",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "319642",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "71D051EB239F66A3",
+                "ADDRESSSTREETNAME": "Lorong 2 Toa Payoh",
+                "X_ADDR": 29298.7248,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5850.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 102
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84498837062128,
+                    1.335403647752871
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Pasir Ris East CC",
+                "Y_ADDR": 38957.2835,
+                "ADDRESSUNITNUMBER": "8",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "519457",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "BA3B2A749D278C4A",
+                "ADDRESSSTREETNAME": "Pasir Ris Drive 4",
+                "X_ADDR": 42008.8743,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5190.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 103
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95919800476125,
+                    1.3685870303467804
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Pasir Ris Elias CC",
+                "Y_ADDR": 40023.7177,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "93",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "519498",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "D6707E82161B1954",
+                "ADDRESSSTREETNAME": "Pasir Ris Drive 3",
+                "X_ADDR": 40171.0746,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1393491/IMG_5283.JPG",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 104
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94268456416926,
+                    1.3782322772480136
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Paya Lebar Kovan CC",
+                "Y_ADDR": 37764.0518,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "207",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "530207",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "52BAA3BF4DD9E60D",
+                "ADDRESSSTREETNAME": "Hougang Street 21",
+                "X_ADDR": 33873.0813,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5270.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 105
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88609207814369,
+                    1.3577986131925717
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Gek Poh Ville CC",
+                "Y_ADDR": 36760.8465,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "649149",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "3E333B5E16909EE2",
+                "ADDRESSSTREETNAME": "Jurong West Street 74",
+                "X_ADDR": 13032.0131,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4550.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 106
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.69882197685796,
+                    1.3487228203495005
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Geylang Serai CC",
+                "Y_ADDR": 32589.8616,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "99",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "438748",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "BEF1CC1BF83A9982",
+                "ADDRESSSTREETNAME": "Haig Road",
+                "X_ADDR": 35180.2001,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1391619/123G/4570.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 107
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89783617683096,
+                    1.3110048134963754
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Woodgrove CC",
+                "Y_ADDR": 45948.4262,
+                "ADDRESSUNITNUMBER": "753",
+                "ADDRESSBLOCKHOUSENUMBER": "353",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "730353",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_2",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "545BAFD2FBB4A0DE",
+                "ADDRESSSTREETNAME": "Woodlands Ave 1",
+                "X_ADDR": 22640.9846,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 75
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78516279458489,
+                    1.4318152258370787
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Radin Mas CC",
+                "Y_ADDR": 28711.4945,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "98915",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "BB1E32D7C82C6FFB",
+                "ADDRESSSTREETNAME": "Telok Blangah Crescent",
+                "X_ADDR": 26490.2729,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5430.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 76
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81975312918037,
+                    1.275931025636847
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Rivervale CC",
+                "Y_ADDR": 41725.9656,
+                "ADDRESSUNITNUMBER": "787",
+                "ADDRESSBLOCKHOUSENUMBER": "193",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "540193",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "F9B2F3A937E2C189",
+                "ADDRESSSTREETNAME": "Rivervale Drive",
+                "X_ADDR": 35618.2999,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5440.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 77
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90177502856868,
+                    1.3936283227093131
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Sembawang CC",
+                "Y_ADDR": 48147.9967,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "2125",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "758528",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "500A6FB8424F27AF",
+                "ADDRESSSTREETNAME": "Sembawang Road",
+                "X_ADDR": 27498.7295,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5470.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 78
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82881415268393,
+                    1.4517078482889403
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "Sengkang Community Hub",
+                "NAME": "Sengkang CC",
+                "Y_ADDR": 41632.7568,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "2",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "545025",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "FFE3063DE1FC995A",
+                "ADDRESSSTREETNAME": "Sengkang Square",
+                "X_ADDR": 34742.5946,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4460.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 79
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89390610547028,
+                    1.392785594009211
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "Opposite Bukit Panjang Plaza",
+                "NAME": "Senja-Cashew CC",
+                "Y_ADDR": 40394.4745,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "101",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "679910",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "66802266BE19FF02",
+                "ADDRESSSTREETNAME": "Bukit Panjang Road",
+                "X_ADDR": 20359.1204,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 80
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76465957967741,
+                    1.3815867964194055
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Siglap CC",
+                "Y_ADDR": 33765.1258,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "300",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "469299",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E16C9A08CC8AF057",
+                "ADDRESSSTREETNAME": "Bedok South Avenue 3",
+                "X_ADDR": 40243.917,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5530.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 81
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94333656089165,
+                    1.32163187259221
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Siglap South CC",
+                "Y_ADDR": 32865.1795,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "6",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "456441",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "C822A6C7D16D9A40",
+                "ADDRESSSTREETNAME": "Palm Road",
+                "X_ADDR": 38836.536,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5550.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 82
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93069020549723,
+                    1.3134936192079654
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Marine Parade CC",
+                "Y_ADDR": 31906.9642,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "278",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "449282",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "A1BD7D4F99E88D74",
+                "ADDRESSSTREETNAME": "Marine Parade Road",
+                "X_ADDR": 36483.3339,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5020.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 83
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90954527541177,
+                    1.3048286054627
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Marsiling CC",
+                "Y_ADDR": 46926.1109,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "100",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "739980",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "34FFE1C3B30F8382",
+                "ADDRESSSTREETNAME": "Admiralty Road",
+                "X_ADDR": 21355.934,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5030.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 84
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77361518297029,
+                    1.440656774733171
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Mountbatten CC",
+                "Y_ADDR": 32487.7597,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "35",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "399479",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "7ECE98E1A8848478",
+                "ADDRESSSTREETNAME": "Jalan Satu",
+                "X_ADDR": 33968.4617,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5070.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 85
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88694810072492,
+                    1.3100816987736643
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Nee Soon Central CC",
+                "Y_ADDR": 45567.8937,
+                "ADDRESSUNITNUMBER": "138",
+                "ADDRESSBLOCKHOUSENUMBER": "749",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "760749",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9CA971D9F848ED3D",
+                "ADDRESSSTREETNAME": "Yishun Street 72",
+                "X_ADDR": 28089.8033,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5110.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 86
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83412554518277,
+                    1.4283743375728277
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Nee Soon East CC",
+                "Y_ADDR": 45860.5349,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "768893",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "5FC37CF4D705102B",
+                "ADDRESSSTREETNAME": "Yishun Avenue 9",
+                "X_ADDR": 28575.2878,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5130.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 87
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83848807815312,
+                    1.4310208721241262
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Nee Soon South CC",
+                "Y_ADDR": 44086.1163,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "30",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "768455",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "18643F50DB50571F",
+                "ADDRESSSTREETNAME": "Yishun Street 81",
+                "X_ADDR": 28173.7428,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5150.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 88
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83487980953436,
+                    1.414973677500261
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Cairnhill CC (CC being upgraded wef 5.5.2014 â\u20ac\u201c 4th quarter of 2015)",
+                "Y_ADDR": 32512.6481,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "229944",
+                "FMEL_UPD_D": 1399895012000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "2C4E0F2A0B1DF146",
+                "ADDRESSSTREETNAME": "Anthony Road",
+                "X_ADDR": 28627.5256,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4350.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 89
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83895720209863,
+                    1.3103073524768554
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "(Temp address till early 2018)",
+                "NAME": "Nanyang CC",
+                "Y_ADDR": 36130.0282,
+                "ADDRESSUNITNUMBER": "713",
+                "ADDRESSBLOCKHOUSENUMBER": "952",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "640952",
+                "FMEL_UPD_D": 1399895012000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E8887AB87FBB7EA5",
+                "ADDRESSSTREETNAME": "Jurong West Street 91",
+                "X_ADDR": 12198.1666,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5090.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 90
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.69132969633077,
+                    1.3430175122196706
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "MacPherson CC",
+                "Y_ADDR": 33975.5834,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "400",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "379131",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "D390195C0D212057",
+                "ADDRESSSTREETNAME": "Paya Lebar Way",
+                "X_ADDR": 33693.8872,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5010.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 91
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88448119071953,
+                    1.3235370982435968
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Jalan Besar CC",
+                "Y_ADDR": 32231.4801,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "69",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "208737",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "5C7B629E1557F55F",
+                "ADDRESSSTREETNAME": "Jellicoe Road",
+                "X_ADDR": 31161.667699999998,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4700.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 92
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86172767251377,
+                    1.3077644120641123
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Joo Chiat CC",
+                "Y_ADDR": 32197.6056,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "405",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "427633",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9E10E4EB8F32672E",
+                "ADDRESSSTREETNAME": "Joo Chiat Road",
+                "X_ADDR": 35884.9803,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4730.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 93
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90416886769628,
+                    1.3074572199602288
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Jurong Green CC",
+                "Y_ADDR": 36969.2284,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "6",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "649520",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "40E7C2C464A8FFCB",
+                "ADDRESSSTREETNAME": "Jurong West Avenue 1",
+                "X_ADDR": 15988.3898,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1391770/P1140500.JPG",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 94
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72538672784258,
+                    1.3506086803002184
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Jurong Spring CC",
+                "Y_ADDR": 36717.3179,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "8",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "649296",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "14BB72AD931068BB",
+                "ADDRESSSTREETNAME": "Jurong West Street 52",
+                "X_ADDR": 15183.0606,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4650.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 95
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.71815045657183,
+                    1.3483301607842928
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kaki Bukit CC",
+                "Y_ADDR": 35064.0351,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "670",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "469627",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "6A3BBCBDFBA60003",
+                "ADDRESSSTREETNAME": "Bedok North Street 3",
+                "X_ADDR": 38409.6028,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4790.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 96
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92685474825535,
+                    1.3333794132391488
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kallang CC",
+                "Y_ADDR": 33343.0942,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "45",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "339771",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "336232CAB4E806F7",
+                "ADDRESSSTREETNAME": "Boon Keng Road",
+                "X_ADDR": 31233.1369,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 97
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86236997330512,
+                    1.3178174490069152
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Chai Chee CC",
+                "Y_ADDR": 34408.4716,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "200",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "469752",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "00C9F7C2DAB61243",
+                "ADDRESSSTREETNAME": "Bedok North Avenue 1",
+                "X_ADDR": 38446.0493,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4830.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 98
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92718201635657,
+                    1.3274507246012157
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Kampong Glam CC",
+                "Y_ADDR": 31680.6623,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "385",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "199581",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "C4115935A7C432AE",
+                "ADDRESSSTREETNAME": "Beach Road",
+                "X_ADDR": 31369.9117,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4840.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 99
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8635987854218,
+                    1.302782989564218
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Toa Payoh East CC",
+                "Y_ADDR": 35384.0156,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "160",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "319380",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9BA4724575C3D170",
+                "ADDRESSSTREETNAME": "Lorong 6 Toa Payoh",
+                "X_ADDR": 30379.5537,
+                "PHOTOURL": null,
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 100
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85470024992829,
+                    1.3362748974906886
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Cheng San CC",
+                "Y_ADDR": 39310.0342,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "6",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "569205",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9A9C96C8FDED4D9A",
+                "ADDRESSSTREETNAME": "Ang Mo Kio Street 53",
+                "X_ADDR": 29808.5826,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4410.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 42
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8495699789521,
+                    1.3717804503607038
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Chong Pang CC",
+                "Y_ADDR": 45839.692,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "21",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "768677",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "2090557F1BC182A9",
+                "ADDRESSSTREETNAME": "Yishun Ring Road",
+                "X_ADDR": 27545.545,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4420.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 43
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82923487581498,
+                    1.4308323795273459
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Chua Chu Kang CC",
+                "Y_ADDR": 40346.8051,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "35",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "688892",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "666758AF6636225A",
+                "ADDRESSSTREETNAME": "Teck Whye Avenue",
+                "X_ADDR": 18939.5703,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4430.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 44
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75190388737995,
+                    1.3811552873174955
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Ci Yuan CC",
+                "Y_ADDR": 39608.986600000004,
+                "ADDRESSUNITNUMBER": "413",
+                "ADDRESSBLOCKHOUSENUMBER": "662",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "530662",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "90BE6470F1204D82",
+                "ADDRESSSTREETNAME": "Hougang Avenue 4",
+                "X_ADDR": 33466.8541,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5390.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 45
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88244219926523,
+                    1.3744836154725977
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Clementi CC",
+                "Y_ADDR": 33453.4959,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "220",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "129880",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E97902F29A168012",
+                "ADDRESSSTREETNAME": "Clementi Avenue 4",
+                "X_ADDR": 20747.785,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4450.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 46
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7681536911376,
+                    1.3188151953834555
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Dover CC",
+                "Y_ADDR": 31652.7175,
+                "ADDRESSUNITNUMBER": "300",
+                "ADDRESSBLOCKHOUSENUMBER": "1",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "130001",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "F63893F4096C2088",
+                "ADDRESSSTREETNAME": "Dover Road",
+                "X_ADDR": 22430.2324,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4470.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78327166671662,
+                    1.302529949184842
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Eunos CC",
+                "Y_ADDR": 34982.6392,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "180",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "479220",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "64A4FF210D204F1F",
+                "ADDRESSSTREETNAME": "Bedok Reservoir Road",
+                "X_ADDR": 37118.7054,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4490.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 48
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91525528913432,
+                    1.3326437142433922
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Fengshan CC",
+                "Y_ADDR": 34768.6466,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "20",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "469644",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "3CC2BC129DDAE0FF",
+                "ADDRESSSTREETNAME": "Bedok North Street 2",
+                "X_ADDR": 39495.6775,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4510.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 49
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93661362239372,
+                    1.3307076352389298
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tanjong Pagar CC",
+                "Y_ADDR": 28727.5989,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "101",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "89774",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "DA341D6820D9C360",
+                "ADDRESSSTREETNAME": "Cantonment Road",
+                "X_ADDR": 28921.2487,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5670.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 50
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8415963363965,
+                    1.2760766909037107
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Teck Ghee CC",
+                "Y_ADDR": 38350.7978,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "861",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "569734",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "3AB1AEC5D7F8080E",
+                "ADDRESSSTREETNAME": "Ang Mo Kio Avenue 10",
+                "X_ADDR": 30252.0857,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5690.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 51
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85355509768753,
+                    1.3631054278457604
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": "Hong Lim Park",
+                "NAME": "Telok Ayer Hong Lim Green CC",
+                "Y_ADDR": 29822.4015,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "20",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "58284",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "E100E6BB4C51BBE2",
+                "ADDRESSSTREETNAME": "Upper Pickering Street",
+                "X_ADDR": 29467.855199999998,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/1394620/CC_Day.JPG",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 52
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84650784742442,
+                    1.2859776809020196
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Telok Blangah CC",
+                "Y_ADDR": 28591.338,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "450",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "108943",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "1168EF4087BE123F",
+                "ADDRESSSTREETNAME": "Telok Blangah Street 31",
+                "X_ADDR": 25169.8424,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5730.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 53
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80788858945937,
+                    1.274844281883741
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "The Frontier CC",
+                "Y_ADDR": 35848.2072,
+                "ADDRESSUNITNUMBER": "1",
+                "ADDRESSBLOCKHOUSENUMBER": "60",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "648346",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "91735032A065EF20",
+                "ADDRESSSTREETNAME": "Jurong West Central 3",
+                "X_ADDR": 13658.6014,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5900.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 54
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70445268350745,
+                    1.34046956141207
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Canberra CC",
+                "Y_ADDR": 47413.8113,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "2",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "757632",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "5BD47C03CAE66AF7",
+                "ADDRESSSTREETNAME": "Sembawang Crescent",
+                "X_ADDR": 26455.044,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4360.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 55
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81943561773092,
+                    1.4450681039891453
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "The Serangoon CC",
+                "Y_ADDR": 39111.782,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "10",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "555877",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "75C30B5CBC69697B",
+                "ADDRESSSTREETNAME": "Serangoon North Avenue 2",
+                "X_ADDR": 32528.8333,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5490.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 56
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87401333182311,
+                    1.369987236213295
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Thomson CC",
+                "Y_ADDR": 37031.607,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "194",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "574339",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "50871CD7E6FD8935",
+                "ADDRESSSTREETNAME": "Upper Thomson Road",
+                "X_ADDR": 28335.8716,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5750.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 57
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8363365983924,
+                    1.3511752196768299
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tiong Bahru CC",
+                "Y_ADDR": 29545.0962,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "67A",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "169715",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "20B1283F15172714",
+                "ADDRESSSTREETNAME": "Eu Chin Street",
+                "X_ADDR": 27843.4396,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5770.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 58
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83191182274264,
+                    1.283469861981374
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Toa Payoh Central CC",
+                "Y_ADDR": 35223.8268,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "93",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "319194",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "ED688BE613C3C2FD",
+                "ADDRESSSTREETNAME": "Toa Payoh Central",
+                "X_ADDR": 29889.995000000003,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5790.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 59
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85030127129978,
+                    1.334826241384589
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Henderson CC",
+                "Y_ADDR": 29826.1648,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "500",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "159682",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "099D72690D2D423E",
+                "ADDRESSSTREETNAME": "Bukit Merah View",
+                "X_ADDR": 26886.3859,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4610.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 60
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82331231016141,
+                    1.2860117292845152
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Hong Kah North CC",
+                "Y_ADDR": 37903.5036,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "30",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "659440",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "B025B88DEA40B6C0",
+                "ADDRESSSTREETNAME": "Bukit Batok Street 31",
+                "X_ADDR": 18667.1599,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4640.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 61
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74945684687854,
+                    1.3590588793518386
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Hougang CC",
+                "Y_ADDR": 38512.537299999996,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "35",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "538840",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "067D540DEF56B195",
+                "ADDRESSSTREETNAME": "Hougang Avenue 3",
+                "X_ADDR": 34598.5257,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4670.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 62
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89261083540185,
+                    1.3645674926935072
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Hwi Yoh CC",
+                "Y_ADDR": 39511.2733,
+                "ADDRESSUNITNUMBER": "179",
+                "ADDRESSBLOCKHOUSENUMBER": "535",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "550535",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "04803DD169050280",
+                "ADDRESSSTREETNAME": "Serangoon North Avenue 4",
+                "X_ADDR": 32515.2105,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_4690.jpg",
+                "ADDRESSFLOORNUMBER": "1",
+                "OBJECTID": 63
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87389098223507,
+                    1.373600093978526
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tampines North CC",
+                "Y_ADDR": 37706.7338,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "2",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "529204",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "1B018077432AB143",
+                "ADDRESSSTREETNAME": "Tampines Street 41",
+                "X_ADDR": 40609.2273,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5250.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 64
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94662069724292,
+                    1.3572781589215215
+                ]
+            }
+        },
+        {
+            "id": 1234,
+            "properties": {
+                "ADDRESSBUILDINGNAME": null,
+                "NAME": "Tampines West CC",
+                "Y_ADDR": 36766.2544,
+                "ADDRESSUNITNUMBER": null,
+                "ADDRESSBLOCKHOUSENUMBER": "5",
+                "DESCRIPTION": "Community Centre/Club",
+                "ADDRESSPOSTALCODE": "529705",
+                "FMEL_UPD_D": 1396349857000,
+                "LANDXADDRESSPOINT": 0,
+                "HYPERLINK": "http://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFPAOrgSelection&wlpCRMSPortal_1_ProgramType=1&_pageLabel=CRMSPortal_page_1",
+                "LANDYADDRESSPOINT": 0,
+                "ADDRESSTYPE": "A",
+                "INC_CRC": "9F8E4234F621A62D",
+                "ADDRESSSTREETNAME": "Tampines Avenue 3",
+                "X_ADDR": 39394.119399999996,
+                "PHOTOURL": "http://one.pa.gov.sg/CRMSPortal/photos/Common/Photos_of_BU/BU_5630.jpg",
+                "ADDRESSFLOORNUMBER": null,
+                "OBJECTID": 65
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93570181729532,
+                    1.3487733005330085
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

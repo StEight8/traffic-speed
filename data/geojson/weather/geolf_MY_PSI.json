@@ -1,0 +1,995 @@
+var myPSI = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "maxPSI": 23,
+                "State": "Sabah",
+                "Area": " Tawau",
+                "readings": "23,23,22,22,22,22,22,22,22,23,23,23,23,23,23,23,23,23,23,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 22
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.935829,
+                    4.249869
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "maxPSI": 38,
+                "State": "Perak",
+                "Area": " Tanjung Malim",
+                "readings": "37,37,37,38,38,38,38,37,37,37,36,36,37,40c,54c,72c,73c,76c,71c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.524422,
+                    3.687768
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "maxPSI": 27,
+                "State": "Sarawak",
+                "Area": " Sri Aman",
+                "readings": "27,26,26,26,26,26,25,25,25,25,-1,25,25,24,24,23,23,23,23,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 24
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.464863,
+                    1.219658
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "maxPSI": 32,
+                "State": "Sabah",
+                "Area": " Keningau",
+                "readings": "32,32,31,31,31,30,30,30,30,30,31,31,31,30,30,30,30,30,30,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 30
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.163729,
+                    5.339398
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "maxPSI": 36,
+                "State": "Sarawak",
+                "Area": " Samarahan",
+                "readings": "36,36,35,35,35,35,35,35,35,35,35,35,35,35,35,35,36,36,35,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 35
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.491578,
+                    1.45477
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "maxPSI": 28,
+                "State": "Sarawak",
+                "Area": " Limbang",
+                "readings": "23,24,24,25,26,26,26,27,27,27,27,27,28,28,28,27,27,27,27,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 26
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.013738,
+                    4.758758
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "maxPSI": 40,
+                "State": "Johor",
+                "Area": " Kota Tinggi",
+                "readings": "34,35,35,35,35,37,37,37,37,38,38,37,37,38,38,39,39,40,40,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.225449,
+                    1.564044
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "maxPSI": 55,
+                "State": "Pulau Pinang",
+                "Area": " Seberang Jaya 2, Perai",
+                "readings": "51,52,52,52,53,53,53,53,53,54,54,54,54,59c,64c,73c,68c,58c,55,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 53
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.403981,
+                    5.39896
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "maxPSI": 45,
+                "State": "Wilayah Persekutuan",
+                "Area": " Batu Muda,Kuala Lumpur",
+                "readings": "41,41,41,41,41,42,42,42,42,42,44,45,45,57c,73c,76c,71c,57c,54c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 42
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.682207,
+                    3.212417
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "maxPSI": 38,
+                "State": "Melaka",
+                "Area": " Bukit Rambai",
+                "readings": "37,35,34,34,34,34,37,37,38,37,33,31,32,33,33,34,34,36,37c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 34
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.172653,
+                    2.25861
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "maxPSI": 35,
+                "State": "Negeri Sembilan",
+                "Area": " Port Dickson",
+                "readings": "34,33,33,33,34,35,35,35,35,35,34,30,33c,36c,34c,38c,41c,35,43c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 33
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.867028,
+                    2.44134
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "maxPSI": 50,
+                "State": "Pulau Pinang",
+                "Area": " USM",
+                "readings": "47c,43,45c,44,44,48,49,49,50,50,50,50,60c,69c,78c,81c,73c,59c,58c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.294567,
+                    5.357664
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "maxPSI": 42,
+                "State": "Negeri Sembilan",
+                "Area": " Seremban",
+                "readings": "34,35,35,35,35,36,36,36,37,37,36,36,37,40c,38,39,40,41,42,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 36
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.968446,
+                    2.723361
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "maxPSI": 45,
+                "State": "Wilayah Persekutuan",
+                "Area": " Cheras,Kuala Lumpur",
+                "readings": "43,43,43,44,44,44,44,44,45,45,43,41,43c,49c,60c,60c,56c,51c,48c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 43
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.717906,
+                    3.106223
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "maxPSI": 46,
+                "State": "Selangor",
+                "Area": " Pelabuhan Kelang",
+                "readings": "40,40,40,41,41,41,42,43,43,44,45,45,45,46,45,44,44,45,45,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 43
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.40837,
+                    3.01011
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "maxPSI": 38,
+                "State": "Sarawak",
+                "Area": " Sibu",
+                "readings": "37,38,38,38,38,38,38,37,37,37,37,37,36,36,35,34,34,33,31,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 36
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.83177,
+                    2.314186
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "maxPSI": 31,
+                "State": "Sarawak",
+                "Area": " Kuching",
+                "readings": "31,31,30,30,30,31,30,31,31,30,30,29,29,28,28,27,27,26,26,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 29
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.388883,
+                    1.562172
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "maxPSI": 39,
+                "State": "Pahang",
+                "Area": " Indera Mahkota, Kuantan",
+                "readings": "34,34,35,36,36,37,38,38,38,37,37,37,38,38,38,38,39,39,41c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.296518,
+                    3.81932
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "maxPSI": 55,
+                "State": "Perak",
+                "Area": " Jalan Tasek, Ipoh",
+                "readings": "55,55,54,54,54,53,52,53,53,52,52,52,51,58c,69c,66c,52c,51,51,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 52
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.116583,
+                    4.629405
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "maxPSI": 56,
+                "State": "Johor",
+                "Area": " Pasir Gudang",
+                "readings": "55,54,50,50,52,54,55,55,55,55,55,55,56,56,55,55,55,55,54,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 54
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89345,
+                    1.470115
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "maxPSI": 40,
+                "State": "Johor",
+                "Area": " Muar",
+                "readings": "40,39,36,34,34,34,36,37,38,39,39,38,38,38,38,36,39c,40c,39c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 37
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.577031,
+                    2.039756
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "maxPSI": 48,
+                "State": "Perak",
+                "Area": " Seri Manjung",
+                "readings": "40,40,40,40,40,41,42,42,42,42,43,44,44,44,45,45,46,47,48,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 42
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.663327,
+                    4.20039
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "maxPSI": 53,
+                "State": "Kelantan",
+                "Area": " Tanah Merah ",
+                "readings": "40,41,43,43,44,45,45,47,47,48,49,51,51,51,52,52,52,53,53,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.134338,
+                    5.811254
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "maxPSI": 34,
+                "State": "Sarawak",
+                "Area": " Kapit",
+                "readings": "30,30,29,30,30,30,30,31,31,31,32,32,32,33,33,33,33,34,33,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 31
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.936985,
+                    2.007323
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "maxPSI": 61,
+                "State": "Kedah",
+                "Area": " Bakar Arang, Sg. Petani",
+                "readings": "60,60,60,60,60,60,60,60,61,61,60,60,61,64c,68c,68c,75c,93c,77c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 60
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.469699,
+                    5.631469
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "maxPSI": 53,
+                "State": "Negeri Sembilan",
+                "Area": " Nilai",
+                "readings": "49,48,48,48,49,49,50,50,50,48,50,51,52,52,52,52,52,53,53,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 50
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.811376,
+                    2.82169
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "maxPSI": 50,
+                "State": "Pulau Pinang",
+                "Area": " Perai",
+                "readings": "50,50,50,50,50,50,50,50,50,49,48,48,54c,66c,75c,79c,69c,66c,62c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 49
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.386791,
+                    5.391124
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "maxPSI": 51,
+                "State": "Perak",
+                "Area": " S K Jalan Pegoh, Ipoh",
+                "readings": "51,51,51,51,51,51,51,51,50,50,50,49,48,49c,48c,55c,49c,47,48,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 50
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.08016,
+                    4.55331
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "maxPSI": 31,
+                "State": "Wilayah Persekutuan",
+                "Area": " Putrajaya",
+                "readings": "24,24,24,25,24,24,26,26,28,30,31,30,36c,47c,49c,44c,40c,41c,43c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 26
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.681795,
+                    2.931853
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "maxPSI": 39,
+                "State": "Johor",
+                "Area": " Larkin Lama",
+                "readings": "29,30,31,31,32,32,34,35,35,36,37,38,39,39,39,39,39,38,38,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 35
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.735948,
+                    1.494618
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "maxPSI": 34,
+                "State": "Melaka",
+                "Area": " Bandaraya Melaka",
+                "readings": "33,32,30,30,30,30,31,31,31,31,31,31,31,31,31,32,33,33,34,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 31
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.234319,
+                    2.213068
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "maxPSI": 48,
+                "State": "Kelantan",
+                "Area": " SMK Tanjung Chat, Kota Bharu",
+                "readings": "43,43,44,45,45,46,47,47,48,48,48,48,51c,48,48,47,48,48,48,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 46
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.242937,
+                    6.13611
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "maxPSI": 32,
+                "State": "Perlis",
+                "Area": " Kangar",
+                "readings": "32,32,31,31,31,31,31,31,31,31,31,32,34c,33c,32,42c,50c,55c,54c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 31
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.184072,
+                    6.423955
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "maxPSI": 58,
+                "State": "Sarawak",
+                "Area": " ILP Miri",
+                "readings": "39,40,41,43,46,48,50,52,54,54,55,57,-1,57,58,58,58,57,57,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 51
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.042417,
+                    4.494597
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "maxPSI": 25,
+                "State": "Terengganu",
+                "Area": " Kuala Terengganu",
+                "readings": "24,25,25,25,25,24,25,24,24,25,27c,32c,41c,51c,57c,61c,60c,70c,66c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 24
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.120224,
+                    5.307569
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "maxPSI": 65,
+                "State": "Sarawak",
+                "Area": " Miri",
+                "readings": "42,49,53,55,57,58,59,59,60,60,60,61,-1,62,63,64,65,65,65,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 58
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.012203,
+                    4.42416
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "maxPSI": 34,
+                "State": "Selangor",
+                "Area": " Banting",
+                "readings": "28,28,29,29,29,29,29,29,29,29,30,30,34c,36c,31,33,34,35c,37c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 29
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.623005,
+                    2.81699
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "maxPSI": 37,
+                "State": "Selangor",
+                "Area": " Shah Alam",
+                "readings": "35,35,35,35,35,34,34,34,36,36,36,36,36,37c,40c,39c,36,37,37,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 35
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.556176,
+                    3.10472
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "maxPSI": 41,
+                "State": "Perak",
+                "Area": " Kg. Air Putih, Taiping",
+                "readings": "39,38,38,38,38,39,39,40,40,41,41,41,59c,65c,67c,81c,68c,65c,48c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 39
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.679122,
+                    4.898818
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "maxPSI": 35,
+                "State": "Sarawak",
+                "Area": " Sarikei",
+                "readings": "35,35,34,34,33,33,33,33,33,33,33,33,34,34,34,34,34,33,34,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 33
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.523918,
+                    2.131339
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "maxPSI": 34,
+                "State": "Sabah",
+                "Area": " Kota Kinabalu",
+                "readings": "34,34,34,34,34,34,33,32,32,31,30,31,30,34c,33c,30,30,32c,30,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 32
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.043876,
+                    5.893287
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "maxPSI": 51,
+                "State": "Pahang",
+                "Area": " Jerantut",
+                "readings": "47,49,50,51,50,50,50,49,50,50,50,50,49,49,48,48,50c,48,47,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 49
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.348141,
+                    3.97079
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "maxPSI": 30,
+                "State": "Kedah",
+                "Area": " Langkawi",
+                "readings": "30,29,29,29,29,28,28,28,26,26,26,26,35c,40c,42c,51c,54c,57c,68c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 27
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.858477,
+                    6.331585
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "maxPSI": 49,
+                "State": "Terengganu",
+                "Area": " Kemaman",
+                "readings": "41,41,42,42,43,43,44,44,46,47,47,46,56c,62c,57c,54c,48,49,49,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 44
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.432267,
+                    4.265813
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "maxPSI": 51,
+                "State": "Sarawak",
+                "Area": " Bintulu",
+                "readings": "41,40,41,43,45,46,47,50,51,51,51,51,50,50,49,49,49,50,49,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.041214,
+                    3.177106
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "maxPSI": 42,
+                "State": "Terengganu",
+                "Area": " Paka",
+                "readings": "36,36,35,35,36,36,36,36,36,37,39,40,40,41,41,41,41,41,42,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 38
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.434799,
+                    4.598158
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "maxPSI": 39,
+                "State": "Pahang",
+                "Area": " Balok Baru, Kuantan",
+                "readings": "38,38,39,38,37,35,33,32,32,33,32,32,32,33,33,33,33,33,34,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 34
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.382185,
+                    3.960674
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "maxPSI": 40,
+                "State": "Selangor",
+                "Area": " Petaling Jaya",
+                "readings": "37,37,37,37,37,37,38,38,39,40,40,39,39,49c,61c,58c,49c,45c,46c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 38
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.638829,
+                    3.109488
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "maxPSI": 35,
+                "State": "Wilayah Persekutuan",
+                "Area": " Labuan",
+                "readings": "29,29,30,30,31,33,33,33,34,33,34,34,34,34,34,34,38c,34,35,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 32
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.238324,
+                    5.33277
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "maxPSI": 44,
+                "State": "Selangor",
+                "Area": " Kuala Selangor",
+                "readings": "41,40,40,40,40,41,43,43,43,44,44,44,44,44,43,43,43,43,43,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 42
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.258878,
+                    3.32651
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "maxPSI": 26,
+                "State": "Sabah",
+                "Area": " Sandakan",
+                "readings": "25,25,25,24,25,23,23,21,20,20,20,21,22,23,24,28c,26c,31c,26,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 22
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.091087,
+                    5.864477
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "maxPSI": 50,
+                "State": "Kedah",
+                "Area": " Alor Setar",
+                "readings": "48,47,47,46,45,45,46,47,47,49,50,49,49,49,49,49,54c,55c,64c,-1,-1,-1,-1,-1,",
+                "minPSI": 0,
+                "avgPSI": 47
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.346584,
+                    6.137142
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

@@ -1,0 +1,775 @@
+var geoWebCamFloodSG = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "name": "C001",
+                "images": ["C001.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82337068935962,
+                    1.3043810576961077
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "name": "C002",
+                "images": ["C002.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82555568392631,
+                    1.3047356199768279
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "name": "C003",
+                "images": ["C003.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82779299098391,
+                    1.305787994064175
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "name": "C005",
+                "images": ["C005.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82867010640389,
+                    1.306489607763624
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "name": "C006",
+                "images": ["C006.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8306368568307,
+                    1.30547066769995
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "name": "C007",
+                "images": ["C007.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83022846767739,
+                    1.3051154615549763
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "name": "C008",
+                "images": ["C008.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83435118866659,
+                    1.3037732204650991
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "name": "C009",
+                "images": ["C009.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83514208044178,
+                    1.3041433747724747
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "name": "C013",
+                "images": ["C013.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84411338184744,
+                    1.2801641954412448
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "name": "C014",
+                "images": ["C014.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85012350647546,
+                    1.2790027739499055
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "name": "C015",
+                "images": ["C015.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85401888362975,
+                    1.276881278076094
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "name": "C021",
+                "images": ["C021.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7956683017527,
+                    1.3314311301179718
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "name": "C024",
+                "images": ["C024.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80575210136088,
+                    1.3277200685166095
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "name": "C026",
+                "images": ["C026.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8111948934559,
+                    1.3233499653244123
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "name": "C029",
+                "images": ["C029.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81933450515967,
+                    1.3226774522055587
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "name": "C030",
+                "images": ["C030.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8288654096015,
+                    1.3194544922019915
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "name": "C031",
+                "images": ["C031.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83861178130492,
+                    1.3125397689731886
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "name": "C032",
+                "images": ["C032.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8426631379155,
+                    1.3135540605896021
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "name": "C033",
+                "images": ["C033.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85575389543706,
+                    1.306617044356885
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "name": "C037",
+                "images": ["C037.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84425047346606,
+                    1.3182335494477433
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "name": "C038",
+                "images": ["C038.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84373847145045,
+                    1.3186209253806296
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "name": "C040",
+                "images": ["C040.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84909276060426,
+                    1.3157225938950936
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "name": "C042",
+                "images": ["C042.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85022577809625,
+                    1.3182637757690367
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "name": "C043",
+                "images": ["C043.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85244173106642,
+                    1.3228716292873408
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "name": "C044",
+                "images": ["C044.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84986472685367,
+                    1.3257690194113037
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "name": "C050",
+                "images": ["C050.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88242003343476,
+                    1.3322093014847227
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "name": "C051",
+                "images": ["C051.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88469616723525,
+                    1.332696551058745
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "name": "C057",
+                "images": ["C057.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862736015341,
+                    1.3169075795362375
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "name": "C065",
+                "images": ["C065.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84076710711128,
+                    1.3698407507152057
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "name": "C066",
+                "images": ["C066.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83496190021314,
+                    1.3533936081402371
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "name": "E007",
+                "images": ["E007.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92320476010372,
+                    1.3228669184075679
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "name": "E013",
+                "images": ["E013.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94854101337853,
+                    1.3685794073536706
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "name": "E014",
+                "images": ["E014.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.896206894824,
+                    1.3999841649426026
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "name": "E016",
+                "images": ["E016.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89102305583549,
+                    1.3610115786105355
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "name": "E017",
+                "images": ["E017.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88899954402355,
+                    1.3526414519959749
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "name": "E025",
+                "images": ["E025.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78684780202484,
+                    1.427499448523052
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "name": "E026",
+                "images": ["E026.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82418638875649,
+                    1.4418014622889122
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "name": "E027",
+                "images": ["E027.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92317471853345,
+                    1.323034017960574
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "name": "W003",
+                "images": ["W003.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.72034610052734,
+                    1.3446549215342234
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "name": "W004",
+                "images": ["W004.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70830081367016,
+                    1.3308686485705654
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "name": "W005",
+                "images": ["W005.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70805230585717,
+                    1.3636611186389653
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "name": "W006",
+                "images": ["W006.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7557345162158,
+                    1.4130869319960675
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "name": "W007",
+                "images": ["W007.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75669710450008,
+                    1.3866376655908748
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "name": "W014",
+                "images": ["W014.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78929130106677,
+                    1.3335934661746864
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "name": "W016",
+                "images": ["W016.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78995330686551,
+                    1.3339309128178054
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "name": "W019",
+                "images": ["W019.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7989790987667,
+                    1.3015798476593
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "name": "W026",
+                "images": ["W026.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76219660911651,
+                    1.3569760469836711
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "name": "C028",
+                "images": ["C028.jpg"],
+                "type": "#flood_camera"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.80695357255587,
+                    1.3179285730594719
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

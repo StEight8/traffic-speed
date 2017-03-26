@@ -1,0 +1,2477 @@
+var geoTrain_P = [
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "Name": "Harbour Front MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Harbour Front MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82150720114,
+                    1.26547304000178
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "Name": "Pasir Panjang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pasir Panjang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.791456931618,
+                    1.27627233592792
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "Name": "Telok Blangah MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Telok Blangah MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.809870162538,
+                    1.27057771830397
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "Name": "Labrador Park MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Labrador Park MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.803096979438,
+                    1.27240818135051
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "Name": "Tanjong Pagar MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tanjong Pagar MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84568825691,
+                    1.27650540937666
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "Name": "Marina Bay MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marina Bay MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854536175006,
+                    1.27637064675455
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "Name": "Marina Bay MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marina Bay MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855160050238,
+                    1.27584852753541
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "Name": "Haw Par Villa MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Haw Par Villa MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.781846848644,
+                    1.28247603243413
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "Name": "Redhill MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Redhill MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.816878623116,
+                    1.28958895054664
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "Name": "Tiong Bahru MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tiong Bahru MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.826809525811,
+                    1.28624758592438
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "Name": "Clarke Quay MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Clarke Quay MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846640131395,
+                    1.28878548174978
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "Name": "Raffles Place MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Raffles Place MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.851511399121,
+                    1.28422071649056
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "Name": "Outram Park MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Outram Park MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839467141349,
+                    1.2797826452115
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "Name": "Outram Park MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Outram Park MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839116376664,
+                    1.28143032720092
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "Name": "China Town MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "China Town MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843413568996,
+                    1.28431128887101
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "Name": "Bayfront MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bayfront MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859169109172,
+                    1.28206097594265
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "Name": "One-North MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "One-North MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.787514374162,
+                    1.29999632158179
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "Name": "Kent Ridge MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kent Ridge MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.784390455787,
+                    1.29360851693747
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "Name": "Queenstown MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Queenstown MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.806454765839,
+                    1.29397559282855
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "Name": "Commonwealth MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Commonwealth MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.798334358901,
+                    1.30241694592431
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "Name": "Dhoby Ghaut MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dhoby Ghaut MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845501212206,
+                    1.3002201001799
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "Name": "Somerset MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Somerset MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839136829878,
+                    1.30028198734422
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "Name": "City Hall MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "City Hall MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.852652975025,
+                    1.29283191313715
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "Name": "Dhoby Ghaut MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dhoby Ghaut MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.845720119481,
+                    1.29922019330743
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "Name": "Bras Basah MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bras Basah MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85064698055,
+                    1.29694817854323
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "Name": "Dhoby Ghaut MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dhoby Ghaut MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846111982507,
+                    1.29872916485942
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "Name": "Bugis MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bugis MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855825188243,
+                    1.30059119722917
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "Name": "Esplanade MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Esplanade MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855673463416,
+                    1.29323191910666
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "Name": "Nicoll Highway MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Nicoll Highway MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.863764423943,
+                    1.29983583671485
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "Name": "Promenade MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Promenade MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861016615937,
+                    1.29327446706987
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "Name": "Stadium MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Stadium MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875390053058,
+                    1.30287937669344
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "Name": "Clementi MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Clementi MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.765149007709,
+                    1.31524736477768
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "Name": "Dover MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dover MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.778576437341,
+                    1.31144180806287
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "Name": "Buona Vista MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Buona Vista MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.790663407954,
+                    1.30659265364783
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "Name": "Holland Village MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Holland Village MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.796283943888,
+                    1.31220279568511
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "Name": "Buona Vista MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Buona Vista MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.789994077468,
+                    1.30727453499199
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "Name": "Newton MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Newton MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837970059724,
+                    1.31234649066407
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "Name": "Orchard MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Orchard MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.832178557676,
+                    1.30387716502833
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "Name": "Little India MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Little India MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849959838267,
+                    1.30735820578551
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "Name": "Farrer Park MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Farrer Park MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854318562183,
+                    1.31256288586931
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "Name": "Lavender MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lavender MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862890523929,
+                    1.30749122021718
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "Name": "Kallang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kallang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.871368050274,
+                    1.31147760021275
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "Name": "Dakota MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Dakota MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888736591062,
+                    1.3084028957381
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "Name": "Mountbatten MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Mountbatten MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.882493577541,
+                    1.3062742920894
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "Name": "Joo Koon MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Joo Koon MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.677989592666,
+                    1.32776312334548
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "Name": "Farrer Road MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Farrer Road MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.807527006039,
+                    1.31753078826502
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "Name": "Botanic Gardens MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Botanic Gardens MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815078343299,
+                    1.32211388551647
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "Name": "Novena MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Novena MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843898890407,
+                    1.32051585203159
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "Name": "Boon Keng MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Boon Keng MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.861792064333,
+                    1.3195271885626
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "Name": "Aljunied MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Aljunied MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.883013969421,
+                    1.316450202549
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "Name": "Paya Lebar MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Paya Lebar MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892258801163,
+                    1.31737128248614
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "Name": "Paya Lebar MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Paya Lebar MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893143687065,
+                    1.31813934604619
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "Name": "Macpherson MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Macpherson MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890254806437,
+                    1.32661602879716
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "Name": "Eunos MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Eunos MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.903086251752,
+                    1.31979861986519
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "Name": "Kembangan MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kembangan MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912965735543,
+                    1.32102158847482
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "Name": "Bedok MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bedok MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.930141729381,
+                    1.32400414827916
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "Name": "Tanah Merah MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tanah Merah MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.946505941879,
+                    1.32724519418939
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "Name": "Pioneer MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pioneer MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.697483766557,
+                    1.33758549769047
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "Name": "Boon Lay MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Boon Lay MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.706079433394,
+                    1.33860409589804
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "Name": "Jurong East MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jurong East MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.742185270046,
+                    1.33320984615162
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "Name": "Bukit Brown MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Brown MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.829738755751,
+                    1.33376641229811
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "Name": "Braddell MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Braddell MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.846795223013,
+                    1.3403764497872
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "Name": "Toa Payoh MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Toa Payoh MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847581099603,
+                    1.33264526296403
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "Name": "Caldecott MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Caldecott MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839611557402,
+                    1.33785779733283
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "Name": "Woodleigh MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodleigh MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.870742992873,
+                    1.33927606117712
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "Name": "Potong Pasir MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Potong Pasir MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.869199577359,
+                    1.33125989196473
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "Name": "Tai Seng MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tai Seng MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888260948796,
+                    1.33551805621897
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "Name": "Expo MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Expo MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.961596827467,
+                    1.3346435155983
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "Name": "Lakeside MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lakeside MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.720674087735,
+                    1.34423473622056
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "Name": "Chinese Garden MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Chinese Garden MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.732577880837,
+                    1.34242288003004
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "Name": "Bukit Batok MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Batok MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749561711252,
+                    1.34899993283215
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "Name": "Bishan MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bishan MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849328226129,
+                    1.3513157294981
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "Name": "Marymount MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marymount MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.839466960093,
+                    1.34883685738086
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "Name": "Bishan MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bishan MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.848113022892,
+                    1.35084535032116
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "Name": "Lorong Chuan MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Lorong Chuan MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.864146151422,
+                    1.35160366822941
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "Name": "Bartley MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bartley MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87975998013,
+                    1.34282107333912
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "Name": "Serangoon MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Serangoon MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87229642187,
+                    1.35068837682129
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "Name": "Serangoon MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Serangoon MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.873507011783,
+                    1.34949790848318
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "Name": "Simei MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Simei MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.953371491392,
+                    1.34320308359246
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "Name": "Bukit Gombak MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Gombak MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.751820799876,
+                    1.35894777474448
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "Name": "Kovan MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kovan MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885101053168,
+                    1.36011498525311
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "Name": "Tampines MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tampines MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.945162096162,
+                    1.35328829636807
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "Name": "Changi Airport MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Changi Airport MRT",
+                "type": "#airport"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.988524858134,
+                    1.35727836471489
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "Name": "Teck Whye LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Teck Whye LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.753680332585,
+                    1.37667399850676
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "Name": "Pending LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pending LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.771268169809,
+                    1.37614064241004
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "Name": "Ang Mo Kio MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ang Mo Kio MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849530981487,
+                    1.3700388408066
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "Name": "Hougang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Hougang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.892381698265,
+                    1.37144513986382
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "Name": "Pasir Ris MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Pasir Ris MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94926512582,
+                    1.37300806193539
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "Name": "South View LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "South View LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.745293910898,
+                    1.38029337168261
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "Name": "Keat Hong LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Keat Hong LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.749058849245,
+                    1.37860084988581
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "Name": "Choa Chu Kang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Choa Chu Kang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.744314958087,
+                    1.38546025960428
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "Name": "Choa Chu Kang LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Choa Chu Kang LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74453524183,
+                    1.38472509645531
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "Name": "Phoenix LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Phoenix LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.758037262278,
+                    1.37862592839281
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "Name": "Ten Mile Junction LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ten Mile Junction LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.760359792603,
+                    1.38033018602937
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "Name": "Senja LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Senja LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.762369780544,
+                    1.38268577222799
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "Name": "Jelapang LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Jelapang LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764502839132,
+                    1.38670026523712
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "Name": "Bukit Panjang LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bukit Panjang LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.763075962529,
+                    1.37792516108458
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "Name": "Petir LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Petir LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.766671918341,
+                    1.37774966830656
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "Name": "Bangkit LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bangkit LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.772657977175,
+                    1.38001098028658
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "Name": "Segar LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Segar LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.769598940946,
+                    1.38777362264907
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "Name": "Fajar LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Fajar LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.770826336202,
+                    1.38450724603418
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "Name": "Yio Chu Kang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yio Chu Kang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.844965871623,
+                    1.38176822522549
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "Name": "Renjong LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Renjong LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.890413233166,
+                    1.38674682303088
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "Name": "Tongkang LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Tongkang LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.885934688578,
+                    1.38933257773514
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "Name": "Buangkok MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Buangkok MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.893011238312,
+                    1.38266491322475
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "Name": "Bakau LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Bakau LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905521793419,
+                    1.38810806873336
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "Name": "Kangkar LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kangkar LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.902241369868,
+                    1.38401805417832
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "Name": "Ranggung LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Ranggung LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.897465223083,
+                    1.38394342058307
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "Name": "Yew Tee MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yew Tee MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.747432747496,
+                    1.39751446550973
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "Name": "Thanggam LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Thanggam LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875648657086,
+                    1.39744036834052
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "Name": "Fernvale LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Fernvale LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.876251702815,
+                    1.39196383002175
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "Name": "Layar LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Layar LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.880156930493,
+                    1.39208795253076
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "Name": "Compassvale LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Compassvale LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.900551861704,
+                    1.39447476207713
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "Name": "Sengkang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sengkang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.895475584914,
+                    1.39170682720567
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "properties": {
+                "Name": "Rumbia LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Rumbia LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905875606467,
+                    1.39156869782895
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "properties": {
+                "Name": "Cove LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Cove LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.905800068169,
+                    1.39944512956916
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "properties": {
+                "Name": "Kadaloor LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kadaloor LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.916399673513,
+                    1.39964807167491
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "properties": {
+                "Name": "Meridian LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Meridian LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.908984286024,
+                    1.39685976599701
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "properties": {
+                "Name": "Riviera LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Riviera LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.916241109498,
+                    1.39466174175575
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "properties": {
+                "Name": "Coral Edge LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Coral Edge LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912488788682,
+                    1.39399097991169
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "properties": {
+                "Name": "Damai LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Damai LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.908443206619,
+                    1.4053660434692
+                ]
+            }
+        },
+        {
+            "id": 122,
+            "properties": {
+                "Name": "Punggol MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Punggol MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90232820585,
+                    1.40504014721713
+                ]
+            }
+        },
+        {
+            "id": 123,
+            "properties": {
+                "Name": "Oasis LRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Oasis LRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.912669280565,
+                    1.40233101185521
+                ]
+            }
+        },
+        {
+            "id": 124,
+            "properties": {
+                "Name": "Kranji MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Kranji MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.762041667111,
+                    1.42523022359161
+                ]
+            }
+        },
+        {
+            "id": 125,
+            "properties": {
+                "Name": "Khatib MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Khatib MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833125580769,
+                    1.41755645742479
+                ]
+            }
+        },
+        {
+            "id": 126,
+            "properties": {
+                "Name": "Marsiling MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Marsiling MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.774207053299,
+                    1.43255197841874
+                ]
+            }
+        },
+        {
+            "id": 127,
+            "properties": {
+                "Name": "Woodlands MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Woodlands MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786497706963,
+                    1.43697787119702
+                ]
+            }
+        },
+        {
+            "id": 128,
+            "properties": {
+                "Name": "Yishun MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Yishun MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83505799525,
+                    1.42938262161184
+                ]
+            }
+        },
+        {
+            "id": 129,
+            "properties": {
+                "Name": "Admiralty MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Admiralty MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.800969278761,
+                    1.44062148288056
+                ]
+            }
+        },
+        {
+            "id": 130,
+            "properties": {
+                "Name": "Sembawang MRT",
+                "PostalCode": "",
+                "desc": "NA",
+                "Address": "NA",
+                "name": "Sembawang MRT",
+                "type": "#icon"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.820044816795,
+                    1.44909053856248
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
+];

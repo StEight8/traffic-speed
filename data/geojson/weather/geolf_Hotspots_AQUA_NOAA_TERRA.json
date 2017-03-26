@@ -1,0 +1,1197 @@
+var weatherHotspots_ANT = [
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.083000, 2.843000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.135000, 2.850000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.010000, 2.805000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.008000, 2.722000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.315000, 2.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.590000, 2.640000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.948000, 2.629000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.340000, 2.600000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.646000, 2.591000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.985000, 2.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.637000, 2.477000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.380000, 1.795000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.280000, 1.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Borneo", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.290000, 1.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.450000, 25.630000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.130000, 25.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.660000, 25.550000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.920000, 25.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.840000, 25.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.160000, 25.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.080000, 25.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.760000, 25.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.320000, 25.430000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.410000, 25.420000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.480000, 25.420000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.620000, 25.420000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.070000, 25.410000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.310000, 25.410000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.340000, 25.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.580000, 25.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.170000, 25.390000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.210000, 25.390000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.680000, 25.390000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.540000, 25.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.490000, 25.340000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.720000, 25.300000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.470000, 25.260000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.910000, 25.230000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.970000, 25.210000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.720000, 25.200000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.580000, 25.200000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.710000, 25.180000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.640000, 25.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.670000, 25.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.370000, 25.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.870000, 25.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.830000, 24.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 96.470000, 24.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.290000, 21.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.490000, 21.120000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.860000, 20.550000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Myanmar", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 94.970000, 20.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Philippines", "datetime": "20140615073440", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/phil.txt" }, "geometry": { "type": "Point", "coordinates": [ 121.935000, 17.280000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Philippines", "datetime": "20140615073440", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/phil.txt" }, "geometry": { "type": "Point", "coordinates": [ 121.720000, 16.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Philippines", "datetime": "20140615073440", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/phil.txt" }, "geometry": { "type": "Point", "coordinates": [ 121.445000, 15.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 98.700000, 3.170000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 98.830000, 3.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.420000, 2.235000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.490000, 2.145000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.535000, 2.080000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.650000, 1.950000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.548000, 1.762000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.480000, 1.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.620000, 1.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.000000, 1.230000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.150000, -0.140000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.145000, -0.180000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.165000, -0.645000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.270000, -0.640000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.020000, -0.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.670000, -0.850000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.780000, -0.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Sumatra", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.340000, -1.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Thailand", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.925000, 17.023000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Thailand", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.528000, 12.455000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Thailand", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.115000, 8.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 114.040000, 4.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 114.075000, 4.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 109.485000, 1.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.304000, 1.542000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 110.889000, 1.489000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.310000, 1.471000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Borneo", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 109.140000, 1.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Malaysia", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.810000, 5.120000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Malaysia", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.640000, 2.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Malaysia", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.280000, 2.455000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Malaysia", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.065000, 2.020000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.345000, 2.280000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.400000, 2.250000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.505000, 2.150000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.555000, 1.760000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.390000, 0.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.280000, -0.010000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Sumatra", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.070000, -0.770000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.445000, 23.035000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.415000, 22.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.093000, 22.893000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.240000, 22.790000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.455000, 22.715000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.785000, 21.855000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.165000, 21.410000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.995000, 21.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.325000, 20.940000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.230000, 20.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.640000, 20.810000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.940000, 20.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.940000, 20.340000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.225000, 19.760000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.100000, 19.430000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.720000, 19.280000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.420000, 17.820000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.270000, 17.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.110000, 16.905000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.980000, 16.900000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.110000, 16.810000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.230000, 16.750000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.263000, 16.731000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.380000, 16.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.440000, 16.570000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.610000, 16.460000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.550000, 16.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.655000, 16.300000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.045000, 16.135000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.080000, 16.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.067000, 16.057000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.040000, 16.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.050000, 15.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.130000, 15.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.000000, 15.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.587000, 15.737000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.410000, 15.740000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.550000, 15.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.415000, 15.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.470000, 15.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.415000, 15.642000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.502000, 15.453000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.850000, 15.280000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.510000, 15.240000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.475000, 15.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.480000, 14.625000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.458000, 14.086000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.825000, 14.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.520000, 14.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.565000, 14.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.520000, 13.800000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.255000, 13.550000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.120000, 13.380000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.890000, 13.320000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.090000, 13.220000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.090000, 13.159000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.180000, 13.170000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.135000, 13.115000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.085000, 13.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.010000, 12.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.842000, 12.827000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.860000, 12.800000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.900000, 12.800000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.120000, 12.775000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.303000, 12.753000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.080000, 12.750000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.660000, 12.605000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.640000, 12.590000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "TERRA_Thailand", "datetime": "20140615032152", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/terra\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.660000, 12.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 111.400000, -6.910000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 109.040000, -6.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 110.410000, -7.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 110.490000, -7.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.240000, -7.335000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 109.270000, -7.460000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Java", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/java.txt" }, "geometry": { "type": "Point", "coordinates": [ 112.170000, -7.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.860000, 5.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.120000, 4.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.635000, 4.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.525000, 4.080000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.320000, 3.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.180000, 3.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.317000, 3.667000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.040000, 3.545000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Malaysia", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.010000, 3.100000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.600000, 22.810000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.910000, 22.795000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 98.205000, 22.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 98.120000, 22.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 98.530000, 22.480000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 97.870000, 22.340000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Myanmar", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/myan.txt" }, "geometry": { "type": "Point", "coordinates": [ 95.805000, 17.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.567000, 1.758000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.020000, 1.073000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.940000, 1.020000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.630000, 0.110000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.615000, -0.100000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.425000, -0.585000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.660000, -1.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.630000, -1.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.220000, -1.430000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Sumatra", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/suma.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.350000, -3.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.380000, 22.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.527000, 22.600000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.490000, 22.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.070000, 22.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.530000, 22.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.610000, 22.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.830000, 22.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.706000, 22.118000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.640000, 22.120000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.520000, 22.110000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.490000, 22.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.170000, 21.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.950000, 21.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.500000, 21.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.060000, 21.800000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.900000, 21.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.540000, 21.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.460000, 21.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.360000, 21.470000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.235000, 21.450000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.900000, 21.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.720000, 21.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.675000, 21.255000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.820000, 21.250000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.902000, 21.244000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.975000, 21.240000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.950000, 21.230000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.370000, 21.200000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.830000, 21.200000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.877000, 21.157000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.070000, 21.158000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.100000, 21.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.434000, 21.118000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.345000, 21.110000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.315000, 21.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.300000, 21.030000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.420000, 21.000000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.805000, 21.000000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.150000, 20.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.410000, 20.950000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.220000, 20.940000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.242000, 20.922000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.355000, 20.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.120000, 20.920000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.370000, 20.825000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.960000, 20.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.740000, 20.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.570000, 20.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.927000, 20.517000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.970000, 20.510000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.860000, 20.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.900000, 20.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.970000, 19.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.360000, 19.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.205000, 19.815000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.795000, 19.790000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.350000, 19.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.940000, 19.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.610000, 19.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.790000, 19.640000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.340000, 19.410000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.450000, 19.410000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.570000, 19.390000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.510000, 19.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.640000, 19.320000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.630000, 19.285000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.650000, 19.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.680000, 19.110000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.890000, 18.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.780000, 18.770000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.320000, 18.740000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.710000, 18.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.645000, 18.450000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.670000, 18.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.920000, 18.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.080000, 18.260000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.040000, 18.230000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.720000, 18.230000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.050000, 18.190000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.550000, 17.570000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.260000, 17.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.995000, 17.480000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.810000, 17.415000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.710000, 17.380000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.750000, 17.370000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.920000, 17.370000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.110000, 17.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.620000, 17.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.150000, 17.300000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.530000, 17.290000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.837000, 17.172000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.010000, 17.170000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.985000, 17.140000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.260000, 17.080000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.623000, 17.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.230000, 17.050000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.690000, 17.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.780000, 17.010000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.035000, 16.975000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.180000, 16.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.247000, 16.927000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.190000, 16.920000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.113000, 16.897000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.270000, 16.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.760000, 16.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.300000, 16.830000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.345000, 16.830000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.840000, 16.820000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.945000, 16.820000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.670000, 16.780000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.960000, 16.770000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.710000, 16.750000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.790000, 16.748000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.287000, 16.720000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.495000, 16.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.560000, 16.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.918000, 16.688000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.760000, 16.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.840000, 16.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.860000, 16.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.390000, 16.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.900000, 16.627000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.935000, 16.630000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.378000, 16.614000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.935000, 16.600000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.580000, 16.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.170000, 16.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.040000, 16.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.045000, 16.510000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.610000, 16.445000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.930000, 16.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.565000, 16.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.940000, 16.370000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.215000, 16.320000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.560000, 16.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.190000, 16.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.220000, 16.260000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.890000, 16.240000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.592000, 16.203000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.550000, 16.140000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.743000, 16.103000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.890000, 16.080000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.940000, 16.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.130000, 16.046000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.905000, 16.045000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.953000, 16.017000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.910000, 16.010000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.710000, 15.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.180000, 15.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.590000, 15.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.510000, 15.947000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.090000, 15.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.740000, 15.950000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.655000, 15.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.440000, 15.910000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.850000, 15.910000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.560000, 15.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.640000, 15.850000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.537000, 15.823000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.168000, 15.824000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.230000, 15.830000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.060000, 15.820000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.340000, 15.810000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.375000, 15.800000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.350000, 15.780000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.740000, 15.780000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.280000, 15.760000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.100000, 15.760000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.280000, 15.750000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.960000, 15.740000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.565000, 15.735000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.235000, 15.714000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.285000, 15.725000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.530000, 15.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.685000, 15.715000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.340000, 15.702000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.690000, 15.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.605000, 15.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.985000, 15.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.940000, 15.695000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.500000, 15.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.625000, 15.677000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.295000, 15.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.080000, 15.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.240000, 15.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.790000, 15.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.285000, 15.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.370000, 15.620000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.725000, 15.615000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.430000, 15.603000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.925000, 15.590000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.100000, 15.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.540000, 15.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.720000, 15.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.375000, 15.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.110000, 15.570000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.150000, 15.550000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.280000, 15.545000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.720000, 15.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.250000, 15.515000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.017000, 15.508000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.440000, 15.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.400000, 15.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.397000, 15.488000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.740000, 15.490000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.785000, 15.490000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.363000, 15.487000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.600000, 15.470000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.120000, 15.460000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.110000, 15.445000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.050000, 15.430000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.690000, 15.405000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.350000, 15.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.560000, 15.375000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.540000, 15.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.500000, 15.350000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.910000, 15.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.510000, 15.303000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.670000, 15.290000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.580000, 15.290000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.600000, 15.290000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.439000, 15.267000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.550000, 15.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.700000, 15.260000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.300000, 15.250000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.170000, 15.250000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.492000, 15.228000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.360000, 15.223000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.400000, 15.213000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.160000, 15.210000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.225000, 15.205000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.165000, 15.183000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.785000, 15.180000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.753000, 15.167000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.360000, 15.170000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.819000, 15.137000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.578000, 15.148000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.540000, 15.140000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.732000, 15.127000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.760000, 15.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.000000, 15.120000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.810000, 15.110000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.580000, 15.100000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.720000, 15.100000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.020000, 15.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.340000, 15.090000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.980000, 15.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.715000, 15.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.880000, 15.045000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.750000, 15.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.960000, 15.025000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.720000, 15.020000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.267000, 14.983000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.030000, 14.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.150000, 14.970000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.220000, 14.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.820000, 14.965000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.173000, 14.953000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.480000, 14.955000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.795000, 14.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.076000, 14.939000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.197000, 14.940000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.590000, 14.940000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.142000, 14.931000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.860000, 14.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.770000, 14.930000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.338000, 14.908000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.410000, 14.920000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.290000, 14.908000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.680000, 14.900000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.105000, 14.895000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.390000, 14.875000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.315000, 14.870000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.220000, 14.860000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.165000, 14.850000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.510000, 14.830000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.415000, 14.786000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.367000, 14.784000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.585000, 14.780000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.150000, 14.770000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.950000, 14.755000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.680000, 14.740000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.315000, 14.695000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.180000, 14.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.070000, 14.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.350000, 14.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.397000, 14.663000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.090000, 14.660000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.650000, 14.640000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.010000, 14.630000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.065000, 14.620000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.283000, 14.613000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.560000, 14.570000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.535000, 14.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.580000, 14.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.175000, 14.550000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.410000, 14.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.019000, 14.515000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.483000, 14.523000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.280000, 14.530000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.510000, 14.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.360000, 14.500000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.685000, 14.480000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.950000, 14.470000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.635000, 14.450000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.590000, 14.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.730000, 14.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.755000, 14.310000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.080000, 14.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.595000, 14.200000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.010000, 14.210000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.870000, 14.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.100000, 14.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.930000, 14.135000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.180000, 14.100000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.160000, 14.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.950000, 13.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.460000, 13.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.270000, 13.960000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.870000, 13.905000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.420000, 13.900000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.140000, 13.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 100.414000, 13.817000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.870000, 13.790000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.883000, 13.700000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.810000, 13.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.860000, 13.690000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.882000, 13.637000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.815000, 13.620000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.935000, 13.610000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.610000, 13.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.410000, 13.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.315000, 13.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 107.070000, 13.440000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.970000, 13.350000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.100000, 13.350000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.030000, 13.270000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.850000, 13.150000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.940000, 13.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.540000, 12.900000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.500000, 12.890000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.705000, 12.830000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.250000, 12.750000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.770000, 12.730000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.210000, 12.720000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.550000, 12.710000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.650000, 12.680000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.060000, 12.675000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.645000, 12.640000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.795000, 12.630000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.070000, 12.600000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 108.160000, 12.600000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.775000, 12.585000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.300000, 12.580000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.320000, 12.570000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.745000, 12.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.260000, 12.540000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.910000, 12.520000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.350000, 12.510000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.350000, 12.488000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.533000, 12.467000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.790000, 12.430000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.650000, 12.400000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.590000, 12.390000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.623000, 12.377000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.670000, 12.370000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.755000, 12.360000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.735000, 12.340000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.720000, 12.350000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.050000, 12.310000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.030000, 12.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.700000, 12.070000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 104.860000, 12.060000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.670000, 10.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.630000, 10.855000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.640000, 10.820000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 106.670000, 10.650000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.470000, 9.770000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.570000, 9.670000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.720000, 9.280000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 105.150000, 9.170000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "AQUA_Thailand", "datetime": "20140615061901", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/aqua\/indo.txt" }, "geometry": { "type": "Point", "coordinates": [ 99.290000, 8.990000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Borneo", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/kali.txt" }, "geometry": { "type": "Point", "coordinates": [ 109.390000, 1.630000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.200000, 5.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.370000, 4.240000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.534000, 4.102000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.780000, 3.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.440000, 3.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.345000, 3.705000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.130000, 3.560000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.295000, 3.330000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.210000, 3.260000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.190000, 3.160000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.150000, 3.150000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.020000, 3.130000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.335000, 3.040000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 101.510000, 2.980000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 103.200000, 2.840000 ] } }
+,
+{ "type": "Feature", "properties": { "sensor": "NOAA-18_Malaysia", "datetime": "20140615091230", "url": "http:\/\/www.weather.gov.sg\/wip\/pp\/ssops\/noaa18\/mala.txt" }, "geometry": { "type": "Point", "coordinates": [ 102.010000, 2.540000 ] } }
+
+]
+}
+];

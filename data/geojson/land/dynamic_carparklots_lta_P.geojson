@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Harbourfront Centre", "Status": "3", "StatusColor": "green", "Vacancy": "782", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.819944, 1.264615 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Resorts World Sentosa", "Status": "3", "StatusColor": "green", "Vacancy": "1993", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.827424, 1.251434 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sentosa", "Status": "3", "StatusColor": "green", "Vacancy": "902", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.834185, 1.245574 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "VivoCity P2", "Status": "3", "StatusColor": "green", "Vacancy": "711", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.821134, 1.265535 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "VivoCity P3", "Status": "3", "StatusColor": "green", "Vacancy": "1063", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.820194, 1.264205 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Marina Square", "Status": "3", "StatusColor": "green", "Vacancy": "1554", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.857876, 1.291406 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Millenia Singapore", "Status": "3", "StatusColor": "green", "Vacancy": "1201", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.859807, 1.293036 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Singapore Flyer", "Status": "3", "StatusColor": "green", "Vacancy": "268", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.862937, 1.290116 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Suntec City", "Status": "3", "StatusColor": "green", "Vacancy": "2588", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.859717, 1.296206 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Esplanade", "Status": "3", "StatusColor": "green", "Vacancy": "532", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.856176, 1.290126 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "313@Somerset", "Status": "3", "StatusColor": "green", "Vacancy": "134", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.839635, 1.300306 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Centrepoint", "Status": "3", "StatusColor": "green", "Vacancy": "238", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.840275, 1.301527 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Concorde Hotel", "Status": "3", "StatusColor": "green", "Vacancy": "214", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.842425, 1.300757 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Far East Plaza", "Status": "3", "StatusColor": "green", "Vacancy": "443", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.833805, 1.307217 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ION Orchard", "Status": "3", "StatusColor": "green", "Vacancy": "352", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.832184, 1.303797 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandarin Hotel", "Status": "3", "StatusColor": "green", "Vacancy": "254", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.836715, 1.301737 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ngee Ann City", "Status": "3", "StatusColor": "green", "Vacancy": "808", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.834955, 1.302257 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Orchard Point", "Status": "3", "StatusColor": "green", "Vacancy": "135", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.841005, 1.300456 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Plaza Singapura", "Status": "3", "StatusColor": "green", "Vacancy": "458", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.845063, 1.300837 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tang Plaza", "Status": "3", "StatusColor": "green", "Vacancy": "309", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.832865, 1.304797 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Cathay", "Status": "3", "StatusColor": "green", "Vacancy": "48", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.847916, 1.299656 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Heeren", "Status": "3", "StatusColor": "green", "Vacancy": "147", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.837312, 1.302702 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wisma Atria", "Status": "3", "StatusColor": "green", "Vacancy": "317", "desc": "", "type": "#icon" }, "geometry": { "type": "Point", "coordinates": [ 103.833345, 1.303927 ] } }
+
+]
+}
